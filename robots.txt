@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://theironyard.github.io/sitemap.xml 
