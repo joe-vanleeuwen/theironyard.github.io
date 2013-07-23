@@ -9,8 +9,8 @@
   <meta name="author" content="The Iron Yard">
 
   
-  <meta name="description" content=" Blog Archive 2013 foobar
-Jul 23 2013 Recent Posts Foobar ">
+  <meta name="description" content="Blog Archive 2013 foobar
+Jul 23 2013 Recent Posts Foobar GitHub Repos Status updating... @theironyard on GitHub $(document).ready(function(){ if (! &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -105,6 +105,35 @@ Jul 23 2013 Recent Posts Foobar ">
   </ul>
 </section>
 
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/theironyard">@theironyard</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'theironyard',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
 
 
 
@@ -122,6 +151,19 @@ Jul 23 2013 Recent Posts Foobar ">
 
 </footer>
   
+
+<script type="text/javascript">
+      var disqus_shortname = 'theironyard';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
 
 
 
