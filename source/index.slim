@@ -1,0 +1,151 @@
+---
+layout: page
+title: "index"
+date: 2013-07-25 10:47
+comments: false
+sharing: true
+footer: true
+---
+
+.main style="width:100%;"
+  .intro
+    .slider
+      ul
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(http://s3.amazonaws.com/theironyard/slides/large/58/greenville-sunset.jpg?1364917287);"
+
+            .container
+              .slide-margin.span11
+                span.prev Accelerator
+                span.next CoWork
+                .description
+                  a href="/greenville"
+                    | Discover The Upstate
+                    span.ss-navigateright
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(http://s3.amazonaws.com/theironyard/slides/large/59/cowork-home-slider.jpg?1364917288);"
+
+            .container
+              .slide-margin.span11
+                span.prev Upstate SC
+                span.next Events
+                .description
+                  a href="/cowork"
+                    | Collaborate at our CoWorking spaces.
+                    span.ss-navigateright
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(http://s3.amazonaws.com/theironyard/slides/large/60/indie-craft-home-slider-2.jpg?1364917289);"
+
+            .container
+              .slide-margin.span11
+                span.prev CoWork
+                span.next Accelerator
+                .description
+                  a href="/events"
+                    | Find inspiration at our Events.
+                    span.ss-navigateright
+
+        li.animate-out
+          .slide 
+            .bg style="background-image: url(http://s3.amazonaws.com/theironyard/slides/large/57/banner3.jpg?1369073985);"
+
+            .container
+              .slide-margin.span11
+                span.prev Events
+                span.next Upstate SC
+                .description
+                  a href="/accelerator"
+                    | Launch your company in the Accelerator.
+                    span.ss-navigateright                    
+
+  .homepage-special
+    .container
+      .icon-home
+        a.icon-accelerator href="/accelerator"
+        h5
+          a href="/accelerator" ACCELERATOR
+        p We help build strong, sustainable tech businesses.
+      .icon-home
+        a.icon-education href="/education"
+        h5 
+          a href="/education" EDUCATION
+        p Education needs a kick in the pants, and we're using tech as a boot.
+      .icon-home
+        a.icon-cowork href="/cowork"
+        h5
+          a href="/cowork" COWORK
+        p Working space for designers, developers, writers and entrepreneurs.
+      .icon-home
+        a.icon-events href="/events"
+        h5
+          a href="/events" EVENTS
+        p We help produce some of the best events in the southeast.
+      
+
+  .container
+    .article.span12
+      .home-card
+        .home-img style="background-image:url('http://s3.amazonaws.com/theironyard/new-photos/medium/21/Screen_Shot_2013-04-23_at_4.05.39_PM.png');"
+        .home-p
+          h5
+            a href="https://vimeo.com/64245253" target="_blank" Meet Jennifer, a student in the Academy.
+          .post-description There are lots of educational programs out there, and Jen explains why she chose to come to ours.
+
+      .home-card
+        .home-img style="background-image:url('https://theironyard.s3.amazonaws.com/uploads/image_asset/storage/49/health-tech-accelerator-doctor-ipad.jpg');"
+        .home-p
+          h5
+            a href="/accelerator"We need tech that puts the care back in healthcare.
+          .post-description From wellness apps to enterprise software, we're helping startups build the future of health.
+
+      .home-card
+        .home-img style="background-image:url('http://s3.amazonaws.com/theironyard/new-photos/original/53/banner7.jpg');"
+        .home-p
+          h5
+            a href="/education/academy"Learn to build production-quality web apps.
+          .post-description Looking to switch careers? Want to diversify your skill set? We're building a programming school in the heart of the Southeast. 
+
+      / - if @is_home
+      /   - blog_feed.first(3).each do |post|
+      /     .home-card
+      /       .home-header.wordpress 
+      /         a href="http://blog.theironyard.com" FROM THE BLOG
+      /         span.ss-navigateright"
+      /       .home-p
+      /         .article-date = post.date.strftime("%m/%d/%Y")
+      /         h5
+      /           a href="#{post.link}" = post.title
+      /         .post-description
+      /           == post.description
+      
+      /   - @posts.first(3).each do |post|
+      /     .home-card
+      /       .home-header.tumblr
+      /         a href="http://blog.theironyard.com" DAILY NEWS
+      /         span.ss-navigateright"
+      /       - if post['type'] == 'link'
+      /         .home-p
+      /           .article-date = Date.parse(post['date']).strftime("%m/%d/%Y")
+      /           h5
+      /             a href="#{post['url']}" = post['title']
+      /           .post-description
+      /             == truncate(post['description'], :length => 350, :omission => '...')
+
+javascript:
+  $('document').ready(function(){
+    sequence = $(".slider").sequence({
+      autoPlay: true,
+      autoPlayDelay: 3000,
+      moveActiveFrameToTop: true,
+      navigationSkipThreshold: 1000,
+      fadeFrameWhenSkipped: false,
+      prevButton: $('.prev'),
+      nextButton: $('.next'),
+      animateStartingFrameIn: true
+    }).data("sequence")
+  });
