@@ -1,0 +1,67 @@
+.main style="width:100%;"
+  .intro style="background-color: #b76cb6;"
+    | {% if page.image %}
+    .short-slide style="background-image: url({{page.image}});"
+    | {% endif %}
+    .container
+      .row
+        .intro-content
+          .triangle style="border-top: 20px solid #b76cb6;"
+          h1
+            a.ss-left.back href="/blog"
+            | The Blog
+
+          .secondary
+            ul.sub-nav
+              | {% if page.previous.url %}
+              li
+                span.ss-navigateleft style="padding-right: 8px;"
+                a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"  
+                  | {{page.previous.title}}
+              | {% endif %}
+              | {% if page.next.url %}
+              li style="margin-left: 40px;" 
+                a href="{{page.next.url}}" title="Next Post: {{page.next.title}}" 
+                  | {{page.next.title}}
+                span.ss-navigateright style="padding-left: 8px;"
+              | {% endif %}
+
+  .container
+    .content
+      .article.row
+        div.span8
+          .article-content
+            h2 
+              | {{page.title}}
+            | {% unless page.meta == false %}
+            p.meta
+              | Posted {% include post/date.html %}{{ time }}
+              | {% if site.disqus_short_name and page.comments != false and post.comments != false and site.disqus_show_comment_count == true %}
+              | {% endif %}
+              | {% include post/categories.html %}
+            | {% endunless %}
+
+            | {{content}}
+            section
+              p class="meta"
+                | {% if page.previous.url %}
+                a class="basic-alignment left" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}" &laquo; {{page.previous.title}}
+                | {% endif %}
+                | {% if page.next.url %}
+                a class="basic-alignment right" href="{{page.next.url}}" title="Next Post: {{page.next.title}}" {{page.next.title}} &raquo;
+                | {% endif %}
+
+            | {% if site.disqus_short_name and page.comments == true %}
+            section
+              h4 Comments
+              div id="disqus_thread" aria-live="polite"
+                | {% include post/disqus_thread.html %}
+            | {% endif %}
+
+        .article-sidebar.span4
+          .article-sidebar-content
+            | {% if site.blog_index_asides.size %}
+            |   {% include_array blog_index_asides %}
+            | {% else %}
+            |   {% include_array default_asides %}
+            | {% endif %}

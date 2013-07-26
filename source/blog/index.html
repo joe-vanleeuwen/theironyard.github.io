@@ -1,29 +1,57 @@
 ---
-layout: default
+layout: blog
+color: "#b76cb6"
 ---
-
-<div class="blog-index">
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
-    </article>
-  {% endfor %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
-    {% endif %}
-    <a href="/blog/archives">Blog Archives</a>
-    {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
-    {% endif %}
+<div class="main">
+  <div class="intro" style="background-color: {{page.color}};">
+    <div class="container">
+        <div class="row">
+        <div class="intro-content">
+          <div class="triangle" style="border-top: 20px solid {{page.color}};"></div>
+          <h1>The Blog</h1>
+        </div>
+      </div>
+    </div>
   </div>
+
+  <div class="container"><div class="content"><div class="article row"><div class=" span8 "><div class="article-content">
+    {% assign index = true %}
+    {% for post in paginator.posts %}
+    {% assign content = post.content %}
+      <div class="article-content">
+        <h2>{{post.title}}</h2>
+        {% unless page.meta == false %}
+          <p class="meta">
+            {% include post/date.html %}{{ time }}
+            {% if site.disqus_short_name and page.comments != false and post.comments != false and site.disqus_show_comment_count == true %}
+             | <a href="{% if index %}{{ root_url }}{{ post.url }}{% endif %}#disqus_thread">Comments</a>
+            {% endif %}
+          </p>
+        {% endunless %}
+        <div class="entry-content">{{ content | excerpt }}</div>
+        {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
+        {% if excerpted == 'true' %}
+          <div>
+            <a rel="full-article" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
+          </div>
+        {% endif %}
+      </div>
+    {% endfor %}
+    <div class="pagination">
+      {% if paginator.next_page %}
+        <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
+      {% endif %}
+      {% if paginator.previous_page %}
+      <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
+      {% endif %}
+    </div>
+  </div></div><div class="article-sidebar span4"><div class="article-sidebar-content">
+    <div class="article-sidebar-content">
+            {% if site.blog_index_asides.size %}
+              {% include_array blog_index_asides %}
+            {% else %}
+              {% include_array default_asides %}
+            {% endif %}
+          </div>
+  </div></div></div></div></div>
 </div>
-<aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>

@@ -19,14 +19,15 @@
               li
                 a href="{{link.slug}}" {{ link.name }} 
               | {% endfor %}{% endif %}
-
-.article.row
-  div class="{% if page.sidebar %} span8 {% else %} span12 {% endif %}"
-    .article-content
-      | {{content}}
-  | {% if page.sidebar %}
-  .article-sidebar.span4
-    .article-sidebar-content
-      | {{ page.sidebar | markdownify }}
-  | {% endif %}
-    
+  .container
+    .content
+      .article.row
+        div class="{% if page.sidebar %} span8 {% else %} span12 {% endif %}"
+          .article-content
+            | {{content}}
+        | {% if page.sidebar %}
+        .article-sidebar.span4
+          .article-sidebar-content
+            | {{ page.sidebar | markdownify }}
+        | {% endif %}
+        
