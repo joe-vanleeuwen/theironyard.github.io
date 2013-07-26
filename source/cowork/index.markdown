@@ -2,9 +2,6 @@
 layout: page
 title: "cowork"
 date: 2013-07-25 13:05
-comments: true
-sharing: true
-footer: true
 color: "#D2B42A"
 image: "http://s3.amazonaws.com/theironyard/slides/large/23/cowork-banner.jpg?1356719551"
 sub_nav:
