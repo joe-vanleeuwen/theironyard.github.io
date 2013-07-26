@@ -2,30 +2,38 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://theironyard.github.io/blog/2013/07/23/foobar/</loc>
-        <lastmod>2013-07-25T14:30:33-04:00</lastmod>
+        <lastmod>2013-07-26T15:32:33-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.github.io/blog/2013/07/26/who-cares/</loc>
+        <lastmod>2013-07-26T15:32:33-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theironyard.github.io/blog/2013/07/26/who-cares-2/</loc>
+        <lastmod>2013-07-26T15:32:33-04:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.github.io/blog/archives/</loc>
-        <lastmod>2013-07-25T14:32:38-04:00</lastmod>
+        <lastmod>2013-07-26T14:25:23-04:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.github.io/blog/</loc>
-        <lastmod>2013-07-25T14:30:33-04:00</lastmod>
+        <lastmod>2013-07-26T15:30:21-04:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.github.io/cowork/</loc>
-        <lastmod>2013-07-26T12:18:13-04:00</lastmod>
+        <lastmod>2013-07-26T12:44:10-04:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.github.io/education/</loc>
-        <lastmod>2013-07-26T12:18:26-04:00</lastmod>
+        <lastmod>2013-07-26T12:44:10-04:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.github.io/</loc>
-        <lastmod>2013-07-25T14:32:28-04:00</lastmod>
+        <lastmod>2013-07-26T12:44:10-04:00</lastmod>
     </url>
     <url>
         <loc>http://theironyard.github.io/robots.txt</loc>
-        <lastmod>2013-07-23T14:53:38-04:00</lastmod>
+        <lastmod>2013-07-26T12:43:21-04:00</lastmod>
     </url>
 </urlset>
