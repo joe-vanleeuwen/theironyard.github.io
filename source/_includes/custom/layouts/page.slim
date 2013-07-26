@@ -9,8 +9,6 @@
           h1
             | {% if page.parent_url %}
             a.ss-left.back href="{{page.parent_url}}"
-            | {% else %}
-            a.ss-left.back href="/"
             | {% endif %}
 
             | {{page.title}}

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "education"
+title: "Education"
 date: 2013-07-25 13:05
 color: "#CE822C"
 image: "/images/education/banner.jpg"
@@ -11,7 +11,7 @@ sub_nav:
     slug: "kids"
 ---
 
-### Education&nbsp;needs a kick in the pants, and we're using tech as a boot.
+### Education needs a kick in the pants, and we're using tech as a boot.
 
 Looking to switch careers? Want your kids to learn code? Check out our programs below.
 
