@@ -1,0 +1,34 @@
+.main style="width:100%;"
+  .intro style="background-color:{{page.color}};"
+    .short-slide style="background-image: url({{page.image}});"
+
+    .container
+      .row
+        .intro-content
+          .triangle style="border-top: 20px solid {{page.color}};"
+          h1
+            | {% if page.parent_url %}
+            a.ss-left.back href="{{page.parent_url}}"
+            | {% else %}
+            a.ss-left.back href="/"
+            | {% endif %}
+
+            | {{page.title}}
+
+          .secondary
+            ul.sub-nav 
+              | {% if page.sub_nav %}{% for link in page.sub_nav %}
+              li
+                a href="{{link.slug}}" {{ link.name }} 
+              | {% endfor %}{% endif %}
+
+.article.row
+  div class="{% if page.sidebar %} span8 {% else %} span12 {% endif %}"
+    .article-content
+      | {{content}}
+  | {% if page.sidebar %}
+  .article-sidebar.span4
+    .article-sidebar-content
+      | {{ page.sidebar | markdownify }}
+  | {% endif %}
+    

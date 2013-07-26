@@ -1,4 +1,4 @@
-.header style="background-color: rgba(0,0,0,0.2);"
+.header style="background-color: {% if page.color %} {{page.color}} {% else %} rgba(0,0,0,0.2) {% endif %};"
   .container
     a href="/"
       .logo
