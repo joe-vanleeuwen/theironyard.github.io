@@ -13,6 +13,11 @@
 
             | {{page.title}}
 
+          | {% if page.description %}
+          .description style="padding-bottom: 20px" 
+            | {{page.description}}
+          | {% endif %}
+
           .secondary
             ul.sub-nav 
               | {% if page.sub_nav %}{% for link in page.sub_nav %}
