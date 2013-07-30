@@ -1,6 +1,8 @@
 .main style="width:100%;"
   .intro style="background-color:{{page.color}};"
+    | {% if page.image %}
     .short-slide style="background-image: url({{page.image}});"
+    | {% endif %}
 
     .container
       .row
