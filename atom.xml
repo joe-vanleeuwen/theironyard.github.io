@@ -4,7 +4,7 @@
   <title><![CDATA[The Iron Yard]]></title>
   <link href="http://theironyard.github.io/atom.xml" rel="self"/>
   <link href="http://theironyard.github.io/"/>
-  <updated>2013-07-26T15:36:48-04:00</updated>
+  <updated>2013-07-30T13:56:13-04:00</updated>
   <id>http://theironyard.github.io/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[I love chese]]></title>
+    <link href="http://theironyard.github.io/blog/2013/07/30/i-love-chese/"/>
+    <updated>2013-07-30T13:54:00-04:00</updated>
+    <id>http://theironyard.github.io/blog/2013/07/30/i-love-chese</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Who Cares, I Don't]]></title>
