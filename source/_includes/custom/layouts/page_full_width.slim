@@ -1,0 +1,29 @@
+.main style="width:100%;"
+  .intro style="background-color:{{page.color}};"
+    .short-slide style="background-image: url({{page.image}});"
+
+    .container
+      .row
+        .intro-content
+          .triangle style="border-top: 20px solid {{page.color}};"
+          h1
+            | {% if page.parent_url %}
+            a.ss-left.back href="{{page.parent_url}}"
+            | {% endif %}
+
+            | {{page.title}}
+
+          | {% if page.description %}
+          .description style="padding-bottom: 20px" 
+            | {{page.description}}
+          | {% endif %}
+
+          .secondary
+            ul.sub-nav 
+              | {% if page.sub_nav %}{% for link in page.sub_nav %}
+              li
+                a href="{{link.slug}}" {{ link.name }} 
+              | {% endfor %}{% endif %}
+  | {{content}}
+
+        
