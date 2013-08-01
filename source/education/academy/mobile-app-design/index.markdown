@@ -8,4 +8,6 @@ sharing: true
 footer: true
 ---
 
-contnet
+content
+
+content
