@@ -8,53 +8,72 @@ sharing: true
 footer: true
 ---
 
-### ![Students discussing the Scratch programming language at CoderDojo](http://theironyard.com/source/images/education/labs/build-a-website.jpg)
-
-### Video Games Built from Scratch
-
-In the video game module, students learn a&nbsp;visual programming language called&nbsp;[Scratch](http://scratch.mit.edu/) (developed by MIT). Kids learn programming fundamentals and video game basics, building their very own video game in the first few nights of class.
+<img src="/images/education/labs/build-a-website.jpg" style="border-radius: 3px;">
 
 ### Website Basics: HTML and CSS
 
-In the website module, students learn the internet fundamentals, how the browser works, and the basics of&nbsp;how to build something for the web. While gaining a working knowledge of both markup and CSS, kids will craft their very own website. (You'll have to print it out to put it on the fridge, mom and dad.)
+In our after school website class, students learn internet fundamentals, how the browser works, and the basics of building things for the web. While gaining a working knowledge of both markup and CSS, kids will craft their very own website. (You'll have to print it out to put it on the fridge, mom and dad.)
+
+---
+
+### 2013 Greenville Schedule
+
+<a href="#" class="button"> September 10th - October 15th - sign up!</a>  
+
+<a href="#" class="button"> November 5th - December 10th - sign up!</a>
+
+### 2013 Spartanburg Schedule
+
+<a href="#" class="button"> September 10th - October 15th - sign up!</a>  
+
+<a href="#" class="button"> November 5th - December 10th - sign up!</a>
+
+---
+
+## FAQ
+
+#### My child is younger than 13. Is there any way he/she can take the class?
+
+If your child has completed CoderDojo Scratch, CoderDojo Electronics, or both, they may take this course. We don't accept students younger than 8 years old.
+
+#### I registered interest in a full class. How will I know if my child gets in?
+
+If a student in a full class drops out before the course starts, we will give their spot to those who registered interest on a first-come-first serve basis. 
+
+#### Do I need to sign any legal paperwork in order for my child to take the class? 
+
+We require every student to have a waiver/release form signed by a parent or guardian. You will recieve a link to this form when you sign up for a ticket. 
 
 {% sidebar %}
 
 ### Ready to learn?
 
-To sign up for a class, fill out our registration form for the location you're interested in. If classes are full you'll be notified and put on a waiting list.
+To sign up for a class, check our schedule and reserve a ticket. If the class is full, you can sign up for another session or 'register your interest' and we'll add you to the waitlist. 
 
-All classes meet once per week for 8 weeks.
+---
 
-* * *
+#### Greenville class details
 
-#### Spartanburg - Mondays @ 6:30pm
+**Day**: Tuesdays  
+**Time**: 4:30-5:30pm  
+**Location**: The NEXT Center  
+**Address**: 411 University Ridge, Suite 220  
+**Duration**: 6 weeks  
+**Ages**: 13 - 18 *(or CoderDojo graduate)*  
+**Cost**: $35/class
 
- Class held @ The Mill
+#### Spartanburg class details
 
- 151 S. Daniel Morgan
+**Day**: Tuesdays  
+**Time**: 4:30-5:30pm  
+**Location**: The NEXT Center  
+**Address**: 411 University Ridge, Suite 220  
+**Duration**: 6 weeks  
+**Ages**: 13 - 18 *(or CoderDojo graduate)*  
+**Cost**: $35/class
 
- **Class start date: June 10th**
+---
 
-[Join the Waitlist!](http://www.theironyard.com/kids-sign-up-spartanburg)
-
-* * *
-
-#### Greenville - Tuesdays @ 6pm
-
- Class held @ The NEXT Center
-
- 411 University Ridge
-
- **Class currently in session**
-
-[Join The Waitlist!](http://www.theironyard.com/kids-sign-up)
-
-<!-- 
-
-Dates for **West Greenville** classes are still being scheduled.
-  -->
-
-* * *
+Questions? [Send us an email](mailto:labs@theironyard.com?subject=I have a question about the website class) and we'll be happy to help.
 
 {% endsidebar %}
