@@ -372,6 +372,12 @@ hr {
     font-size: 54px;
     line-height: 64px;
     font-weight: 600;
+
+    .icon {
+      padding-right: 15px;
+      margin-left: -60px;
+      font-size: 35px;
+    }
   }
 
   .description {
@@ -1562,6 +1568,19 @@ li {
       background: none;
     }
 
+    .header {
+      height: 72px;
+
+      .sites-list {
+        padding-bottom: 10px;
+
+        li {
+          display: inline-block;
+          height: 21px;
+        }
+      }
+    }
+
     .intro {
       .short-slide {
         height: 115px;
@@ -1602,17 +1621,41 @@ li {
         min-height: 0;
         padding: 3%;
       }
+      .description {
+        font-size: 18px;
+        line-height: 28px;
+      }
       .intro-content {
-        padding: 1px 0px 10px 0;
+        padding: 1px 10px 0px 10px;
         h1 {
-          font-size: 36px;
-          line-height: 40px;
+          font-size: 30px;
+          line-height: 35px;
           margin: 0;
           .back {
             font-size: 20px;
             padding-right: 7px;
             top: -3px;
           }
+        }
+
+        .title {
+          font-size: 25px;
+
+          .icon {
+            margin-left: 0px;
+            font-size: 28px;
+          } 
+        }
+      }
+
+      &.secondary-intro {
+        margin-bottom: 40px;
+
+        .title-pad {
+          padding: 5px 0px 15px 0px;
+        }
+        .title {
+          line-height: 45px;
         }
       }
     }
@@ -1633,6 +1676,23 @@ li {
           }
         }
       }
+    }
+
+    h2 {
+      font-size: 25px;
+    }
+
+    h3 {
+      font-size: 22px;
+      line-height: 30px;
+    }
+
+    h4 {
+      font-size: 20px;
+    }
+
+    .button {
+      font-size: 17px;
     }
 
     .slider {
