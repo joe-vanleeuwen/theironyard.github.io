@@ -15,7 +15,7 @@ footer: true
 In our after school website class, students learn internet fundamentals, how the browser works, and the basics of building things for the web. While gaining a working knowledge of both markup and CSS, kids will craft their very own website. (You'll have to print it out to put it on the fridge, mom and dad.)
 
 ---
-
+<a id="schedule"></a>
 ### 2013 Greenville Schedule
 
 <a href="#" class="button"> September 10th - October 15th - sign up!</a>  
@@ -29,7 +29,7 @@ In our after school website class, students learn internet fundamentals, how the
 <a href="#" class="button"> November 5th - December 10th - sign up!</a>
 
 ---
-
+<a id="faq"></a>
 ## FAQ
 
 #### My child is younger than 13. Is there any way he/she can take the class?
@@ -48,7 +48,7 @@ We require every student to have a waiver/release form signed by a parent or gua
 
 ### Ready to learn?
 
-To sign up for a class, check our schedule and reserve a ticket. If the class is full, you can sign up for another session or 'register your interest' and we'll add you to the waitlist. 
+To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If the class is full, you can sign up for another session or 'register your interest' and we'll add you to the waitlist. 
 
 ---
 
@@ -74,6 +74,6 @@ To sign up for a class, check our schedule and reserve a ticket. If the class is
 
 ---
 
-Questions? [Send us an email](mailto:labs@theironyard.com?subject=I have a question about the website class) and we'll be happy to help.
+Questions? [Read our FAQ](#faq) or [send us an email](mailto:labs@theironyard.com?subject=I have a question about the website class).
 
 {% endsidebar %}
