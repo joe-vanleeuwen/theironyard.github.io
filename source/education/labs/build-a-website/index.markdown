@@ -8,7 +8,7 @@ sharing: true
 footer: true
 ---
 
-### ![Students discussing the Scratch programming language at CoderDojo](https://theironyard.s3.amazonaws.com/uploads/image_asset/storage/25/scratch-1-edit.jpg)
+### ![Students discussing the Scratch programming language at CoderDojo](http://theironyard.com/source/images/education/labs/build-a-website.jpg)
 
 ### Video Games Built from Scratch
 
