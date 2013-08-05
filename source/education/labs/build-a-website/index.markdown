@@ -18,15 +18,15 @@ In our after school website class, students learn internet fundamentals, how the
 <a id="schedule"></a>
 ### 2013 Greenville Schedule
 
-<a href="#" class="button"> September 10th - October 15th - sign up!</a>  
+<a href="#" class="button"> September 10th - October 15th</a>  
 
-<a href="#" class="button"> November 5th - December 10th - sign up!</a>
+<a href="#" class="button"> November 5th - December 10th</a>
 
 ### 2013 Spartanburg Schedule
 
-<a href="#" class="button"> September 10th - October 15th - sign up!</a>  
+<a href="#" class="button"> September 10th - October 15th</a>  
 
-<a href="#" class="button"> November 5th - December 10th - sign up!</a>
+<a href="#" class="button"> November 5th - December 10th</a>
 
 ---
 <a id="faq"></a>
