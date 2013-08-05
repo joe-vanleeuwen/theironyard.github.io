@@ -1068,7 +1068,7 @@ text-indent: 0;
 //  ACADEMY PAGES 
 
 .title-pad {
-  padding: 20px 0;
+  padding: 30px 0px 15px 0px;
 }
 
 .academy h3 {
@@ -1655,6 +1655,10 @@ li {
 
         .title-pad {
           padding: 5px 0px 15px 0px;
+
+          &.first {
+            padding: 18px 0 15px;
+          }
         }
         .title {
           line-height: 45px;
