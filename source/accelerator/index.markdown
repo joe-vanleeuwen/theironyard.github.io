@@ -2,12 +2,13 @@
 layout: page
 title: "Accelerator"
 date: 2013-08-05 22:48
-comments: true
-sharing: true
+color: "#349FAD"
+image: "/images/accelerator/accelerator-banner.jpg"
+description: "Accelerate means so much more than trendy technology and giant exits."
 footer: true
 ---
 
-### Accelerate</em> means so much more than trendy technology and giant exits.
+### Accelerate means so much more than trendy technology and giant exits.
 
 We’re interested in building strong, sustainable businesses that add real value to customer’s lives.
 
