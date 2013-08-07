@@ -4,10 +4,11 @@ title: "Cowork"
 date: 2013-07-25 13:05
 color: "#D2B42A"
 image: "http://s3.amazonaws.com/theironyard/slides/large/23/cowork-banner.jpg?1356719551"
-parent_url: "/source"
+description: "Spaces with 100% independent collaboration."
+parent_url: "/"
 sub_nav:
   - name: "Apply to join CoWork!"
-    slug: "join-cowork"
+    slug: "join"
 ---
 
 ![People working at The Iron Yard](https://theironyard.s3.amazonaws.com/uploads/image_asset/storage/225/cowork-greenville-railside-600.jpg)
