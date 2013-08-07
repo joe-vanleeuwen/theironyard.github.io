@@ -1,5 +1,8 @@
 @import "compass";
 
+$bg_color: #fff;
+$homepage-special: #EBEBEB;
+$home-card: #EBEBEB;
 $light_grey: #cfdbd1;
 $slate: #39474e;
 $dark_slate: #202f37;
@@ -26,8 +29,6 @@ body {
   padding: 0;
 }
 
-
-
 img {
   max-width: 100%;
   height: auto;
@@ -49,7 +50,7 @@ ul.breadcrumbs {
 // LOW LEVEL STRUCTURE!
 //
 body {
-  background: #e4f1e6;
+  background: $slate;
 
   @media (max-width: 979px) {
     padding: 0;
@@ -62,12 +63,21 @@ body {
   max-width: 960px;
   width: 100%;
 
-  &.fancy-container {
-    background: #dde6dd;
+  &.standard-container {
+    background: #e5e5e5;
     max-width: none;
+    padding-top: 10px;
+  }
+
+  &.fancy-container {
+    background: #c9c9c9;
+    max-width: none;
+    padding-top: 10px;
+    padding-bottom: 13px;
+
 
     .article {
-      margin-top: 10px;
+      margin-top: 0px;
       padding-top: 40px;
     }
   }
@@ -249,7 +259,7 @@ hr {
 }
 
 .main {
-  background: #e4f1e6;
+  background: $bg_color;
 }
 
 .article .article-content .curriculum-list {
@@ -364,7 +374,7 @@ hr {
 // ARTICLE STYLES!
 //
 .article {
-  padding-bottom: 30px;
+  padding-bottom: 13px;
   text-align: center;
   margin-top: 2%;
   // clear: both;
@@ -1236,7 +1246,7 @@ li {
   }
 
 .homepage-special {
-  background: #dde6dd;
+  background: $homepage-special;
   padding: 30px 2% 36px 2%  ;
   text-align: center;
   .icon-home {
@@ -1300,9 +1310,8 @@ li {
   width: 300px;
   margin: 10px;
   vertical-align: top;
-  background-color: #f2f8f3;
+  background-color: $home-card;
   @include border-radius(3px);
-  @include box-shadow(0 1px 5px rgba(#000,0.1));
   display: inline-block;
   text-align: left;
   h5 {
@@ -1566,8 +1575,16 @@ li {
           margin-left: 0;
           display: inline-block;
           vertical-align: top;
-        }
+        } 
       }
+    }
+
+    .container.standard-container {
+      padding-top: 30px;
+    }
+
+     .container.fancy-container {
+      padding-top: 0px;
     }
 
     .slider {
@@ -1617,7 +1634,7 @@ li {
       }
 
       &.secondary-intro {
-        margin-bottom: 40px;
+        margin-bottom: 0px;
 
         .title-pad {
           padding: 5px 0px 15px 0px;
