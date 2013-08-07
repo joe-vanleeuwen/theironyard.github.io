@@ -1,8 +1,8 @@
 @import "compass";
 
 $bg_color: #fff;
-$homepage-special: #EBEBEB;
-$home-card: #EBEBEB;
+$homepage-special: #eeeeee;
+$home-card: #eeeeee;
 $light_grey: #cfdbd1;
 $slate: #39474e;
 $dark_slate: #202f37;
@@ -64,13 +64,13 @@ body {
   width: 100%;
 
   &.standard-container {
-    background: #e5e5e5;
+    background: #eeeeee;
     max-width: none;
     padding-top: 10px;
   }
 
   &.fancy-container {
-    background: #c9c9c9;
+    background: #dbdbdb;
     max-width: none;
     padding-top: 10px;
     padding-bottom: 13px;
