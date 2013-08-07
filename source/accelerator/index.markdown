@@ -6,6 +6,12 @@ color: "#349FAD"
 image: "/images/accelerator/accelerator-banner.jpg"
 description: "Accelerate means so much more than trendy technology and giant exits."
 footer: true
+parent_url: "/"
+sub_nav:
+  - name: "Tech accelerator"
+    slug: "tech-accelerator"
+  - name: "Digital health accelerator"
+    slug: "digital-health-accelerator"
 ---
 
 #### We’re interested in building strong, sustainable businesses that add real value to customer’s lives.
