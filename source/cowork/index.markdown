@@ -4,6 +4,7 @@ title: "Cowork"
 date: 2013-07-25 13:05
 color: "#D2B42A"
 image: "http://s3.amazonaws.com/theironyard/slides/large/23/cowork-banner.jpg?1356719551"
+parent_url: "/source"
 sub_nav:
   - name: "Apply to join CoWork!"
     slug: "join-cowork"
