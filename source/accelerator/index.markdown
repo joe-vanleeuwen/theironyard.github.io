@@ -8,23 +8,19 @@ description: "Accelerate means so much more than trendy technology and giant exi
 footer: true
 parent_url: "/"
 sub_nav:
-  - name: "Tech accelerator"
-    slug: "tech-accelerator"
-  - name: "Digital health accelerator"
-    slug: "digital-health-accelerator"
+  - name: "Tech program"
+    slug: "tech-program"
+  - name: "Digital health program"
+    slug: "digital-health-program"
 ---
 
 #### We’re interested in building strong, sustainable businesses that add real value to customer’s lives.
 
 Speaking the same language? We’d love for you to join us.Whether your goal is a Series A round, building a team and bootstrapping, or utilizing Kickstarter, we have a place for you.
 
-We run two programs a year, an open tech program in the spring, and a digital health program in the late summer/fall. 
+We run two programs a year, an [open tech program](/accelerator/tech-program) in the spring, and a [digital health program](/accelerator/digital-health-program) in the late summer/fall. 
 
-<a href="/accelerator/tech-program" class="button"> Tech startup accelerator</a>
-
-<a href="/accelerator/digital-health-program" class="button"> Digital health accelerator</a>
-
-* * *
+---
 
 #### What makes us different, you ask?
 
@@ -42,10 +38,10 @@ We run two programs a year, an open tech program in the spring, and a digital he
 
 ---
 
-<img src="https://theironyard.s3.amazonaws.com/uploads/image_asset/storage/47/one_quarter_john-biggs-techcrunch-startup-southeast.jpg" style="border-radius: 3px;">
+<img src="/images/accelerator/accelerator-landing-page-aaron-walter.jpg" style="border-radius: 3px;">
 
-<img src="https://theironyard.s3.amazonaws.com/uploads/image_asset/storage/47/one_quarter_john-biggs-techcrunch-startup-southeast.jpg" style="border-radius: 3px;">
+<img src="/images/accelerator/accelerator-landing-page-jdew.jpg" style="border-radius: 3px;">
 
-<img src="https://theironyard.s3.amazonaws.com/uploads/image_asset/storage/47/one_quarter_john-biggs-techcrunch-startup-southeast.jpg" style="border-radius: 3px;">
+<img src="/images/accelerator/accelerator-landing-page-pointing.jpg" style="border-radius: 3px;">
 
 {% endsidebar %}
