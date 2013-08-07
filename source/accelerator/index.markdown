@@ -32,7 +32,7 @@ We run two programs a year, an open tech program in the spring, and a digital he
 
 ---
 
-#### <i class="ss-icon">Lock</i> <em>Applications are currently closed.</em>
+#### <i class="ss-icon applications-closed">Lock</i> <em>Applications are currently closed.</em>
 
 ---
 
