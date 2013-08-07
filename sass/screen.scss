@@ -93,6 +93,8 @@ body {
 
 ul.sub-nav {
   margin: 0px;
+  border-top: 3px solid rgba(255,255,255,0.5);
+  padding-top: 15px;
   li {
     list-style-type: none;
     display: inline-block;
@@ -303,7 +305,7 @@ hr {
     h1 {
       color: $fancy_white;
       // line-height: 0;
-      margin-bottom: 25px;
+      margin-bottom: 0px;
       margin-top: 17px;
       .back {
         color: rgba(255,255,255,0.5);
