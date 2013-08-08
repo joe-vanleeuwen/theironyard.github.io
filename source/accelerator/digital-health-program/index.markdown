@@ -69,6 +69,5 @@ Did we mention that our space is one block from [RJ Rockers Brewery](http://www.
 ![Mayo Clinic](/images/accelerator/sponsors/mayo.jpg "Mayo Clinic")
 ![Health 2.0](/images/accelerator/sponsors/health20.jpg "Health 2.0")
 ![Abbott](/images/accelerator/sponsors/abbott.jpg "Abbott")
-![Greenville Health System](/images/accelerator/sponsors/ghs.jpg "Greenville Health System")
 
 {% endsidebar %}
