@@ -7,6 +7,13 @@ comments: true
 sharing: true
 footer: true
 parent_url: "/accelerator"
+sub_nav:
+  - name: "FAQ"
+    slug: "faq"
+  - name: "Mentors"
+    slug: "mentors"
+  - name: "Greenville"
+    slug: "/upstate/greenville"
 ---
 
 <img src="/images/accelerator/tech-program-image.jpg" style="border-radius: 3px;">
@@ -23,15 +30,6 @@ You must be willing to relocate to Greenville, SC for the 3 month session and de
 
 In our experience, it doesn't take much convincing.
 
-* * *
-
-### Partners
-
-<div class="sponsors one-fourth"> <img src="/images/accelerator/sponsors/gan.jpg"></div>
-<div class="sponsors one-fourth"> <img src="/images/accelerator/sponsors/wyche.jpg"></div>
-<div class="sponsors one-fourth"> <img src="/images/accelerator/sponsors/hughes.jpg"></div>
-<div class="sponsors one-fourth last"> <img src="/images/accelerator/sponsors/next.jpg"></div>
-
 {% sidebar %}
 
 #### <i class="ss-icon applications-closed">Lock</i> <em>Applications are currently closed.</em>
@@ -46,5 +44,12 @@ In our experience, it doesn't take much convincing.
 - We offer amazing perks through [GAN](http://gan.co) and [F6S](http://f6s.com).  
 
 * * *
+
+### Partners
+
+![Wyche](/images/accelerator/sponsors/wyche.jpg "Wyche")
+![Hughes](/images/accelerator/sponsors/hughes.jpg "Hughes")
+![NEXT](/images/accelerator/sponsors/next.jpg "Next")
+![GAN](/images/accelerator/sponsors/gan.jpg "GAN")
 
 {% endsidebar %}
