@@ -285,7 +285,7 @@ hr {
 //
 .intro {
   color: #fff;
-  // margin-bottom: 30px;
+  margin-bottom: 48px;
   // padding-top: 30px;
 
   .short-slide {
@@ -1219,13 +1219,13 @@ li {
 }
 
 .faq {
-  background: #c3d0c8;
+  background: #d9d9d9;
   padding-top: 40px;
   padding-bottom: 40px;
   .question {
     margin: 35px 0;
     padding: 10px 40px 28px 40px;
-    background: #f2f8f3;
+    background: #fff;
     @include box-shadow(0 1px 5px rgba(#000,0.1));
     p {
       font-size: 18px;

@@ -21,11 +21,14 @@
           | {% endif %}
 
           .secondary
+            | {% if page.sub_nav %}
             ul.sub-nav 
-              | {% if page.sub_nav %}{% for link in page.sub_nav %}
+              |{% for link in page.sub_nav %}
               li
                 a href="{{link.slug}}" {{ link.name }} 
-              | {% endfor %}{% endif %}
+              | {% endfor %}
+            | {% endif %}
+
   | {{content}}
 
         
