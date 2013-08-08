@@ -31,7 +31,7 @@ Luckily his path crossed with Peter and Matthew's just as the idea for The Iron 
 
 When he's not knee-deep in startup world, you can probably find him hiking or biking in the woods, building something in his shop, or on a walk with his wife.
 
-• [ericdodds.com](http://ericdodds.com) • [@ericdodds](http://twitter.com/ericdodds) • [Instagram](http://instagram.com/ericdodds) • [LinkedIn](http://www.linkedin.com/in/ericdodds)
+• [ericdodds.com](http://ericdodds.com) • [@ericdodds](http://twitter.com/ericdodds) • [Instagram](http://instagram.com/ericdodds) • [LinkedIn](http://www.linkedin.com/in/ericdodds) • [Github](github.com/ericdodds)
 
 ---
 
@@ -45,7 +45,7 @@ Mason was born and raised in Jackson, Mississippi, better known as the Dirty Sou
 
 A decent mixologist, and no mean hand at Japanese cooking, his preferred past-times are kicking it with friends and family, crafting tasty beverages, gardening, and slow-roasting anything he can get his hands on.
 
-• [@masondesu](https://twitter.com/masondesu) • [GitHub](http://github.com/masondesu)
+• [@masondesu](https://twitter.com/masondesu) • [Github](http://github.com/masondesu)
 
 ---
 
