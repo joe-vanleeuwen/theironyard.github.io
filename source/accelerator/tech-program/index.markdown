@@ -11,7 +11,7 @@ sub_nav:
   - name: "FAQ"
     slug: "faq"
   - name: "Mentors"
-    slug: "mentors"
+    slug: "/accelerator/mentors"
   - name: "Greenville"
     slug: "/upstate/greenville"
 ---
