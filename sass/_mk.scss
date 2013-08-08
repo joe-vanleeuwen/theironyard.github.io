@@ -39,7 +39,7 @@
     & > div {
       text-align: center !important;
 
-      &:first-child {
+      &.first-child {
         margin-left: 0;
       }
     }
@@ -139,6 +139,16 @@
 
     &.spartanburg {
       border-bottom: none;
+    }
+  }
+
+  .slider {
+    height: 407px !important;
+    margin-top: 0;
+
+    .slide {
+      padding-left: 0 !important;
+      height: 100%;
     }
   }
 

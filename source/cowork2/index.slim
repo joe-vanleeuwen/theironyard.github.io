@@ -17,7 +17,7 @@ sub_nav:
           img src="http://dummyimage.com/955x525/bbb/fff&text=video"
 
         .locations
-          .span4
+          .span4.first-child
             h3 Downtown
             p Bushwick plaid wolf, literally tumblr cliche aesthetic retro dreamcatcher shabby chic locavore kale chips messenger bag mixtape. Brunch 8-bit Schlitz before they sold out intelligentsia.
             a.button learn more!
@@ -64,21 +64,54 @@ sub_nav:
 
       .article-section.location-details.railside
         h2.location-name Railside
-        img src="http://dummyimage.com/954x407&text=placeholder+image"
+        .slider
+          ul
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=dogs+and+cats);"
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=living+together);"
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=mass+hysteria);"
+
         .location-details-content
           p.location-description Bushwick plaid wolf, literally tumblr cliche aesthetic retro dreamcatcher shabby chic locavore kale chips messenger bag mixtape. Brunch 8-bit Schlitz before they sold out. <a href="#">Get directions</a>.
           a.button.apply href="#" Apply To Join
 
       .article-section.location-details.downtown
         h2.location-name Downtown
-        img src="http://dummyimage.com/954x407&text=placeholder+image"
+        .slider
+          ul
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=dogs+and+cats);"
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=living+together);"
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=mass+hysteria);"
+
         .location-details-content
           p.location-description Bushwick plaid wolf, literally tumblr cliche aesthetic retro dreamcatcher shabby chic locavore kale chips messenger bag mixtape. Brunch 8-bit Schlitz before they sold out. <a href="#">Get directions</a>.
           a.button.apply href="#" Apply To Join
 
       .article-section.location-details.spartanburg
         h2.location-name Spartanburg
-        img src="http://dummyimage.com/954x407&text=placeholder+image"
+        .slider
+          ul
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=dogs+and+cats);"
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=living+together);"
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=mass+hysteria);"
+
         .location-details-content
           p.location-description Bushwick plaid wolf, literally tumblr cliche aesthetic retro dreamcatcher shabby chic locavore kale chips messenger bag mixtape. Brunch 8-bit Schlitz before they sold out. <a href="#">Get directions</a>.
           a.button.apply href="#" Apply To Join
@@ -87,3 +120,19 @@ sub_nav:
         h2 Questions?
         p We're happy to help. <a href="#">Shoot us an email.</a>
 
+
+javascript:
+  $(document).ready(function() {
+
+    var sequence = $(".slider").sequence({
+      autoPlay: true,
+      autoPlayDelay: 3000,
+      moveActiveFrameToTop: true,
+      navigationSkipThreshold: 1000,
+      fadeFrameWhenSkipped: false,
+      prevButton: $('.prev'),
+      nextButton: $('.next'),
+      animateStartingFrameIn: false
+    }).data("sequence");
+
+  });
