@@ -1,0 +1,162 @@
+@import "compass";
+
+.button {
+  text-transform: uppercase;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.cowork {
+
+  .article-section {
+    border-bottom: 1px solid white;
+    margin-bottom: 3em;
+    padding-bottom: 4.5em;
+
+    h3 {
+      margin: 0.5em;
+    }
+
+    h4 {
+      margin: 0.5em;
+    }
+  }
+
+  .video-container {
+    @include border-radius;
+    border: 7px solid white;
+  }
+
+  .locations {
+    padding-top: 2em;
+
+    & > div {
+      text-align: center !important;
+
+      &.first-child {
+        margin-left: 0;
+      }
+    }
+  }
+
+  .cutting-edge {
+    padding-bottom: 3em;
+    
+    p {
+      @include inline-block;
+      width: 85%;
+    }
+  }
+
+  .pricing-and-perks {
+
+    .column-title {
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    .column-list {
+      margin: 1.5em 0 0 0;
+    }
+
+    .pricing-column {
+
+      .column-list {
+        padding-left: 1.6em;
+        padding-right: 2em;
+      }
+      
+      li {
+        font-weight: bold;
+
+        h5 {
+          margin: 0.15em 0 0.25em;
+        }
+
+        p {
+          font-weight: normal;
+          font-size: 0.97em;
+          line-height: 1.5em;
+          margin-top: 0;
+        }
+      }
+    }
+
+    .perks-column {
+
+      .column-list {
+        list-style-type: none;
+      }
+
+      li {
+        border-bottom: 1px solid white;
+        padding: 0.5em 0;
+
+        &:first-child {
+          padding-top: 0;
+        }
+
+        &:last-child {
+          border-bottom: none;
+          padding-bottom: 0;
+        }
+      }
+    }
+  }
+
+  .location-details {
+    padding-bottom: 2em;
+
+    .location-name {
+      margin-top: 0.5em;
+    }
+
+    .location-details-content {
+      padding-top: 1.5em;
+      text-align: left;
+    }
+
+    .location-description,
+    .button {
+      @include inline-block;
+      text-align: left;
+    }
+
+    .location-description {
+      padding-right: 2%;
+      width: 76%;
+    }
+
+    .button {
+      width: 16%;
+    }
+
+    &.spartanburg {
+      border-bottom: none;
+    }
+  }
+
+  .slider {
+    height: 407px !important;
+    margin-top: 0;
+
+    .slide {
+      padding-left: 0 !important;
+      height: 100%;
+    }
+  }
+
+  .contact-us {
+    padding-bottom: 1.5em;
+
+    h2 {
+      margin-bottom: 0.25em;
+    }
+  }
+}

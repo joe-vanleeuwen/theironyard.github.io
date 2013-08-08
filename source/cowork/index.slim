@@ -1,0 +1,138 @@
+---
+layout: page_full_width
+title: "cowork2"
+date: 2013-08-07 13:30
+color: "#D2B42A"
+image: "http://s3.amazonaws.com/theironyard/slides/large/23/cowork-banner.jpg?1356719551"
+sub_nav:
+  - name: "Apply to join CoWork!"
+    slug: "join-cowork"
+---
+
+.container.cowork
+  .content
+    .article.row
+      .article-section
+        .video-container
+          img src="http://dummyimage.com/955x525/bbb/fff&text=video"
+
+        .locations
+          .span4.first-child
+            h3 Downtown
+            p Bushwick plaid wolf, literally tumblr cliche aesthetic retro dreamcatcher shabby chic locavore kale chips messenger bag mixtape. Brunch 8-bit Schlitz before they sold out intelligentsia.
+            a.button learn more!
+          .span4
+            h3 Railside
+            p Bushwick plaid wolf, literally tumblr cliche aesthetic retro dreamcatcher shabby chic locavore kale chips messenger bag mixtape. Brunch 8-bit Schlitz before they sold out intelligentsia.
+            a.button learn more!
+          .span4
+            h3 Spartanburg
+            p Bushwick plaid wolf, literally tumblr cliche aesthetic retro dreamcatcher shabby chic locavore kale chips messenger bag mixtape. Brunch 8-bit Schlitz before they sold out intelligentsia.
+            a.button learn more!
+
+      .article-section.cutting-edge
+        h4 Cutting edge coworking in South Carolina?
+        p The place you live in tells a story and we like the story that Upstate SC tells. Certainly, every member of CoWork, at some point, has lived in or toyed with the idea of the “big city.” But we thrive on the small-town aesthetic of our area, the cultivated local art scenes, and quality people just like ourselves. Come take a look for yourself.
+
+      .article-section.pricing-and-perks
+        .row
+          .pricing-column.span8
+            h4.column-title CoWork Pricing
+            ol.column-list
+              li
+                h5 Drop In - Pay by tip.
+                p Just come on in with your laptop and use the great wifi and hangout in an amazing space where work gets done. You can tip The Iron Yard with the <a href="#">Venmo</a> app if you’d like. Come around anytime. Once you start using CoWork regularly you can update to a Cafe Membership. <strong><em>Hours: 9am-5pm</em></strong>
+              li
+                h5 Cafe Member - $100/mo.
+                p Use the wifi. Get to be a part of our community. Sit where there is open space. Pay month to month or recurring – it’s your choice. Get serious about your productivity and get out of the house! <strong><em>Hours: 9am-5pm</em></strong>
+              li
+                h5 Full-Time Member - $300/mo.
+                p Get wired up or use the wifi. Get a desk to call your own where you can put your weird little domukans and a big ‘ol mac display. Become part of the one of the most talented communities of designers, developers, entrepreneurs, writers, and makers in the United States. <strong><em>Hours: 24 hrs</em></strong>
+          
+          .perks-column.span4
+            h4.column-title CoWorking Perks
+            ul.column-list
+              li Spacious work and open space
+              li Blazing fast internet
+              li Two quiet rooms for small meetings
+              li Brainstorming area with whiteboard
+              li Wi-fi Printer
+              li Large conference room
+              li Kitchen with dishwasher & fridge
+              li Lounge with disco ball
+              li 2 restrooms with showers
+
+      .article-section.location-details.railside
+        h2.location-name Railside
+        .slider
+          ul
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=dogs+and+cats);"
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=living+together);"
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=mass+hysteria);"
+
+        .location-details-content
+          p.location-description Bushwick plaid wolf, literally tumblr cliche aesthetic retro dreamcatcher shabby chic locavore kale chips messenger bag mixtape. Brunch 8-bit Schlitz before they sold out. <a href="#">Get directions</a>.
+          a.button.apply href="#" Apply To Join
+
+      .article-section.location-details.downtown
+        h2.location-name Downtown
+        .slider
+          ul
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=dogs+and+cats);"
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=living+together);"
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=mass+hysteria);"
+
+        .location-details-content
+          p.location-description Bushwick plaid wolf, literally tumblr cliche aesthetic retro dreamcatcher shabby chic locavore kale chips messenger bag mixtape. Brunch 8-bit Schlitz before they sold out. <a href="#">Get directions</a>.
+          a.button.apply href="#" Apply To Join
+
+      .article-section.location-details.spartanburg
+        h2.location-name Spartanburg
+        .slider
+          ul
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=dogs+and+cats);"
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=living+together);"
+            li.animate-out
+              .slide
+                .bg style="background-image: url(http://dummyimage.com/954x407&text=mass+hysteria);"
+
+        .location-details-content
+          p.location-description Bushwick plaid wolf, literally tumblr cliche aesthetic retro dreamcatcher shabby chic locavore kale chips messenger bag mixtape. Brunch 8-bit Schlitz before they sold out. <a href="#">Get directions</a>.
+          a.button.apply href="#" Apply To Join
+
+      .contact-us
+        h2 Questions?
+        p We're happy to help. <a href="#">Shoot us an email.</a>
+
+
+javascript:
+  $(document).ready(function() {
+
+    var sequence = $(".slider").sequence({
+      autoPlay: true,
+      autoPlayDelay: 3000,
+      moveActiveFrameToTop: true,
+      navigationSkipThreshold: 1000,
+      fadeFrameWhenSkipped: false,
+      prevButton: $('.prev'),
+      nextButton: $('.next'),
+      animateStartingFrameIn: false
+    }).data("sequence");
+
+  });
