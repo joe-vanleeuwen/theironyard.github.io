@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Spartanburg"
+title: "partanburg"
 date: 2013-08-07 22:16
 description: "Revolutionary? Why yes, we are."
 color: "#31b395"
