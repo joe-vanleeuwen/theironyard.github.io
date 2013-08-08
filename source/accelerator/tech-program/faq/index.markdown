@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Accelerator FAQ"
+title: "Tech FAQ"
 date: 2013-08-08 10:55
 color: "#349FAD"
 comments: true
