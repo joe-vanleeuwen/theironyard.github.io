@@ -12,7 +12,7 @@ parent_url: "/"
 <div class="team-member one-fourth">
    <a href="http://wantworthy.com/" target="_blank">
       <img width="220" height="140" src="https://theironyard.s3.amazonaws.com/uploads/image_asset/storage/227/portfolio-wantworthy.jpg" class="photo wp-post-image" alt="Wantworthy" title="Wantworthy" />
-   </a>
+    </a>
    <div class="content">
       <h4 class="xname">Wantworthy</h4>
       <ul class="social-links">
@@ -25,16 +25,14 @@ parent_url: "/"
          <li class="angellist">
             <a href="https://angel.co/want-worthy" target="_blank">Angel List</a>
          </li>
-
       </ul>
-
    </div>
 </div>
 
 <div class="team-member one-fourth">
    <a href="http://urbanherosports.com/" target="_blank">
       <img width="220" height="140" src="https://theironyard.s3.amazonaws.com/uploads/image_asset/storage/229/portfolio-urban-hero.jpg" class="photo wp-post-image" alt="Urban Hero" title="Urban Hero" />
-   </a>
+    </a>
    <div class="content">
       <h4 class="xname">Urban Hero</h4>
       <ul class="social-links">
@@ -44,17 +42,14 @@ parent_url: "/"
          <li class="angellist">
             <a href="https://angel.co/urban-hero-sports" target="_blank">Angel List</a>
          </li>
-
       </ul>
-
    </div>
 </div>
-
 
 <div class="team-member one-fourth">
    <a href="http://signup.upkeepcharlie.com/" target="_blank">
       <img width="220" height="140" src="http://s3.amazonaws.com/theironyard/new-photos/original/8/UpkeepCharlie_logo.jpg?1364505376" class="photo wp-post-image" alt="UpKeep Charlie" title="UpKeep Charlie" />
-   </a>
+    </a>
    <div class="content">
       <h4 class="xname">UpKeep Charlie</h4>
       <ul class="social-links">
@@ -71,14 +66,13 @@ parent_url: "/"
             <a href="mailto:stefan@upkeepcharlie.com" target="_blank">Email</a>
          </li>
       </ul>
-   </div> 
-</div> 
-
+   </div>
+</div>
 
 <div class="team-member one-fourth last">
    <a href="http://tripsnsalsa.com" target="_blank">
       <img width="220" height="140" src="https://theironyard.s3.amazonaws.com/uploads/image_asset/storage/144/accelerator-startups-trips-n-salsa.jpg" class="photo wp-post-image" alt="Trips n Salsa" title="Trips n Salsa" />
-   </a>
+    </a>
    <div class="content">
       <h4 class="xname">Trips n Salsa</h4>
       <ul class="social-links">
@@ -95,17 +89,15 @@ parent_url: "/"
             <a href="mailto:founders@tripsnsalsa.com" target="_blank">Email</a>
          </li>
       </ul>
-
    </div>
 </div>
 
 <div class="clear"></div>
 
-
 <div class="team-member one-fourth">
    <a href="http://www.tribr.com/" target="_blank">
       <img width="220" height="140" src="http://s3.amazonaws.com/theironyard/new-photos/original/50/tribr-logo.jpg?1368127162" class="photo wp-post-image" alt="Tribr" title="Tribr" />
-   </a>
+    </a>
    <div class="content">
       <h4 class="xname">Tribr</h4>
       <ul class="social-links">
@@ -126,12 +118,10 @@ parent_url: "/"
    </div>
 </div>
 
-
-
 <div class="team-member one-fourth">
    <a href="http://www.tiphive.com/" target="_blank">
       <img width="220" height="140" src="http://s3.amazonaws.com/theironyard/new-photos/original/7/TipHive_Logo.jpg?1364505169" class="photo wp-post-image" alt="TipHive" title="TipHive" />
-   </a>
+    </a>
    <div class="content">
       <h4 class="xname">TipHive</h4>
       <ul class="social-links">
@@ -148,13 +138,13 @@ parent_url: "/"
             <a href="mailto:madiken@tiphive.com" target="_blank">Email</a>
          </li>
       </ul>
-   </div> 
-</div> 
+   </div>
+</div>
 
 <div class="team-member one-fourth ">
    <a href="http://gettinderbox.com/" target="_blank">
       <img width="220" height="140" src="https://theironyard.s3.amazonaws.com/uploads/image_asset/storage/235/portfolio-tinderbox.jpg" class="photo wp-post-image" alt="TinderBox" title="TinderBox" />
-   </a>
+    </a>
    <div class="content">
       <h4 class="xname">TinderBox</h4>
       <ul class="social-links">
@@ -168,14 +158,13 @@ parent_url: "/"
             <a href="https://angel.co/tinderbox" target="_blank">Angel List</a>
          </li>
       </ul>
-
    </div>
 </div>
 
 <div class="team-member one-fourth last">
    <a href="http://tavernapp.com/" target="_blank">
       <img width="220" height="140" src="http://s3.amazonaws.com/theironyard/new-photos/original/6/tavern_logo.jpg?1364504947" class="photo wp-post-image" alt="Tavern" title="Tavern" />
-   </a>
+    </a>
    <div class="content">
       <h4 class="xname">Tavern</h4>
       <ul class="social-links">
@@ -189,16 +178,15 @@ parent_url: "/"
             <a href="mailto:rob@tavernapp.com" target="_blank">Email</a>
          </li>
       </ul>
-   </div> 
-</div> 
+   </div>
+</div>
 
 <div class="clear"></div>
-
 
 <div class="team-member one-fourth ">
    <a href="http://shopwithspent.com" target="_blank">
       <img width="220" height="140" src="https://theironyard.s3.amazonaws.com/uploads/image_asset/storage/142/accelerator-startups-spent.jpg" class="photo wp-post-image" alt="Spent" title="Spent" />
-   </a>
+    </a>
    <div class="content">
       <h4 class="xname">Spent</h4>
       <ul class="social-links">
@@ -215,14 +203,13 @@ parent_url: "/"
             <a href="mailto:founders@shopwithspent.com" target="_blank">Email</a>
          </li>
       </ul>
-
    </div>
 </div>
 
 <div class="team-member one-fourth ">
    <a href="http://www.ridepost.com/" target="_blank">
       <img width="220" height="140" src="https://theironyard.s3.amazonaws.com/uploads/image_asset/storage/141/accelerator-startups-ridepost.jpg" class="photo wp-post-image" alt="RidePost" title="RidePost" />
-   </a>
+    </a>
    <div class="content">
       <h4 class="xname">RidePost</h4>
       <ul class="social-links">
@@ -239,7 +226,6 @@ parent_url: "/"
             <a href="mailto:founders@ridepost.com" target="_blank">Email</a>
          </li>
       </ul>
-
    </div>
 </div>
 
@@ -266,7 +252,7 @@ parent_url: "/"
             <a href="mailto:diane@relocality.com" target="_blank">Email</a>
          </li>
       </ul>
-   </div> 
+   </div>
 </div>
 
 <div class="team-member one-fourth last">
@@ -289,8 +275,8 @@ parent_url: "/"
             <a href="mailto:info@ractiv.com" target="_blank">Email</a>
          </li>
       </ul>
-   </div> 
-</div> 
+   </div>
+</div>
 
 <div class="clear"></div>
 
@@ -314,10 +300,8 @@ parent_url: "/"
             <a href="mailto:founders@pathwright.com" target="_blank">Email</a>
          </li>
       </ul>
-
    </div>
 </div>
-
 
 <div class="team-member one-fourth ">
    <a href="http://origin.al/" target="_blank">
@@ -330,11 +314,8 @@ parent_url: "/"
             <a href="https://angel.co/original-2" target="_blank">Angel List</a>
          </li>
       </ul>
-
    </div>
 </div>
-
-
 
 <div class="team-member one-fourth ">
    <a href="http://www.nochains.co" target="_blank">
@@ -356,7 +337,6 @@ parent_url: "/"
             <a href="mailto:founders@nochains.co" target="_blank">Email</a>
          </li>
       </ul>
-
    </div>
 </div>
 
@@ -377,7 +357,6 @@ parent_url: "/"
             <a href="mailto:founders@moonclerk.com" target="_blank">Email</a>
          </li>
       </ul>
-
    </div>
 </div>
 
@@ -403,7 +382,6 @@ parent_url: "/"
             <a href="mailto:founders@locengine.com" target="_blank">Email</a>
          </li>
       </ul>
-
    </div>
 </div>
 
@@ -428,10 +406,8 @@ parent_url: "/"
             <a href="mailto:founders@leaguevine.com" target="_blank">Email</a>
          </li>
       </ul>
-
    </div>
 </div>
-
 
 <div class="team-member one-fourth">
    <a href="http://kydaemos.com/" target="_blank">
@@ -453,8 +429,8 @@ parent_url: "/"
             <a href="mailto:elenatropp@kydaemos.com" target="_blank">Email</a>
          </li>
       </ul>
-   </div> 
-</div> 
+   </div>
+</div>
 
 <div class="team-member one-fourth last">
    <a href="http://www.kambit.com/" target="_blank">
@@ -476,7 +452,6 @@ parent_url: "/"
             <a href="mailto:founders@kambit.com" target="_blank">Email</a>
          </li>
       </ul>
-
    </div>
 </div>
 
@@ -502,9 +477,8 @@ parent_url: "/"
             <a href="mailto:kevin@gastke.com" target="_blank">Email</a>
          </li>
       </ul>
-   </div> 
-</div> 
-
+   </div>
+</div>
 
 <div class="team-member one-fourth">
    <a href="http://www.gamemaster-inc.com/" target="_blank">
@@ -523,7 +497,7 @@ parent_url: "/"
             <a href="mailto:info@gamemastermedia.com" target="_blank">Email</a>
          </li>
       </ul>
-   </div> 
+   </div>
 </div>
 
 <div class="team-member one-fourth ">
@@ -543,10 +517,8 @@ parent_url: "/"
             <a href="https://angel.co/fullcontact-1/jobs#overview" target="_blank">Angel List</a>
          </li>
       </ul>
-
    </div>
 </div>
-
 
 <div class="team-member one-fourth last">
    <a href="http://filtereasy.com/" target="_blank">
@@ -571,7 +543,6 @@ parent_url: "/"
             <a href="mailto:kevin@filtereasy.com" target="_blank">Email</a>
          </li>
       </ul>
-
    </div>
 </div>
 
@@ -594,7 +565,6 @@ parent_url: "/"
             <a href="https://angel.co/careport-health" target="_blank">Angel List</a>
          </li>
       </ul>
-
    </div>
 </div>
 
@@ -621,5 +591,5 @@ parent_url: "/"
             <a href="mailto:founders@leaguevine.com" target="_blank">Email</a>
          </li>
       </ul>
-   </div> 
-</div> 
+   </div>
+</div>
