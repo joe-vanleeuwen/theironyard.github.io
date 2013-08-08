@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "partanburg"
+title: "Spartanburg, SC"
 date: 2013-08-07 22:16
 description: "Revolutionary? Why yes, we are."
 color: "#31b395"
@@ -16,9 +16,9 @@ Along the Square, you'll find shops, restaurants, bars, and public art that will
 
 We were born from the American Revolution and continue to evolve into the dynamic modern South. The Spartan regiment rose up from the South Carolina backcountry to fight for independence. From its revolutionary roots, Spartanburg grew into a major railroad hub (garnering the nickname “Hub City”) and became a booming textile town. You know Hanes? Yeah, that was us.
 
-While Spartanburg is known for its historic charm (think turn of the century houses and an old school town square complete with clock tower), its leaders are fully committed to its the next wave of its development as a medical innovation hub. Join us to explore our past, present and be a part of our future.&nbsp;
+While Spartanburg is known for its historic charm (think turn of the century houses and an old school town square complete with clock tower), its leaders are fully committed to its the next wave of its development as a medical innovation hub. Join us to explore our past, present and be a part of our future.
 
-[_&gt; Learn more_](http://www.visitspartanburg.com/)
+[_Learn more_](http://www.visitspartanburg.com/)
 
 ---
 
@@ -28,27 +28,18 @@ Spartanburg is a DIY sort of town, with independent businesses lining the Main S
 
 #### Top Five Places to wet your whistle and soak in the scene on Main Street:
 
-1.  [RJ Rockers Beer Brewery:](http://www.rjrockers.com/verify.asp) Their most popular beer, Son of a Peach, is one of many on tap at regular Thursday night tastings. Good thing it’s walking distance from The Iron Yard and only costs $5.00.
+1. [RJ Rockers Beer Brewery:](http://www.rjrockers.com/verify.asp) Their most popular beer, Son of a Peach, is one of many on tap at regular Thursday night tastings. Good thing it’s walking distance from The Iron Yard and only costs $5.00.
+2. [Cribbs Kitchen:](http://www.cribbsonmain.com/) Southern fare with a twist. Think pork and collard green egg rolls and lump crab and pimento cheese dip. Downtown Wind Down is Wed-Fri 3-7pm with $2.75 drafts, house liquor, and local music.
+3. [HUB-BUB:](http://www.hub-bub.com/) The Iron Yard’s neighbor, is on the front lines of creative culture in downtown Spartanburg. HUB-BUB offers more than 100 nights of art, culture, and entertainment a year and has a long standing and respected artist in residency program.
+4. [Carriage House Wines:](http://www.carriagehousewines.com/) Uncork a bottle and enjoy it on site at this converted wagon factory dating back to 1900. No matter your budget, the owner is happy to help you find something delicious.
+5. [Hub City Book Shop:](http://hubcity.org/bookshop/) Nationally known writers and homegrown talent have regular readings here. Plus, all proceeds go to creative writing education and independent book publishing in Spartanburg.
 
-</br>2.  [Cribbs Kitchen:](http://www.cribbsonmain.com/) Southern fare with a twist. Think pork and collard green egg rolls and lump crab and pimento cheese dip. Downtown Wind Down is Wed-Fri 3-7pm with $2.75 drafts, house liquor, and local music.
-</br>3.  [HUB-BUB:](http://www.hub-bub.com/) The Iron Yard’s neighbor, is on the front lines of creative culture in downtown Spartanburg. HUB-BUB offers more than 100 nights of art, culture, and entertainment a year and has a long standing and respected artist in residency program.
-
-</br>4.  [Carriage House Wines:](http://www.carriagehousewines.com/) Uncork a bottle and enjoy it on site at this converted wagon factory dating back to 1900. No matter your budget, the owner is happy to help you find something delicious.
-
-</br>5.  [Hub City Book Shop:](http://hubcity.org/bookshop/) Nationally known writers and homegrown talent have regular readings here. Plus, all proceeds go to creative writing education and independent book publishing in Spartanburg.
-</br>
-
-[_&gt; The list goes on!_](http://www.visitspartanburg.com/)
 
 Did we mention there’s Ice Skating on the square in winter, and free music on the lawn in summer? Plenty of no money fun and small town charm for entrepreneurs on a budget.
-
-[_&gt; Learn more_](http://www.visitspartanburg.com/)
 
 #### Getting Here, Settling in, and Moving Around 
 
 Spartanburg is nestled in the foothills of the Blue Ridge Mountains, between Atlanta, GA and Charlotte, NC and less than an hour drive from Asheville, NC. Have the big city itch? Want to escape to some of the best hiking, camping, climbing and rafting in the country? Both are easily accessible.
-
-[_&gt; &gt; See a map_](http://www.visitspartanburg.com/)
 
 Just minutes from Greenville/Spartanburg International (GSP) airport, a Southwest Airlines hub, Spartanburg makes national travel easy.
 
@@ -56,11 +47,9 @@ Guests in from out of town? Downtown accommodates all tastes with everything fro
 
 Once you’ve arrived, the first bike sharing program in the Southeast is at your fingertips. Prefer four wheels? Parking is no problem. Plus, the historic neighborhoods of Hampton Heights and Converse heights are both:
 
-*   walking/biking distance to downtown
-*   devastatingly gorgeous
-*   shockingly affordable
-
-[_&gt; Learn more_](http://www.visitspartanburg.com/)
+*   Walking/biking distance to downtown
+*   Devastatingly gorgeous
+*   Shockingly affordable
 
 #### Don’t be another drop in the bucket
 
@@ -75,15 +64,13 @@ Who are your neighbors?
 *   Denny’s
 *   Pure Barre
 
-[_&gt; Learn more_](http://www.visitspartanburg.com/)
-
 {% sidebar %}
 
-### _&gt; Explore_
+### _Explore_
 
 * * *
 
-![The Lazy Goat Restaurant, Reedy River, and Wyche Pavilion in Greenville, SC](/images/upstate/greenville/greenville-restaurant.jpg)
+<img src="/images/upstate/spartanburg/spartanburg-fountain.jpg" style="border-radius: 3px;">
 
 ### Awesome Spots
 
@@ -94,7 +81,7 @@ Who are your neighbors?
 
 ---
 
-![Hikers and climbers in the mountains around Greenville, SC](/images/upstate/greenville/greenville-downtown.jpg)
+<img src="/images/upstate/spartanburg/spartanburg-city.jpg" style="border-radius: 3px;">
 
 ### Great Education
 
