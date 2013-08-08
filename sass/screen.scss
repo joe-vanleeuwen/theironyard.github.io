@@ -305,7 +305,7 @@ hr {
     h1 {
       color: $fancy_white;
       // line-height: 0;
-      margin-bottom: 0px;
+      margin-bottom: 30px;
       margin-top: 17px;
       .back {
         color: rgba(255,255,255,0.5);
@@ -314,6 +314,7 @@ hr {
         position: relative;
         top: -10px;
         margin-left: -50px;
+        line-height: 0px;
         &:hover{
           text-decoration: none;
           color: $fancy_white;
@@ -603,16 +604,7 @@ $small_slide_height:  400px;
   .description {
     margin-top: 40px;
 
-    .no-link {
-      font-size: 73px;
-      line-height: 110px;
-      font-weight: bolder;
-      background: $dark_slate;
-      @include box-shadow($slide-text-bg);
-
-    }
-
-    a {
+    a, .no-link {
       color: #fff;
       font-size: 73px;
       line-height: 110px;
@@ -633,6 +625,12 @@ $small_slide_height:  400px;
         color: $fancy_blue;
         background: none;
       }
+    }
+
+    .no-link:hover {
+      color: #fff !important;
+      background: $dark_slate;
+      @include box-shadow($slide-text-bg);
     }
   }
 
@@ -1451,20 +1449,24 @@ li {
       }
       .description {
         margin-top: 10px;
+
         .no-link {
           font-size: 36px;
           line-height: 60px;
         }
-        a {
+
+        a, .no-link {
           font-size: 32px;
           line-height: 45px;
           @include box-shadow(0px 4px 0px 9px $dark_slate);
+
           .ss-navigateright {
             margin-left: 5px;
             font-size: 18px;
             color: $fancy_blue;
             background: none;
           }
+
           &:hover {
             color: $fancy_blue;
             text-decoration: none;
@@ -1746,7 +1748,7 @@ li {
           font-size: 36px;
           line-height: 60px;
         }
-        a {
+        a, .no-link {
           font-size: 24px;
           line-height: 45px;
           @include box-shadow(0px 4px 0px 9px $dark_slate);
