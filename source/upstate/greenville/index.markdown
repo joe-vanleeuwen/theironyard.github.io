@@ -7,6 +7,7 @@ color: "#31b395"
 comments: true
 sharing: true
 footer: true
+parent_url: "/upstate"
 ---
 
 <h3>Hassle-free City Life</h3>
