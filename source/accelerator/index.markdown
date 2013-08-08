@@ -12,6 +12,8 @@ sub_nav:
     slug: "tech-program"
   - name: "Digital health program"
     slug: "digital-health-program"
+  - name: "Current companies"
+    slug: "current-companies"
 ---
 
 #### We’re interested in building strong, sustainable businesses that add real value to customer’s lives.
