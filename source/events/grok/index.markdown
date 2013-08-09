@@ -27,23 +27,39 @@ Check out thoughts and re-caps from [Allen Branch](https://lessaccounting.com/bl
 
 <p>_Photos skillfully snapped by [Jivan Dave](http://cargocollective.com/coffeeandcassis)._
 
-![](http://i.imgur.com/bxNnp9L.jpg)
-![](http://i.imgur.com/UBsFtyT.jpg)
-![](http://i.imgur.com/OZfZNIM.jpg)
-![](http://i.imgur.com/HS1zd8g.jpg)
-![](http://i.imgur.com/HEP1khJ.jpg)
-![](http://i.imgur.com/PAewI0f.jpg)
-![](http://i.imgur.com/E9WzFja.jpg)
-![](http://i.imgur.com/IlNFk4C.jpg)
-![](http://i.imgur.com/7wc6Nqx.jpg)
-![](http://i.imgur.com/pwVHPqW.jpg)
-![](http://i.imgur.com/h5lsz2i.jpg)
-![](http://i.imgur.com/xfuh5OZ.jpg)
-![](http://i.imgur.com/2W0ohNT.jpg)
-![](http://i.imgur.com/GkVkfSp.jpg)
-![](http://i.imgur.com/Gh5BHie.jpg)
-![](http://i.imgur.com/DFZgcLP.jpg)
-![](http://i.imgur.com/7cbjJ89.jpg)
+<img src="http://i.imgur.com/bxNnp9L.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/UBsFtyT.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/OZfZNIM.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/HS1zd8g.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/HEP1khJ.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/PAewI0f.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/E9WzFja.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/IlNFk4C.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/7wc6Nqx.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/pwVHPqW.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/h5lsz2i.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/xfuh5OZ.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/2W0ohNT.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/GkVkfSp.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/Gh5BHie.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/DFZgcLP.jpg" style="border-radius: 3px;">
+
+<img src="http://i.imgur.com/7cbjJ89.jpg" style="border-radius: 3px;">
 
 ### Our amazing sponsors:
 
@@ -52,7 +68,7 @@ Below are the sponsors who help make Grok the real deal. We use and love these p
 [![](http://s3.amazonaws.com/theironyard/new-photos/original/54/mailchimp.png)](http://www.mailchimp.com)
 [![](http://s3.amazonaws.com/theironyard/new-photos/original/59/typekit.png)](http://www.typekit.com)
 [![](http://s3.amazonaws.com/theironyard/new-photos/original/56/behance.png)](http://www.behance.com)[![](http://s3.amazonaws.com/theironyard/new-photos/original/57/twitter.png)
-<a href="http://www.getharvest.com">![](http://s3.amazonaws.com/theironyard/new-photos/original/55/harvest.png)](http://www.twitter.com)[![](http://s3.amazonaws.com/theironyard/new-photos/original/58/worthwhile.png)](http://www.worthwhile.com)
+![](http://s3.amazonaws.com/theironyard/new-photos/original/55/harvest.png)](http://www.twitter.com)[![](http://s3.amazonaws.com/theironyard/new-photos/original/58/worthwhile.png)](http://www.worthwhile.com)
 
   {% sidebar %}
 
@@ -64,7 +80,6 @@ See you next year.
 
 * * *
 
-**_First, [check out our FAQ.](#faq)**_
 <p>**_Tweetly deet_**
 
 [@greenvillegrok](http://twitter.com/greenvillegrok)
@@ -80,8 +95,7 @@ See you next year.
 
 * * *
 
-### What the fock 
-is Grok?
+### What the fock is Grok?
 
 It's a three day event sans the how-to sessions from industry leaders. We think a 10 minute session of hard questions from a new face is as good as a lock-tight answer from an old pro. We started Grok because we wanted to learn big, and go big.
 
