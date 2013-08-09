@@ -67,8 +67,8 @@ Below are the sponsors who help make Grok the real deal. We use and love these p
 
 [![](/images/events/grok/sponsors/mailchimp.png)](http://www.mailchimp.com)
 [![](/images/events/grok/sponsors/typekit.png)](http://www.typekit.com)
-[![](/images/events/grok/sponsors/behance.png)](http://www.behance.com)[![](/images/events/grok/sponsors/twitter.png)](http://www.twitter.com)
-[![](/images/events/grok/sponsors/harvest.png)](http://www.getharvest.com)[![](/images/events/grok/sponsors/worthwhile.png)](http://www.worthwhile.com)
+[![](/images/events/grok/sponsors/behance.png)](http://www.behance.com)   [![](/images/events/grok/sponsors/twitter.png)](http://www.twitter.com)
+[![](/images/events/grok/sponsors/worthwhile.png)](http://www.worthwhile.com)   [![](/images/events/grok/sponsors/harvest.png)](http://www.getharvest.com)
 
   {% sidebar %}
 
