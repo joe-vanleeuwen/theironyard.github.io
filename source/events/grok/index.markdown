@@ -65,10 +65,10 @@ Check out thoughts and re-caps from [Allen Branch](https://lessaccounting.com/bl
 
 Below are the sponsors who help make Grok the real deal. We use and love these products. Please take a moment to check them out.
 
-[![](http://s3.amazonaws.com/theironyard/new-photos/original/54/mailchimp.png)](http://www.mailchimp.com)
-[![](http://s3.amazonaws.com/theironyard/new-photos/original/59/typekit.png)](http://www.typekit.com)
-[![](http://s3.amazonaws.com/theironyard/new-photos/original/56/behance.png)](http://www.behance.com)[![](http://s3.amazonaws.com/theironyard/new-photos/original/57/twitter.png)
-![](http://s3.amazonaws.com/theironyard/new-photos/original/55/harvest.png)](http://www.twitter.com)[![](http://s3.amazonaws.com/theironyard/new-photos/original/58/worthwhile.png)](http://www.worthwhile.com)
+[![](/images/events/grok/sponsors/mailchimp.png)](http://www.mailchimp.com)
+[![](/images/events/grok/sponsors/typekit.png)](http://www.typekit.com)
+[![](/images/events/grok/sponsors/behance.png)](http://www.behance.com)[![](/images/events/grok/sponsors/twitter.png)](http://www.twitter.com)
+[![](/images/events/grok/sponsors/harvest.png)](http://www.getharvest.com)[![](/images/events/grok/sponsors/worthwhile.png)](http://www.worthwhile.com)
 
   {% sidebar %}
 
