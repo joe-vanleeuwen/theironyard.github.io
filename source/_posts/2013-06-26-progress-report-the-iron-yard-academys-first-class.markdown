@@ -18,37 +18,23 @@ tags:
 - front end engineering
 ---
 
+![](http://blog.theironyard.com/wp-content/uploads/2013/06/featured-image-andrew-mcintee.jpg)
+
 We're nearing the end of our first Front End Engineering course, and it's been an amazing experience. Halfway through the course we talked to both students and guest lecturers to see what they had to say. Here are a few responses. 
 
-
+<!-- more -->
 
 * * *
 
-
-
-
-
 ### Guest Design Instructor – Marco Suarez
-
-
 
 We invited our friend Marco, now an Art Director at MailChimp, to spend a week teaching our Front End Engineering students about design. He gave them crash courses on everything from color theory and design thinking to responsive web design techniques. 
 
 After the class we asked him what he thought about the students, and he told us they're the type of talent he's looking to hire. Take it away, Marco: 
 
-
-
-
-
 * * *
 
-
-
-
-
 ### Student – Andrew McIntee
-
-
 
 Andrew McIntee started working as a front end developer in high school. After graduation, he tried college, but decided that jumping into a design career would be more satisfying. As he gained experience he noticed that his value to clients could increase dramatically if he could both design and develop digital products. 
 
