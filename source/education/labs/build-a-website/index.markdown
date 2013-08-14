@@ -25,9 +25,7 @@ In our after school website class, students learn internet fundamentals, how the
 
 ### 2013 Spartanburg Schedule
 
-<a href="https://tito.io/the-iron-yard/spartanburg-labs-build-a-website-september-2013" class="button"> September 10th - October 15th</a>  
-
-<a href="https://tito.io/the-iron-yard/spartanburg-labs-build-a-website-november-2013" class="button"> November 5th - December 10th</a>
+> #### *Signups coming soon!*
 
 ---
 <a id="faq"></a>
@@ -65,10 +63,10 @@ To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If
 
 #### Spartanburg class details
 
-**Day**: Tuesdays  
-**Time**: 4:30-5:30pm  
-**Location**: The NEXT Center  
-**Address**: 411 University Ridge, Suite 220  
+**Day**: TBD  
+**Time**: TBD  
+**Location**: The Mill 
+**Address**: 151 S. Daniel Morgan Ave.  
 **Duration**: 6 weeks  
 **Ages**: 13 - 18 *(or CoderDojo graduate)*  
 **Cost**: $35/class
