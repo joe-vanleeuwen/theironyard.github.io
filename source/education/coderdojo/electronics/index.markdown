@@ -26,15 +26,11 @@ These classes wouldn't be possible without support from [Arduino](http://www.ard
 <a id="schedule"></a>
 ### 2013 Greenville Schedule
 
-<a href="https://tito.io/the-iron-yard/greenville-coderdojo-electronics-september-2013" class="button"> September 10th - October 15th</a>  
-
-<a href="https://tito.io/the-iron-yard/greenville-coderdojo-electronics-november-2013" class="button"> November 5th - December 10th</a>
+> #### *Signups coming soon!*
 
 ### 2013 Spartanburg Schedule
 
-<a href="https://tito.io/the-iron-yard/spartanburg-coderdojo-electronics-september-2013" class="button"> September 10th - October 15th</a>  
-
-<a href="https://tito.io/the-iron-yard/spartanburg-coderdojo-electronics-november-2013" class="button"> November 5th - December 10th</a>
+> #### *Signups coming soon!*
 
 ---
 <a id="faq"></a>
@@ -62,8 +58,8 @@ To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If
 
 #### Greenville class details
 
-**Day**: Tuesdays  
-**Time**: 6:00-7:30pm  
+**Day**: TBD  
+**Time**: TBD  
 **Location**: The NEXT Center  
 **Address**: 411 University Ridge, Suite 220  
 **Duration**: 6 weeks  
@@ -72,10 +68,10 @@ To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If
 
 #### Spartanburg class details
 
-**Day**: Tuesdays  
-**Time**: 6:00-7:30pm  
-**Location**: The NEXT Center  
-**Address**: 411 University Ridge, Suite 220  
+**Day**: TBD  
+**Time**: TBD  
+**Location**: The Mill  
+**Address**: 151 S. Daniel Morgan Ave.  
 **Duration**: 6 weeks  
 **Ages**: 8 - 18 *(parent required for <13)*  
 **Cost**: FREE!
