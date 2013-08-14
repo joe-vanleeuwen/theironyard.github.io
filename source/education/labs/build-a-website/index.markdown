@@ -6,6 +6,7 @@ color: "#CE822C"
 comments: true
 sharing: true
 footer: true
+parent_url: "/education/labs"
 ---
 
 <img src="/images/education/labs/build-a-website.jpg" style="border-radius: 3px;">

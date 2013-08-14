@@ -6,6 +6,7 @@ color: "#CE822C"
 comments: true
 sharing: true
 footer: true
+parent_url: "/education/coderdojo"
 ---
 
 <img src="/images/education/coderdojo/coderdojo-scratch-kids.jpg" style="border-radius: 3px;">
