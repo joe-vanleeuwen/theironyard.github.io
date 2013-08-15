@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Academy | The Iron Yard]]></title>
   <link href="http://theironyard.github.io/blog/categories/academy/atom.xml" rel="self"/>
   <link href="http://theironyard.github.io/"/>
-  <updated>2013-08-15T16:31:06-04:00</updated>
+  <updated>2013-08-15T17:10:54-04:00</updated>
   <id>http://theironyard.github.io/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
@@ -18,7 +18,7 @@
     <link href="http://theironyard.github.io/blog/2013/06/26/progress-report-the-iron-yard-academys-first-class/"/>
     <updated>2013-06-26T15:58:49-04:00</updated>
     <id>http://theironyard.github.io/blog/2013/06/26/progress-report-the-iron-yard-academys-first-class</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.theironyard.com/wp-content/uploads/2013/06/featured-image-andrew-mcintee.jpg" alt="" /></p>
+    <content type="html"><![CDATA[<p><img src="http://blog.theironyard.com/wp-content/uploads/2013/06/featured-image-andrew-mcintee.jpg" style="border-radius: 3px"></p>
 
 <p>We&rsquo;re nearing the end of our first Front End Engineering course, and it&rsquo;s been an amazing experience. Halfway through the course we talked to both students and guest lecturers to see what they had to say. Here are a few responses.</p>
 
@@ -33,6 +33,9 @@
 
 <p>After the class we asked him what he thought about the students, and he told us they&rsquo;re the type of talent he&rsquo;s looking to hire. Take it away, Marco:</p>
 
+<iframe src="http://player.vimeo.com/video/69189571?title=0&amp;byline=0&amp;portrait=0&amp;color=39474e" width="680" height="383" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
 <hr />
 
 <h3>Student – Andrew McIntee</h3>
@@ -40,6 +43,9 @@
 <p>Andrew McIntee started working as a front end developer in high school. After graduation, he tried college, but decided that jumping into a design career would be more satisfying. As he gained experience he noticed that his value to clients could increase dramatically if he could both design and develop digital products.</p>
 
 <p>He came to The Iron Yard Academy&rsquo;s Front End Engineering course to increase his code chops, and says that three months here has been worth three years in his career. He&rsquo;s busy with freelance work, but is ready for a full time job at a cool company. Hire while it&rsquo;s hot. Here&rsquo;s Andrew telling his story:</p>
+
+<iframe src="http://player.vimeo.com/video/69189570?title=0&amp;byline=0&amp;portrait=0&amp;color=39474e" width="680" height="382" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 ]]></content>
   </entry>
   
@@ -51,6 +57,9 @@
     <content type="html"><![CDATA[<p><em>This is a post from Marco Suarez explaining what we&rsquo;ve learned on the journey of starting an intensive design school.</em></p>
 
 <p>There is a gap that is widening between the education students are receiving and the skills companies require. The most obvious disconnect is in software and technology. Universities fail to keep up and the proponents of an informal, self-taught education use that deficiency as their banner. But technology and software are platforms and tools. And just because you know how to use a tool doesn’t make you a craftsman. The more serious gap is in a person’s ability to think. Mobile touch platforms have radically changed the way we use technology, so much so that it has caused broad societal shift. The potential of this shift is fueling investors to pour insane amounts of money into people and ideas that take advantage of it. There is a need for designers who can think critically and creatively to solve real problems by utilizing these new platforms and tools.</p>
+
+<!-- more -->
+
 
 <p>And this is where The Iron Yard comes into the story. The Iron Yard is a company in the southeast that has set up residence at the gates of new tech ideation. And we saw an opportunity. We know software and technology really well and we know companies that are hiring. So we started an <a href="http://www.theironyard.com/education/academy/front-end-engineering">intensive front end engineering program</a> this year that is doing great. So great that we decided to spin up a <a href="http://www.theironyard.com/education/academy/product-design">design program</a> that focuses on digital product design. We’d teach the process of design thinking through building real applications for real people. We’d assess problems and build prototypes, brands, and interfaces for web and mobile. Sounded like a home run. So we thought.</p>
 

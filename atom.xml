@@ -4,7 +4,7 @@
   <title><![CDATA[The Iron Yard]]></title>
   <link href="http://theironyard.github.io/atom.xml" rel="self"/>
   <link href="http://theironyard.github.io/"/>
-  <updated>2013-08-15T16:31:06-04:00</updated>
+  <updated>2013-08-15T17:10:54-04:00</updated>
   <id>http://theironyard.github.io/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
@@ -18,7 +18,7 @@
     <link href="http://theironyard.github.io/blog/2013/06/26/progress-report-the-iron-yard-academys-first-class/"/>
     <updated>2013-06-26T15:58:49-04:00</updated>
     <id>http://theironyard.github.io/blog/2013/06/26/progress-report-the-iron-yard-academys-first-class</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.theironyard.com/wp-content/uploads/2013/06/featured-image-andrew-mcintee.jpg" alt="" /></p>
+    <content type="html"><![CDATA[<p><img src="http://blog.theironyard.com/wp-content/uploads/2013/06/featured-image-andrew-mcintee.jpg" style="border-radius: 3px"></p>
 
 <p>We&rsquo;re nearing the end of our first Front End Engineering course, and it&rsquo;s been an amazing experience. Halfway through the course we talked to both students and guest lecturers to see what they had to say. Here are a few responses.</p>
 
@@ -33,6 +33,9 @@
 
 <p>After the class we asked him what he thought about the students, and he told us they&rsquo;re the type of talent he&rsquo;s looking to hire. Take it away, Marco:</p>
 
+<iframe src="http://player.vimeo.com/video/69189571?title=0&amp;byline=0&amp;portrait=0&amp;color=39474e" width="680" height="383" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
 <hr />
 
 <h3>Student – Andrew McIntee</h3>
@@ -40,6 +43,9 @@
 <p>Andrew McIntee started working as a front end developer in high school. After graduation, he tried college, but decided that jumping into a design career would be more satisfying. As he gained experience he noticed that his value to clients could increase dramatically if he could both design and develop digital products.</p>
 
 <p>He came to The Iron Yard Academy&rsquo;s Front End Engineering course to increase his code chops, and says that three months here has been worth three years in his career. He&rsquo;s busy with freelance work, but is ready for a full time job at a cool company. Hire while it&rsquo;s hot. Here&rsquo;s Andrew telling his story:</p>
+
+<iframe src="http://player.vimeo.com/video/69189570?title=0&amp;byline=0&amp;portrait=0&amp;color=39474e" width="680" height="382" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 ]]></content>
   </entry>
   
@@ -54,13 +60,16 @@
 
 <p>We&rsquo;d love for you to join us at any point along the way. Here&rsquo;s a list of our demo days. Scroll down for details.</p>
 
+<!-- more -->
+
+
 <ul>
-<li><p><strong>May 30th @ 2pm EST</strong> &ndash; Demo Day at the Grok Conference (<a href="http://www.eventbrite.com/event/6367073087">RSVP</a>)</p></li>
-<li><p><strong>June 3rd @ 10:30am PST</strong> &ndash; Morning Demo Session at Silicon Valley Bank (<a href="http://www.eventbrite.com/event/6367422131">RSVP</a>)</p></li>
-<li><p><strong>June 3rd @ 3:30pm PST</strong> &ndash; Afternoon Demo Session at Silicon Valley Bank (<a href="http://www.eventbrite.com/event/6458903755">RSVP</a>)</p></li>
-<li><p><strong>June 4th @ various times</strong> &ndash; Launch: Silicon Valley (<a href="https://svforum.org/Launch-Silicon-Valley/Launch-Silicon-Valley-2013">Register</a>)</p></li>
-<li><p><strong>June 11th @ 10:00am EST</strong> &ndash; Demo Day in Boston (<a href="http://www.eventbrite.com/event/6312983303">RSVP</a>)</p></li>
-<li><p><strong>June 12-13 @ various times EST</strong> &ndash; Startup Village at Southland Startup Conference (<a href="http://www.southlandse.com/">Register</a>)</p></li>
+<li><strong>May 30th @ 2pm EST</strong> &ndash; Demo Day at the Grok Conference (<a href="http://www.eventbrite.com/event/6367073087">RSVP</a>)</li>
+<li><strong>June 3rd @ 10:30am PST</strong> &ndash; Morning Demo Session at Silicon Valley Bank (<a href="http://www.eventbrite.com/event/6367422131">RSVP</a>)</li>
+<li><strong>June 3rd @ 3:30pm PST</strong> &ndash; Afternoon Demo Session at Silicon Valley Bank (<a href="http://www.eventbrite.com/event/6458903755">RSVP</a>)</li>
+<li><strong>June 4th @ various times</strong> &ndash; Launch: Silicon Valley (<a href="https://svforum.org/Launch-Silicon-Valley/Launch-Silicon-Valley-2013">Register</a>)</li>
+<li><strong>June 11th @ 10:00am EST</strong> &ndash; Demo Day in Boston (<a href="http://www.eventbrite.com/event/6312983303">RSVP</a>)</li>
+<li><strong>June 12-13 @ various times EST</strong> &ndash; Startup Village at Southland Startup Conference (<a href="http://www.southlandse.com/">Register</a>)</li>
 </ul>
 
 
@@ -74,7 +83,7 @@
 Greenville, SC 29601</em>
 <em><a href="http://maps.google.com/maps?q=2+north+main,+Greenville,+sc&amp;hl=en&amp;sll=37.788446,-122.398641&amp;sspn=0.092113,0.181789&amp;t=v&amp;hnear=2+N+Main+St,+Greenville,+South+Carolina+29601&amp;z=16">Map this location</a></em></p>
 
-<p>[button url=&ldquo;<a href="http://www.eventbrite.com/event/6367073087">http://www.eventbrite.com/event/6367073087</a>&rdquo; target=&ldquo;_blank&rdquo; label=&ldquo;RSVP for May 30th at 2:00pm EST&rdquo;]</p>
+<p><a href="http://www.eventbrite.com/event/6367073087">RSVP for May 30th at 2:00pm EST</a></p>
 
 <hr />
 
@@ -87,9 +96,9 @@ We&rsquo;ll pitch twice on Monday at the SVB offices on Mission St.</p>
 San Francisco, CA 94105</em>
 <em><a href="http://maps.google.com/maps?q=silicon+valley+bank,+mission+st.+san+francisco&amp;hl=en&amp;sll=33.624497,-80.926614&amp;sspn=6.209617,11.634521&amp;t=v&amp;hq=silicon+valley+bank,&amp;hnear=Mission+St,+San+Francisco,+California&amp;z=13&amp;iwloc=A">Map this location</a></em></p>
 
-<p>[button url=&ldquo;<a href="http://www.eventbrite.com/event/6367422131">http://www.eventbrite.com/event/6367422131</a>&rdquo; target=&ldquo;_blank&rdquo; label=&ldquo;RSVP for June 3rd at 10:30am PST&rdquo;]</p>
+<p><a href="http://www.eventbrite.com/event/6367422131">RSVP for June 3rd at 10:30am PST</a></p>
 
-<p>[button url=&ldquo;<a href="http://www.eventbrite.com/event/6458903755">http://www.eventbrite.com/event/6458903755</a>&rdquo; target=&ldquo;_blank&rdquo; label=&ldquo;RSVP for June 3rd at 3:30pm PST&rdquo;]</p>
+<p><a href="http://www.eventbrite.com/event/6458903755">RSVP for June 3rd at 3:30pm PST</a></p>
 
 <p><strong>June 4th</strong>
 A few of our teams will be pitching at <a href="http://launchsiliconvalley.org/">Launch: Silicon Valley</a> and have displays at the expo.</p>
@@ -99,7 +108,7 @@ A few of our teams will be pitching at <a href="http://launchsiliconvalley.org/"
 Mountain View, CA 94043</em>
 <em><a href="https://maps.google.com/maps?q=1065+La+Avenida+Mountain+View,+CA+94043&amp;hnear=1065+La+Avenida+St,+Mountain+View,+Santa+Clara,+California+94043&amp;gl=us&amp;t=v&amp;z=16https://maps.google.com/maps?q=1065+La+Avenida+Mountain+View,+CA+94043&amp;hnear=1065+La+Avenida+St,+Mountain+View,+Santa+Clara,+California+94043&amp;gl=us&amp;t=v&amp;z=16">Map this location</a></em></p>
 
-<p>[button url=&ldquo;<a href="https://svforum.org/Launch-Silicon-Valley/Launch-Silicon-Valley-2013">https://svforum.org/Launch-Silicon-Valley/Launch-Silicon-Valley-2013</a>&rdquo; target=&ldquo;_blank&rdquo; label=&ldquo;Register for Launch: Silicon Valley on June 4th&rdquo;]</p>
+<p><a href="https://svforum.org/Launch-Silicon-Valley/Launch-Silicon-Valley-2013">Register for Launch: Silicon Valley on June 4th</a></p>
 
 <hr />
 
@@ -113,7 +122,7 @@ Our teams will present at Microsoft NERD on Tuesday, June 11th.</p>
 Cambridge, MA ‎ 02142</em>
 <em><a href="https://maps.google.com/maps?q=Microsoft+New+England+Research+and+Development+Center,+Memorial+Drive,+Cambridge,+MA&amp;hl=en&amp;sll=37.410801,-122.072396&amp;sspn=0.011573,0.022724&amp;oq=microsoft+nerd&amp;t=v&amp;gl=us&amp;hq=Microsoft+New+England+Research+and+Development+Center,+Memorial+Drive,+Cambridge,+MA&amp;z=15">Map this location</a></em></p>
 
-<p>[button url=&ldquo;<a href="http://www.eventbrite.com/event/6312983303">http://www.eventbrite.com/event/6312983303</a>&rdquo; target=&ldquo;_blank&rdquo; label=&ldquo;RSVP for June 11th at 10:00am EST&rdquo;]</p>
+<p><a href="http://www.eventbrite.com/event/6312983303">RSVP for June 11th at 10:00am EST</a></p>
 
 <hr />
 
@@ -125,7 +134,7 @@ Cambridge, MA ‎ 02142</em>
 Nashville, TN. 37203</em>
 <em><a href="https://maps.google.com/maps?q=One+Cannery+Row+Nashville,+TN.+37203&amp;hl=en&amp;sll=42.361315,-71.081309&amp;sspn=0.021531,0.045447&amp;t=v&amp;gl=us&amp;hnear=1+Cannery+Row,+Nashville,+Davidson,+Tennessee+37203&amp;z=16">Map this location</a></em></p>
 
-<p>[button url=&ldquo;<a href="http://www.southlandse.com/">http://www.southlandse.com/</a>&rdquo; target=&ldquo;_blank&rdquo; label=&ldquo;Register for Southland on June 12-13&rdquo;]</p>
+<p><a href="http://www.southlandse.com/">Register for Southland on June 12-13</a></p>
 ]]></content>
   </entry>
   
@@ -135,6 +144,9 @@ Nashville, TN. 37203</em>
     <updated>2013-05-09T12:13:22-04:00</updated>
     <id>http://theironyard.github.io/blog/2013/05/09/startups-need-conviction</id>
     <content type="html"><![CDATA[<p>The Startup Life™ is thickly shrouded with threats of difficulty. First you&rsquo;re required to have an astoundingly novel idea that promises to capture a gigantic industry or market. (Or at least be able to convince people of those things.) Next, you need a killer team, preferably one with a brilliant engineer co-founder who&rsquo;s willing to give up a six-figure income to work tirelessly on your product.</p>
+
+<!-- more -->
+
 
 <p>Later you discover that the importance of the idea pales in comparison to execution: if you can&rsquo;t ship, you&rsquo;re dead in the water. Courting VCs and negotiating term sheets, if you&rsquo;re one of the lucky few to beat that many levels and face the boss, is a black art in and of itself, and one wrong step can flush everything you&rsquo;ve worked for down the drain. Work/life balance as most know isn&rsquo;t even part of the equation for many entrepreneurs.</p>
 
@@ -158,6 +170,9 @@ Nashville, TN. 37203</em>
     <content type="html"><![CDATA[<p><em>This is a post from Marco Suarez explaining what we&rsquo;ve learned on the journey of starting an intensive design school.</em></p>
 
 <p>There is a gap that is widening between the education students are receiving and the skills companies require. The most obvious disconnect is in software and technology. Universities fail to keep up and the proponents of an informal, self-taught education use that deficiency as their banner. But technology and software are platforms and tools. And just because you know how to use a tool doesn’t make you a craftsman. The more serious gap is in a person’s ability to think. Mobile touch platforms have radically changed the way we use technology, so much so that it has caused broad societal shift. The potential of this shift is fueling investors to pour insane amounts of money into people and ideas that take advantage of it. There is a need for designers who can think critically and creatively to solve real problems by utilizing these new platforms and tools.</p>
+
+<!-- more -->
+
 
 <p>And this is where The Iron Yard comes into the story. The Iron Yard is a company in the southeast that has set up residence at the gates of new tech ideation. And we saw an opportunity. We know software and technology really well and we know companies that are hiring. So we started an <a href="http://www.theironyard.com/education/academy/front-end-engineering">intensive front end engineering program</a> this year that is doing great. So great that we decided to spin up a <a href="http://www.theironyard.com/education/academy/product-design">design program</a> that focuses on digital product design. We’d teach the process of design thinking through building real applications for real people. We’d assess problems and build prototypes, brands, and interfaces for web and mobile. Sounded like a home run. So we thought.</p>
 
@@ -184,6 +199,9 @@ Nashville, TN. 37203</em>
 
 <p>ConvergeSE is one of the best web conferences on the map, in our humble opinion. One of the founders, Gene Crawford, is a mentor in our program. One of the best parts of Converge is the strict focus on specific subjects. This year they&rsquo;re tackling new territory in internet-old topics:</p>
 
+<!-- more -->
+
+
 <p><strong>Design</strong> &ndash; Explore the responsive design landscape, sharpen your prototyping design skills and explore web typography.</p>
 
 <p><strong>Front End Development</strong> &ndash; Dive into CSS with animations&hellip;Then get some in-depth experience exploring the responsive landscape.</p>
@@ -205,6 +223,9 @@ Nashville, TN. 37203</em>
     <id>http://theironyard.github.io/blog/2013/04/22/southern-culture-technology</id>
     <content type="html"><![CDATA[<p>We live and work in the South, and we love it. One of our favorite things is how surprised people get when they come visit &ndash; assumptions melt away and they find a thriving culture and growing tech scene.</p>
 
+<!-- more -->
+
+
 <p>Some of our friends up in Tennessee are wrapping as much of those ingredients in to one event as possible, and we&rsquo;re joining them. On June 12th and 13th, we&rsquo;re headed to Nashville for <a href="http://www.southlandse.com/">Southland</a>, a conference where we&rsquo;ll be connecting the Southeast&rsquo;s best early-stage companies with investors from across the country.</p>
 
 <p>Come watch our region&rsquo;s hand-picked startups pitch, meet VCs and Angels from around the country, world class speakers, and of course, a full does of Southern music and food.</p>
@@ -219,6 +240,9 @@ Nashville, TN. 37203</em>
     <updated>2013-04-15T15:00:06-04:00</updated>
     <id>http://theironyard.github.io/blog/2013/04/15/kate-mccarthy-five-things-i-learned-at-lessconf</id>
     <content type="html"><![CDATA[<p>This weekend I had the opportunity to attend LessConf. As a new comer to the tech/startup world and a first timer at what has to be (for lack of a better term) <em>the __coolest conference in the history</em>, I wanted to share a few take aways. Here are the top five things I learned at LessConf.</p>
+
+<!-- more -->
+
 
 <p><strong>1)   It’s better to be awesome than perfect.</strong> Hosts <a href="mailto:https://twitter.com/allanbranch">Allan</a> and <a href="https://twitter.com/stevenbristol">Steve</a> and their international clan of programming weirdo cool kids really drove this home for me.  Steve’s response to weak wifi in the old movie theater where the first batch of talks went down: “I don’t care.  You shouldn’t be on the internet anyway.” These guys really embody the ethos of striving for awesomeness rather than perfection.</p>
 
@@ -244,6 +268,9 @@ Nashville, TN. 37203</em>
     <content type="html"><![CDATA[<p>Yeah, yeah, we didn&rsquo;t publish anything last week. We were launching a code school, for crying out loud.</p>
 
 <p>Also, you&rsquo;ve probably noticed the lack of obese animal picture in the post. Sorry about that, but I couldn&rsquo;t bear scrolling through our blog because I realized it was one big stream of fat creature photos, so I took a week off.</p>
+
+<!-- more -->
+
 
 <p><strong>1) Along with launching a code school, we announced a product design class taught by Marco Suarez. </strong> <a href="https://medium.com/tech-talk/fce9d38d2290">He wrote an amazing post called &ldquo;The Gap&rdquo; about why we started a design school</a>. Here&rsquo;s a taste:</p>
 
