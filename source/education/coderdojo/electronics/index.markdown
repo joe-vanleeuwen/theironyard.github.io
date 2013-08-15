@@ -47,7 +47,7 @@ If a student in a full class drops out before the course starts, we will give th
 
 #### Do I need to sign any legal paperwork in order for my child to take the class? 
 
-We require every student to have a waiver/release form signed by a parent or guardian. You will recieve a link to this form when you sign up for a ticket. x  
+We require every student to have a waiver/release form signed by a parent or guardian. You will recieve a link to this form when you sign up for a ticket.
 
 {% sidebar %}
 
