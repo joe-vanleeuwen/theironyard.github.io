@@ -54,7 +54,7 @@ To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If
 #### Greenville class details
 
 **Day**: Tuesdays  
-**Time**: 4:30-5:30pm  
+**Time**: 3:30-4:30pm  
 **Location**: The NEXT Center  
 **Address**: 411 University Ridge, Suite 220  
 **Duration**: 6 weeks  
