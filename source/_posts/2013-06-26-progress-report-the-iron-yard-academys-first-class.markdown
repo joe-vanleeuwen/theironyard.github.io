@@ -18,7 +18,7 @@ tags:
 - front end engineering
 ---
 
-![](http://blog.theironyard.com/wp-content/uploads/2013/06/featured-image-andrew-mcintee.jpg)
+<img src="http://blog.theironyard.com/wp-content/uploads/2013/06/featured-image-andrew-mcintee.jpg" style="border-radius: 3px">
 
 We're nearing the end of our first Front End Engineering course, and it's been an amazing experience. Halfway through the course we talked to both students and guest lecturers to see what they had to say. Here are a few responses. 
 
@@ -32,6 +32,8 @@ We invited our friend Marco, now an Art Director at MailChimp, to spend a week t
 
 After the class we asked him what he thought about the students, and he told us they're the type of talent he's looking to hire. Take it away, Marco: 
 
+<iframe src="http://player.vimeo.com/video/69189571?title=0&amp;byline=0&amp;portrait=0&amp;color=39474e" width="680" height="383" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 * * *
 
 ### Student – Andrew McIntee
@@ -40,4 +42,4 @@ Andrew McIntee started working as a front end developer in high school. After gr
 
 He came to The Iron Yard Academy's Front End Engineering course to increase his code chops, and says that three months here has been worth three years in his career. He's busy with freelance work, but is ready for a full time job at a cool company. Hire while it's hot. Here's Andrew telling his story: 
 
-
+<iframe src="http://player.vimeo.com/video/69189570?title=0&amp;byline=0&amp;portrait=0&amp;color=39474e" width="680" height="382" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
