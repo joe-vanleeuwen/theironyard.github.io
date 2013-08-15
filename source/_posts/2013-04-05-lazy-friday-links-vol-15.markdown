@@ -14,13 +14,11 @@ Yeah, yeah, we didn't publish anything last week. We were launching a code schoo
 
 Also, you've probably noticed the lack of obese animal picture in the post. Sorry about that, but I couldn't bear scrolling through our blog because I realized it was one big stream of fat creature photos, so I took a week off. 
 
+<!-- more -->
+
 **1) Along with launching a code school, we announced a product design class taught by Marco Suarez. ** [He wrote an amazing post called "The Gap" about why we started a design school](https://medium.com/tech-talk/fce9d38d2290). Here's a taste: 
 
-
-
 > Our mission is not to replace a formal education nor the need for online learning, but fill a gap that our shifting industry has created, train people for great jobs, and build meaningful projects in the process.
-
-
 
 2) [A Beethoven-ly amazing flash mob](http://www.youtube.com/watch?feature=player_embedded&v=GBaHPND2QJg). Mind: blown.
 

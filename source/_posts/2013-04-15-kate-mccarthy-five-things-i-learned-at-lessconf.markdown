@@ -16,6 +16,8 @@ tags:
 
 This weekend I had the opportunity to attend LessConf. As a new comer to the tech/startup world and a first timer at what has to be (for lack of a better term) _the __coolest conference in the history_, I wanted to share a few take aways. Here are the top five things I learned at LessConf.
 
+<!-- more -->
+
 **1)   It’s better to be awesome than perfect.** Hosts [Allan](mailto:https://twitter.com/allanbranch) and [Steve](https://twitter.com/stevenbristol) and their international clan of programming weirdo cool kids really drove this home for me.  Steve’s response to weak wifi in the old movie theater where the first batch of talks went down: “I don’t care.  You shouldn’t be on the internet anyway.” These guys really embody the ethos of striving for awesomeness rather than perfection.
 
 **2)   E-mail attachments might be your golden ticket.  **Just ask [Ryan O’Hara](https://twitter.com/Ryohara) from [Dyn](http://dyn.com/) who gave some sage advice on how to craft cold e-mails. EX: after a potential client he reached out to didn’t respond, he followed up with an email + photo attachment of him lying prostrate and depressed on the floor. Rule of thumb, even if you don’t get their business, make them fall in love with you.****

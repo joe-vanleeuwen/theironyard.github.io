@@ -12,6 +12,8 @@ Woah, we almost forgot to mention one of our favorite conferences of the year, a
 
 ConvergeSE is one of the best web conferences on the map, in our humble opinion. One of the founders, Gene Crawford, is a mentor in our program. One of the best parts of Converge is the strict focus on specific subjects. This year they're tackling new territory in internet-old topics: 
 
+<!-- more -->
+
 **Design** - Explore the responsive design landscape, sharpen your prototyping design skills and explore web typography.
 
 **Front End Development** - Dive into CSS with animations...Then get some in-depth experience exploring the responsive landscape.

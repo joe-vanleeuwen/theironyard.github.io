@@ -18,6 +18,8 @@ tags:
 
 The Startup Life™ is thickly shrouded with threats of difficulty. First you're required to have an astoundingly novel idea that promises to capture a gigantic industry or market. (Or at least be able to convince people of those things.) Next, you need a killer team, preferably one with a brilliant engineer co-founder who's willing to give up a six-figure income to work tirelessly on your product. 
 
+<!-- more -->
+
 Later you discover that the importance of the idea pales in comparison to execution: if you can't ship, you're dead in the water. Courting VCs and negotiating term sheets, if you're one of the lucky few to beat that many levels and face the boss, is a black art in and of itself, and one wrong step can flush everything you've worked for down the drain. Work/life balance as most know isn't even part of the equation for many entrepreneurs.
 
 After running an accelerator program for 7 months, though, I've learned that one of the most trying hurdles is the minefield of different 'advice' startups get along the way.
