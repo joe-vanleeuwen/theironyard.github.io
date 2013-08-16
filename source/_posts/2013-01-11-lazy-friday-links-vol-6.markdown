@@ -15,29 +15,21 @@ tags:
 - lazy friday links
 ---
 
+<img src="/images/blog/2013/01/lazy-friday-6.jpg" style="border-radius: 3px;">
+
 Unfortunately Friday isn't lazy for us today. We're in all day meetings, meaning I'm posting this from the car. That DOESN'T mean, however, that you have an excuse not to procrastinate. So let's get lazy: 
+
+<!-- more -->
 
 **1) Today's brain-bonker is about Google knowing what you want to know. You know?**.
 Google published their annual [Zeitgeist data](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/en/us/zeitgeist/2012/download/google-zeitgeist-2012-en.pdf) (PDF) for 2012, and Quartz collected the world's "How to" searches into a post called "[Things the world wants to know how to do](http://qz.com/39672/things-the-world-wants-to-know-how-to-do/)." 
 
 A taste to whet your palette: 
 
-
-
-
-	
   * **Brazil**: how to remove Facebook
-
-	
   * **Canada**: how to rock
-
-	
   * **Chile**: how to make a family tree
-
-	
   * **Colombia**: how to make cupcakes
-
-
 
 2) [The best guide ever](http://www.youtube.com/watch?v=L2NxmZMW7Ys&feature=youtu.be) on how to drink Scotch Whiskey. Don't do it wrong or he'll kill you. 
 

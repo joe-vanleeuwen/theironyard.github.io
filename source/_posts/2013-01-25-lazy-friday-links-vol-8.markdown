@@ -15,15 +15,14 @@ tags:
 - the illusion
 ---
 
+<img src="/images/blog/2013/01/lazy-chimp.jpg" style="border-radius: 3px;">
+
 **1) Today's Think Link is all about how to get stuff done.** It's from a [guest post we wrote for the GAN Blog](http://gan.co/blog/proven-methods/a-day-in-the-life-of-a-program-manager-how-we-get-things-done-at-the-iron-yard), and we'll tease you with a little quote: 
 
-
+<!-- more -->
 
 > 
 Email is like taking a pity date to the prom: it seems like a good idea at the time, but when the booty dancing starts, things get out of hand pretty quickly. OK, maybe it’s not exactly like that, but it is a necessary evil for a lot of people.
-
-
-
 
 Ok, bookmark that productivity crap for Monday morning. It's time to get lazy. 
 

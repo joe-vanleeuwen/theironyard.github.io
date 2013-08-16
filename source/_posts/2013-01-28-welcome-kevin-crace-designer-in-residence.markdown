@@ -15,7 +15,11 @@ tags:
 - RISD
 ---
 
-_At the end of 2012, we were lucky enough to get an email from a guy named Kevin Crace. He was finishing up at Boston Startup School after crushing through an architecture degree from [RISD](http://www.risd.edu/), all before he made it through age 25. If that wasn't enough, he's done great freelance work for startups like [Promoboxx](http://www.promoboxx.com/) and [Dashbell](http://dashbell.com/). Turns out he's passionate about the Southeast, and he wanted help out at The Iron Yard. We've already gotten his hands dirty with Iron Yard design projects, and we can't wait to see the incredible stuff he does for our startups. _
+<img src="/images/blog/2013/01/kevin-crace-intro.jpg" style="border-radius: 3px;">
+
+*At the end of 2012, we were lucky enough to get an email from a guy named Kevin Crace. He was finishing up at Boston Startup School after crushing through an architecture degree from [RISD](http://www.risd.edu/), all before he made it through age 25. If that wasn't enough, he's done great freelance work for startups like [Promoboxx](http://www.promoboxx.com/) and [Dashbell](http://dashbell.com/). Turns out he's passionate about the Southeast, and he wanted help out at The Iron Yard. We've already gotten his hands dirty with Iron Yard design projects, and we can't wait to see the incredible stuff he does for our startups.*
+
+<!-- more -->
 
 Meet Kevin: 
 

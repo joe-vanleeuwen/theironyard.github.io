@@ -15,6 +15,9 @@ tags:
 - newspaper
 ---
 
+<img src="/images/blog/2013/01/eric-greenville-news-1.9.131.jpg" style="border-radius: 3px;">
+
 This is totally not important, but it is. 
 
-[![](/images/blog/2013/01/eric-greenville-news-1.9.131.jpg)](/images/blog/2013/01/eric-greenville-news-1.9.131.jpg)
+<!-- more -->
+

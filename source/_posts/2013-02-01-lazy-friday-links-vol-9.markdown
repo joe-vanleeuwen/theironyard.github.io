@@ -14,21 +14,20 @@ tags:
 - sea foam
 ---
 
+<img src="/images/blog/2013/02/cat-eating-kale.jpg" style="border-radius: 3px;">
+
 We realized that our blog was essentially just a collection of pictures of obese animals. So we thought we'd take a week off from the corpulent creatures and do something healthy for a change. Like a cat eating kale.  
 
 Ok, let's get going. 
 
+<!-- more -->
+
 **1) This week we're thinking about online privacy.** If you haven't seen Tom Scott's [collection of Facebook Graph searches](http://actualfacebookgraphsearches.tumblr.com/), you should. Here's a teaser:
-
-
 
 > 
 Graph Search jokes are a good way of startling people into checking their privacy settings — but most people will never actually be affected by accidentally making data ‘public’. (Of course, for the unlucky ones, it won’t be a gamble worth taking.)
 
 Most of the danger online comes not from strangers making half-assed joke searches: it comes from people who know you. A lot of the public data fails what I call the ‘bitter ex test’: can someone who hates you ruin your life with that information?
-
-
-
 
 2) [A town in Australia completely covered in sea foam](https://www.youtube.com/watch?v=-dvEmroCHXs). 
 

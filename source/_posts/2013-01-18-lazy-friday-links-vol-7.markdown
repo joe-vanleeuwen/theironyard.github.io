@@ -15,23 +15,17 @@ tags:
 - seahorses
 ---
 
+<img src="/images/blog/2013/01/lazy-friday-7.jpg" style="border-radius: 3px;">
+
 Yes, we're late today. East Coasters, we're very sorry if you got something done.
+
+<!-- more -->
 
 **1) Todays' Grey Matter-er is all about design.** Mark Wunsch wrote a great post called "[Design Q&A; with Charles Eames](http://markwunsch.com/blog/2008/09/27/design-q-a-with-charles-eames.html)," in which he recounts some profound answers to great questions. A sample: 
 
-
-
-> 
-
-> 
 > Q: “Is Design an expression of art?”
-> 
-> 
 
-> 
 > _“I would rather say it’s an expression of purpose. It may, if it is good enough, later be judged as art.”_
-
-
 
 2) [True facts about seahorses.](http://www.youtube.com/watch?feature=player_embedded&v=UqYUTTqupOY)
 

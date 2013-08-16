@@ -15,16 +15,16 @@ tags:
 - videos
 ---
 
+<img src="/images/blog/2013/01/lazy-friday-5.jpg" style="border-radius: 3px;">
+
 Happy New Year! 
+
+<!-- more -->
 
 **1) Today's noodle-worker comes from a blog called "Mr. Money Mustache," so you know it's going to be awesome.**.
 An article called "[Cure Yourself of Tiny Details Exaggeration Syndrome](http://www.mrmoneymustache.com/2012/12/26/cure-yourself-of-tiny-details-exaggeration-syndrome/)" was floated around the net a bit, and we thought it was self-reflective, kind of new years resolution-y, and all that other stuff that makes you feel optimistic about the future. Here's a quote to whet the palette: 
 
-
-
 > Despite their advantaged position, people seem to become unaware of the wide variety of conditions in the world and their own ability as a human to deal with them. The results are both tragic and amusing.
-
-
 
 2) [Watching this blacksmith work ](http://www.youtube.com/watch?feature=player_embedded&v=J3nojb-gFH4)will make you want to go live in the woods.
 

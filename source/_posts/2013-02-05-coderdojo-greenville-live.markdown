@@ -20,8 +20,9 @@ We've talked a lot about our [CoderDojo program](http://www.theironyard.com/acad
 
 We recently had [Chris Brank](http://chrisbrankfilms.com/) and his team fire up the video cameras so you could see what it looks like live. 
 
+<!-- more -->
 
+<iframe src="http://player.vimeo.com/video/58981618" width="500" height="281" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-
-
+<iframe src="http://player.vimeo.com/video/58981617" width="500" height="281" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
