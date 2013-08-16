@@ -10,10 +10,11 @@ categories:
 - Academy
 ---
 
-> CoderDojo is a movement orientated around running free not-for-profit coding clubs and regular sessions for young people.
+<img src="/images/blog/2012/09/2012-9-26-introducing-coderdojo-greenville.jpg" style="border-radius: 3px;">
 
+CoderDojo is a movement orientated around running free not-for-profit coding clubs and regular sessions for young people.
 
-
+<!-- more -->
 
 < bow to your sensei >
 
@@ -29,10 +30,6 @@ If you have that same big heart, you can get involved too. Visit the [CoderDojo 
 
 < /bow to your sensei >
 
-
-
 * * *
-
-
 
 [![](http://blog.theironyard.com/wp-content/uploads/2012/09/tumblr_m9bs74IeSK1rehw0go1_1280-e1348678873438.jpg)](http://coderdojogreenville.com/post/30186775607/older-laptops-arent-great-for-todays-hd-movies)
