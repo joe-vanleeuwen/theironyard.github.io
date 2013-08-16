@@ -40,7 +40,7 @@ Complexity made simple. In a way, this is the challenge Asana has set itself fro
 
 
 
-Related: a great quote [we posted](http://blog.theironyard.com/2012/12/lazy-friday-links-vol-2/) from [Rian van der Merwe](http://www.elezea.com/2012/12/maybe-it-doesnt-suck/): 
+Related: a great quote [we posted](/images/blog/2012/12/lazy-friday-links-vol-2/) from [Rian van der Merwe](http://www.elezea.com/2012/12/maybe-it-doesnt-suck/): 
 
 "_It’s easy to write a few paragraphs about how much something sucks. You know what’s difficult? Recognizing and respecting complexity. Giving people the benefit of the doubt and trying to understand why they made the decisions they made — whether it’s related to business, design, development, or anything else._"
 

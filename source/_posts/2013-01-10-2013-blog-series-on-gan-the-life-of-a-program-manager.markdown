@@ -29,7 +29,7 @@ I ended up here after a winding road of education, marketing, attempts to escape
 
 [![](/images/blog/2013/01/23_large-e1357239755355.jpeg)](/images/blog/2013/01/23_large.jpeg)
 
-Which is where you come in. Well, kind of. It’s where Sarah Jane and Patrick (here at GAN) come in. I had the pleasure of meeting both at the recent [GAN Founders Conference](http://blog.theironyard.com/2012/11/what-the-iron-yard-learned-at-the-gan-founders-conference/) in Boston. We all became friends, and I happened to mention to Sarah Jane that I had no idea what I was doing in my new job. Before the words finished leaving my mouth, we both realized it might be fun, maybe even helpful, for people to follow along as I learn the ropes.
+Which is where you come in. Well, kind of. It’s where Sarah Jane and Patrick (here at GAN) come in. I had the pleasure of meeting both at the recent [GAN Founders Conference](/images/blog/2012/11/what-the-iron-yard-learned-at-the-gan-founders-conference/) in Boston. We all became friends, and I happened to mention to Sarah Jane that I had no idea what I was doing in my new job. Before the words finished leaving my mouth, we both realized it might be fun, maybe even helpful, for people to follow along as I learn the ropes.
 
 So, starting in January, I’ll be writing a regular feature about what the life of a Program Manager looks like.
 

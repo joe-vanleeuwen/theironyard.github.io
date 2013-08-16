@@ -10,7 +10,7 @@ categories:
 - Lazy Friday Links
 ---
 
-Just in case you [missed last week's debut](http://blog.theironyard.com/2012/12/lazy-friday-links-vol-1/), we're starting a new feature called "Lazy Friday Links." This came about in part because we write a good bit during the week, but also because there's nothing better than useless internet entertainment on a Friday. So, we proudly present Lazy Friday Links, Vol. 2. 
+Just in case you [missed last week's debut](/images/blog/2012/12/lazy-friday-links-vol-1/), we're starting a new feature called "Lazy Friday Links." This came about in part because we write a good bit during the week, but also because there's nothing better than useless internet entertainment on a Friday. So, we proudly present Lazy Friday Links, Vol. 2. 
 
 Click well, my friends. 
 
