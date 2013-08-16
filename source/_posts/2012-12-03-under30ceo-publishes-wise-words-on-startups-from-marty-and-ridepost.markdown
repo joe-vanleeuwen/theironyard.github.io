@@ -22,19 +22,13 @@ tags:
 
 Under30CEO recently published a few smart articles from Marty Bauer of RidePost. Here's a preview of his wise words for startups: 
 
+<!-- more -->
 
-
-###### [Top 5 Apps For Your Startup](http://under30ceo.com/top-5-apps-for-your-startup/)
-
-
+#### [Top 5 Apps For Your Startup](http://under30ceo.com/top-5-apps-for-your-startup/)
 
 With countless apps available and dozens that I’ve downloaded personally, there are actually only a few that truly help your business everyday. As a lean startup, I quickly learned the importance of great and free apps. Below is my list of top apps for your startup and mine. [_Read the full article._](http://under30ceo.com/top-5-apps-for-your-startup/)
 
-
-
-###### [When Is The Best Time To Start A Startup?](http://under30ceo.com/when-is-the-best-time-to-start-a-startup/)
-
-
+#### [When Is The Best Time To Start A Startup?](http://under30ceo.com/when-is-the-best-time-to-start-a-startup/)
 
 “But now is not the best time” – Everyone else
 

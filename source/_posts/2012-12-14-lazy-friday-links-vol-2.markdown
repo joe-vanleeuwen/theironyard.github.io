@@ -10,18 +10,18 @@ categories:
 - Lazy Friday Links
 ---
 
+<img src="/images/blog/2012/12/lazy-friday-links-2.jpg" style="border-radius: 3px;">
+
 Just in case you [missed last week's debut](/images/blog/2012/12/lazy-friday-links-vol-1/), we're starting a new feature called "Lazy Friday Links." This came about in part because we write a good bit during the week, but also because there's nothing better than useless internet entertainment on a Friday. So, we proudly present Lazy Friday Links, Vol. 2. 
 
 Click well, my friends. 
 
+<!-- more -->
+
 **1) We generally start with something that actually requires thought, then quickly degenerate from there**.
 We ran across [a post from Rian van der Merwe](http://www.elezea.com/2012/12/maybe-it-doesnt-suck/) that challenged people to stop saying everything sucks. Critique flows abundantly in accelerators, where ideas are vetted, re-vetted, and vetted again. It's Lazy Friday, so here's our favorite quote: 
 
-
-
 > It’s easy to write a few paragraphs about how much something sucks. You know what’s difficult? Recognizing and respecting complexity. Giving people the benefit of the doubt and trying to understand why they made the decisions they made...
-
-
 
 2) Oh my [shark eating seal](http://cdn.theatlantic.com/static/infocus/ngpc112812/s_n39_thegreat.jpg). 
 

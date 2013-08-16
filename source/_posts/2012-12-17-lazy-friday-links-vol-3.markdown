@@ -22,10 +22,14 @@ tags:
 - wisconsin
 ---
 
+<img src="/images/blog/2012/12/lazy-christmas-dog.jpg" style="border-radius: 3px;">
+
 Merry Christmas, everyone. Let's get lazy: 
 
 **1) Our Link That Actually Makes You Think™ is about how phones are getting, well, really really smart**.
 Pando Daily ran a piece about 'app overload' that discussed machine learning and how "your smartphone already knows you better than your mom does." We're really intrigued by recent talk on services like [Google Now](http://www.google.com/landing/now/) and [Grokr](http://www.grokrlabs.com/product), and yes, artificial intelligence. (And we want to see [Ray's new office at Google](http://techcrunch.com/2012/12/14/ray-kurzweil-joins-google-as-engineering-director-focusing-on-machine-learning-and-language-tech/).)
+
+<!-- more -->
 
 2) People in Wisconsin, in the fall, [wakeboarding on cranberries](http://www.youtube.com/watch?feature=player_embedded&v=dEe9Q2KQvM4#!).
 

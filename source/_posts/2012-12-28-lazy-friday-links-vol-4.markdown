@@ -18,7 +18,11 @@ tags:
 - siberia
 ---
 
+<img src="/images/blog/2012/12/lazy-friday-pig.jpg" style="border-radius: 3px;">
+
 Welcome back to the office. Today might not feel like a Friday because of the short week, but that's a horrible excuse for not procrastinating your way around the internet. And with that, here are your Lazy Friday Links: 
+
+<!-- more -->
 
 **1) In the spirit of both post-holiday shopping as well as dealings with VCs and Angels, today's Think Link is about negotiation.**.
 Quartz ran a [great piece](http://qz.com/39074/how-to-negotiate-for-anything/) called "How to negotiate for anything" that includes an awesome story about a former FBI negotiator purchasing a car.
