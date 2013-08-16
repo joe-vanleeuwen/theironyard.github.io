@@ -39,6 +39,6 @@ Yes, we're late today. East Coasters, we're very sorry if you got something done
 
 4) [The original twttr homepage](http://cl.ly/3W2E1P0I2x090Q2b1k3B/o). Sweating logo for the win. 
 
-_[*Obligatory cat-related-something, Awesome 505 edition](http://blog.theironyard.com/wp-content/uploads/2013/01/wantworthy-awesome-505-page.png)._
+_[*Obligatory cat-related-something, Awesome 505 edition](/images/blog/2013/01/wantworthy-awesome-505-page.png)._
 
 Happy Friday.

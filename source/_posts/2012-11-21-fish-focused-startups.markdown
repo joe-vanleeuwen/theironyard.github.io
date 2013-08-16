@@ -19,7 +19,7 @@ Today is [World Fisheries Day](http://www.gdrc.org/doyourbit/21_11-fisheries-day
 
 So, in honor of this day of recognition, and neglected startups, and (mostly) because we're weird and like to have fun, we did a round of of fish focused startups. 
 
-[![](http://blog.theironyard.com/wp-content/uploads/2012/11/mystery_tackle_box_logo.png)](http://mysterytacklebox.com/home-b?utm_expid=58159875-1)
+[![](/images/blog/2012/11/mystery_tackle_box_logo.png)](http://mysterytacklebox.com/home-b?utm_expid=58159875-1)
 
 #### Mystery Tackle Box
 
@@ -31,7 +31,7 @@ So, in honor of this day of recognition, and neglected startups, and (mostly) be
 
 
 
-[![](http://blog.theironyard.com/wp-content/uploads/2012/11/village-fishmonger-nyc-85720434.jpg)](https://angel.co/s/4yLUxU)
+[![](/images/blog/2012/11/village-fishmonger-nyc-85720434.jpg)](https://angel.co/s/4yLUxU)
 
 #### Village Fishmonger
 
@@ -43,7 +43,7 @@ So, in honor of this day of recognition, and neglected startups, and (mostly) be
 
 
 
-[![](http://blog.theironyard.com/wp-content/uploads/2012/11/188017_158142430918515_813719_n.jpg)](http://blog.theironyard.com/wp-content/uploads/2012/11/188017_158142430918515_813719_n.jpg)
+[![](/images/blog/2012/11/188017_158142430918515_813719_n.jpg)](/images/blog/2012/11/188017_158142430918515_813719_n.jpg)
 
 #### Family Fish Farms
 
@@ -55,7 +55,7 @@ So, in honor of this day of recognition, and neglected startups, and (mostly) be
 
 
 
-[![](http://blog.theironyard.com/wp-content/uploads/2012/11/52812-72b2d26ec63316f00bda362018f857ec-medium_jpg.jpg)](http://www.good-fish.com)
+[![](/images/blog/2012/11/52812-72b2d26ec63316f00bda362018f857ec-medium_jpg.jpg)](http://www.good-fish.com)
 
 #### Good Fish
 
@@ -67,7 +67,7 @@ So, in honor of this day of recognition, and neglected startups, and (mostly) be
 
 
 
-[![](http://blog.theironyard.com/wp-content/uploads/2012/11/572176_100001651848984_272932405_n.jpg)](https://angel.co/fishblab)
+[![](/images/blog/2012/11/572176_100001651848984_272932405_n.jpg)](https://angel.co/fishblab)
 
 #### FishBlab
 
@@ -79,7 +79,7 @@ So, in honor of this day of recognition, and neglected startups, and (mostly) be
 
 
 
-[![](http://blog.theironyard.com/wp-content/uploads/2012/11/HawaiiOceanTechnologies-e1353517635639.jpg)](http://blog.theironyard.com/wp-content/uploads/2012/11/HawaiiOceanTechnologies.jpg)
+[![](/images/blog/2012/11/HawaiiOceanTechnologies-e1353517635639.jpg)](/images/blog/2012/11/HawaiiOceanTechnologies.jpg)
 
 #### Hawaii Oceanic Technology
 

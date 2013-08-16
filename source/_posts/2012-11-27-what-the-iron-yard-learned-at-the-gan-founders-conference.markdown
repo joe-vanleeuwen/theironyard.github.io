@@ -145,7 +145,7 @@ Joking aside, I used to work in marketing, and far and away it's the best speech
 
 
 GAN took an awesome shot of Peter (our Managing Director). Look at that grin. 
-[![](http://blog.theironyard.com/wp-content/uploads/2012/11/306031_546379725375993_1071726011_n-e1354032621558.jpeg)](http://blog.theironyard.com/wp-content/uploads/2012/11/306031_546379725375993_1071726011_n-e1354032621558.jpeg)
+[![](/images/blog/2012/11/306031_546379725375993_1071726011_n-e1354032621558.jpeg)](/images/blog/2012/11/306031_546379725375993_1071726011_n-e1354032621558.jpeg)
 
 They also took a picture of me making some sort of weird chicken-wing-flapping motion. Flattering.  
-[![](http://blog.theironyard.com/wp-content/uploads/2012/11/536415_546376902042942_2041315183_n-e1354032657564.jpeg)](http://blog.theironyard.com/wp-content/uploads/2012/11/536415_546376902042942_2041315183_n-e1354032657564.jpeg)
+[![](/images/blog/2012/11/536415_546376902042942_2041315183_n-e1354032657564.jpeg)](/images/blog/2012/11/536415_546376902042942_2041315183_n-e1354032657564.jpeg)

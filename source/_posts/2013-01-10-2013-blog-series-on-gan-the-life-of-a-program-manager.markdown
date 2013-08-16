@@ -27,7 +27,7 @@ My name is Eric Dodds, and I’m the Program Manager for The Iron Yard.
 
 I ended up here after a winding road of education, marketing, attempts to escape to the Rocky Mountains, and craft beer. Here’s the short version: I had a job doing project management and strategy for a marketing firm, working shoulder to shoulder work with top-notch companies like Best Buy (in the good days), Double Day Publishing, and Anytime Fitness. I loved my job, but constantly found myself procrastinating by reading about technology, entrepreneurship, and even trying to start a few companies. About that same time, my path crossed Peter Barth’s, who happened to be the Managing Director at an accelerator, and who also happened to need an extra pair of hands. I decided to follow my procrastination, quit my job, and dive head-first into startup land. (You can read the whole saga [here](http://ericdodds.com/follow-your-procrastination/).)
 
-[![](http://blog.theironyard.com/wp-content/uploads/2013/01/23_large-e1357239755355.jpeg)](http://blog.theironyard.com/wp-content/uploads/2013/01/23_large.jpeg)
+[![](/images/blog/2013/01/23_large-e1357239755355.jpeg)](/images/blog/2013/01/23_large.jpeg)
 
 Which is where you come in. Well, kind of. It’s where Sarah Jane and Patrick (here at GAN) come in. I had the pleasure of meeting both at the recent [GAN Founders Conference](http://blog.theironyard.com/2012/11/what-the-iron-yard-learned-at-the-gan-founders-conference/) in Boston. We all became friends, and I happened to mention to Sarah Jane that I had no idea what I was doing in my new job. Before the words finished leaving my mouth, we both realized it might be fun, maybe even helpful, for people to follow along as I learn the ropes.
 

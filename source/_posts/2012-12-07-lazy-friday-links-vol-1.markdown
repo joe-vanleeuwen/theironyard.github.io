@@ -21,7 +21,7 @@ Click well, my friends.
 
 3) All of the airplane landings at Sandiego International Airport on Nov. 23rd, [back-to-back-to-back.](http://vimeo.com/54658957)
 
-4) [Awesomely bad advertising](http://blog.theironyard.com/wp-content/uploads/2012/11/urn-your-biz.jpg). 
+4) [Awesomely bad advertising](/images/blog/2012/11/urn-your-biz.jpg). 
 
 Oh, we almost forgot an [obligatory cat-related-something](http://kittencube.com/). (Hand crafted by our very own [David Haskins](https://twitter.com/skinnysc) at [CoWork](https://twitter.com/cowork).)
 

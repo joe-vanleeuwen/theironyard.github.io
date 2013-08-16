@@ -17,4 +17,4 @@ tags:
 
 This is totally not important, but it is. 
 
-[![](http://blog.theironyard.com/wp-content/uploads/2013/01/eric-greenville-news-1.9.131.jpg)](http://blog.theironyard.com/wp-content/uploads/2013/01/eric-greenville-news-1.9.131.jpg)
+[![](/images/blog/2013/01/eric-greenville-news-1.9.131.jpg)](/images/blog/2013/01/eric-greenville-news-1.9.131.jpg)

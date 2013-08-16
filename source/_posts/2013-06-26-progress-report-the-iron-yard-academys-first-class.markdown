@@ -18,7 +18,7 @@ tags:
 - front end engineering
 ---
 
-<img src="http://blog.theironyard.com/wp-content/uploads/2013/06/featured-image-andrew-mcintee.jpg" style="border-radius: 3px">
+<img src="/images/blog/2013/06/featured-image-andrew-mcintee.jpg" style="border-radius: 3px">
 
 We're nearing the end of our first Front End Engineering course, and it's been an amazing experience. Halfway through the course we talked to both students and guest lecturers to see what they had to say. Here are a few responses. 
 

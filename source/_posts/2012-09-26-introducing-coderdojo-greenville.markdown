@@ -32,4 +32,4 @@ If you have that same big heart, you can get involved too. Visit the [CoderDojo 
 
 * * *
 
-[![](http://blog.theironyard.com/wp-content/uploads/2012/09/tumblr_m9bs74IeSK1rehw0go1_1280-e1348678873438.jpg)](http://coderdojogreenville.com/post/30186775607/older-laptops-arent-great-for-todays-hd-movies)
+[![](/images/blog/2012/09/tumblr_m9bs74IeSK1rehw0go1_1280-e1348678873438.jpg)](http://coderdojogreenville.com/post/30186775607/older-laptops-arent-great-for-todays-hd-movies)

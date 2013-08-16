@@ -18,7 +18,7 @@ It’s happening!!!
 
 This Thursday will be the first session of our brand-spanking new Arduino [CoderDojo](http://www.theironyard.com/academy/kids) class, and I couldn’t be more excited! And, something tells me I’m not the only one in the class who’s going to have a blast.
 
-[![](http://blog.theironyard.com/wp-content/uploads/2013/01/esplora-happy.jpg)](http://blog.theironyard.com/wp-content/uploads/2013/01/esplora-happy.jpg)
+[![](/images/blog/2013/01/esplora-happy.jpg)](/images/blog/2013/01/esplora-happy.jpg)
 
 In December (when I was first trying to figure out what I was going to do with 15 kids and 15 Arduinos) I came to Mason’s CoderDojo Scratch class, with a few “toys” in hand, and chatted with the kids about what they might like to make out of electronics. The first question that came from most of them was “Well, what can you make?” So I started rattling off ideas in (typical Anne-style) rapid fire:
 
@@ -45,7 +45,7 @@ And the choir sang “Gaaaame Controllllller!” in perfect harmony. Ok, that wa
 
 So, I spent the next few days trying to figure out what I was going to need to help 15 kids make game controllers. I had a few ideas, all of which required an [Arduino Leonardo](http://arduino.cc/en/Main/ArduinoBoardLeonardo) (with easy, built-in Keyboard/Mouse library functions). With that in mind, I dropped my Arduino friends a note, asking if the relatively new Leonardo was ready for the gauntlet a 10 year old user would run it through. “Sure,” they said, “But, you might want to look at the [Esplora](http://arduino.cc/en/Main/ArduinoBoardEsplora). We think it would be a perfect fit for your class.”
 
-[![](http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-kit.jpg)](http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-kit.jpg)
+[![](/images/blog/2013/01/arduino-esplora-kit.jpg)](/images/blog/2013/01/arduino-esplora-kit.jpg)
 
 I won’t lie. The Esplora was not at all what I had in mind... what about the breadboard? The wires?  The hookup diagrams?  Isn’t that the [fun part](http://learn.adafruit.com/assets/2442)? Is it <del>possible</del> <del>likely</del> certain that my perceptions/opinions are being colored by my extremely specialized professional experience as an Analog/RF-centric Electrical Engineer?
 
@@ -57,8 +57,8 @@ So let me wrap this up with a few thank you's. Thank you so much to my new Iron 
 
 _Anne Mahaffey is a super-friend of The Iron Yard, is passionate about electronics hardware, and can't wait to share that passion with the kids at CoderDojo. Anne, we're incredibly grateful for everything you do._
 
-[![](http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-box.jpg)](http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-box.jpg)
+[![](/images/blog/2013/01/arduino-esplora-box.jpg)](/images/blog/2013/01/arduino-esplora-box.jpg)
 
-[![](http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-packaging.jpg)](http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-packaging.jpg)
+[![](/images/blog/2013/01/arduino-esplora-packaging.jpg)](/images/blog/2013/01/arduino-esplora-packaging.jpg)
 
-[![](http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-detail.jpg)](http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-detail.jpg)
+[![](/images/blog/2013/01/arduino-esplora-detail.jpg)](/images/blog/2013/01/arduino-esplora-detail.jpg)

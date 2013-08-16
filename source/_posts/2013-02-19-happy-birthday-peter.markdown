@@ -18,4 +18,4 @@ The Iron Yard wouldn't be what it is without you, Pete.
 
 **Happy Birthday!**
 
-[![900x900px-LL-89c85861_IMG_3551](http://blog.theironyard.com/wp-content/uploads/2013/02/900x900px-LL-89c85861_IMG_3551.jpeg)](http://blog.theironyard.com/wp-content/uploads/2013/02/900x900px-LL-89c85861_IMG_3551.jpeg)
+[![900x900px-LL-89c85861_IMG_3551](/images/blog/2013/02/900x900px-LL-89c85861_IMG_3551.jpeg)](/images/blog/2013/02/900x900px-LL-89c85861_IMG_3551.jpeg)

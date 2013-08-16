@@ -26,7 +26,7 @@ We have some great New Year's surprises for you.
 
 Over the past few months we've worked with the uber-talented [Justin Hall](http://www.justinhalldesign.com/) to refine the look and feel of our brand. We're really excited about our new outfit, and we'll write in more detail about the process in the coming weeks. 
 
-[![](http://blog.theironyard.com/wp-content/uploads/2013/01/the-iron-yard-logo-e1357233395984.jpg)](http://blog.theironyard.com/wp-content/uploads/2013/01/the-iron-yard-logo-e1357233269154.jpg)
+[![](/images/blog/2013/01/the-iron-yard-logo-e1357233395984.jpg)](/images/blog/2013/01/the-iron-yard-logo-e1357233269154.jpg)
 
 
 
@@ -42,7 +42,7 @@ Along with the brand, we've just pushed a shiny [new site](http://theironyard.co
 
 
 
-[![](http://blog.theironyard.com/wp-content/uploads/2013/01/kate-mccarthy-e1357233252598.jpg)](http://blog.theironyard.com/wp-content/uploads/2013/01/kate-mccarthy-e1357233252598.jpg)
+[![](/images/blog/2013/01/kate-mccarthy-e1357233252598.jpg)](/images/blog/2013/01/kate-mccarthy-e1357233252598.jpg)
 
 I realized that we forgot to officially announce my arrival on the blog, so we'll say this counts. 
 
