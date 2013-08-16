@@ -31,7 +31,7 @@
 </head>
 
 <body>
-  <div class="header" style="background-color:  #39474E ;"><div class="container"><a href="/"><div class="logo"><img src="/images/iron-yard-logo.svg" /></div></a><div class="primary"><ul class="pages-list"><li><a href="/about">About</a></li><li><a href="/portfolio">Portfolio</a></li><li><a href="http://theironyardnews.tumblr.com">News</a></li><li><a href="http://blog.theironyard.com">Blog</a></li></ul><ul class="sites-list"><li><a href="/accelerator">Accelerator</a></li><li><a href="/cowork">CoWork</a></li><li><a href="/education">Education</a></li><li><a href="/events">Events</a></li></ul></div></div></div>
+  <div class="header" style="background-color:  #39474E ;"><div class="container"><a href="/"><div class="logo"><img src="/images/iron-yard-logo.svg" /></div></a><div class="primary"><ul class="pages-list"><li><a href="/about">About</a></li><li><a href="/portfolio">Portfolio</a></li><li><a href="http://theironyardnews.tumblr.com">News</a></li><li><a href="/blog">Blog</a></li></ul><ul class="sites-list"><li><a href="/accelerator">Accelerator</a></li><li><a href="/cowork">CoWork</a></li><li><a href="/education">Education</a></li><li><a href="/events">Events</a></li></ul></div></div></div>
 
   
   <div class="main" style="width:100%;"><div class="intro" style="background-color: #39474E;"><div class="container"><div class="row"><div class="intro-content"><div class="triangle" style="border-top: 20px solid #39474E;"></div><h1><a class="ss-left back" href="/blog"></a>The Blog</h1><div class="secondary"><ul class="sub-nav"><li><span class="ss-navigateleft" style="padding-right: 8px;"></span><a href="/blog/2013/01/04/lazy-friday-links-vol-5/" title="Previous Post: Lazy Friday Links, Vol. 5">Lazy Friday Links, Vol. 5</a></li><li style="margin-left: 40px;"><a href="/blog/2013/01/10/2013-blog-series-on-gan-the-life-of-a-program-manager/" title="Next Post: 2013 Blog Series on GAN: The Life of a Program Manager">2013 Blog Series on GAN: The Life of a Program Manager</a><span class="ss-navigateright" style="padding-left: 8px;"></span></li></ul></div></div></div></div></div><div class="container"><div class="content"><div class="article row"><div class="span8"><div class="article-content"><h2>CoderDojo: building arduino video game controllers for Scratch, from scratch</h2><p class="meta">Posted 
@@ -55,20 +55,25 @@
   
 </p>
 
-</p><p>It’s happening!!!</p>
+</p><p><img src="/images/blog/2013/01/arduino-esplora-featured-image.jpg" style="border-radius: 3px;"></p>
+
+<p>It’s happening!!!</p>
 
 <p>This Thursday will be the first session of our brand-spanking new Arduino <a href="http://www.theironyard.com/academy/kids">CoderDojo</a> class, and I couldn’t be more excited! And, something tells me I’m not the only one in the class who’s going to have a blast.</p>
 
-<p><a href="http://blog.theironyard.com/wp-content/uploads/2013/01/esplora-happy.jpg"><img src="http://blog.theironyard.com/wp-content/uploads/2013/01/esplora-happy.jpg" alt="" /></a></p>
+<!-- more -->
+
+
+<p><img src="/images/blog/2013/01/esplora-happy.jpg" style="border-radius: 3px;"></p>
 
 <p>In December (when I was first trying to figure out what I was going to do with 15 kids and 15 Arduinos) I came to Mason’s CoderDojo Scratch class, with a few “toys” in hand, and chatted with the kids about what they might like to make out of electronics. The first question that came from most of them was “Well, what can you make?” So I started rattling off ideas in (typical Anne-style) rapid fire:</p>
 
 <ul>
-<li><p>A ball that sings when you throw it?</p></li>
-<li><p>A circuit that tells you the temperature by the color of it’s light?</p></li>
-<li><p>A “Shh” meter, that tells everyone to be quieter when they get too loud?</p></li>
-<li><p>A “Coffee-Thief Zapper” that shocks the lazy guy in your office who keeps taking the last cup of coffee without making a new pot?  (Ok, maybe not a good suggestion for kids, but it’s at the top of my to-do list.)</p></li>
-<li><p>A game controller that you could make from scratch, to control your made-from-scratch Scratch game?</p></li>
+<li>A ball that sings when you throw it?</li>
+<li>A circuit that tells you the temperature by the color of it’s light?</li>
+<li>A “Shh” meter, that tells everyone to be quieter when they get too loud?</li>
+<li>A “Coffee-Thief Zapper” that shocks the lazy guy in your office who keeps taking the last cup of coffee without making a new pot?  (Ok, maybe not a good suggestion for kids, but it’s at the top of my to-do list.)</li>
+<li>A game controller that you could make from scratch, to control your made-from-scratch Scratch game?</li>
 </ul>
 
 
@@ -76,7 +81,7 @@
 
 <p>So, I spent the next few days trying to figure out what I was going to need to help 15 kids make game controllers. I had a few ideas, all of which required an <a href="http://arduino.cc/en/Main/ArduinoBoardLeonardo">Arduino Leonardo</a> (with easy, built-in Keyboard/Mouse library functions). With that in mind, I dropped my Arduino friends a note, asking if the relatively new Leonardo was ready for the gauntlet a 10 year old user would run it through. “Sure,” they said, “But, you might want to look at the <a href="http://arduino.cc/en/Main/ArduinoBoardEsplora">Esplora</a>. We think it would be a perfect fit for your class.”</p>
 
-<p><a href="http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-kit.jpg"><img src="http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-kit.jpg" alt="" /></a></p>
+<p><img src="/images/blog/2013/01/arduino-esplora-kit.jpg" style="border-radius: 3px;"></p>
 
 <p>I won’t lie. The Esplora was not at all what I had in mind&hellip; what about the breadboard? The wires?  The hookup diagrams?  Isn’t that the <a href="http://learn.adafruit.com/assets/2442">fun part</a>? Is it <del>possible</del> <del>likely</del> certain that my perceptions/opinions are being colored by my extremely specialized professional experience as an Analog/RF-centric Electrical Engineer?</p>
 
@@ -88,11 +93,11 @@
 
 <p><em>Anne Mahaffey is a super-friend of The Iron Yard, is passionate about electronics hardware, and can&rsquo;t wait to share that passion with the kids at CoderDojo. Anne, we&rsquo;re incredibly grateful for everything you do.</em></p>
 
-<p><a href="http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-box.jpg"><img src="http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-box.jpg" alt="" /></a></p>
+<p><img src="/images/blog/2013/01/arduino-esplora-box.jpg" style="border-radius: 3px;"></p>
 
-<p><a href="http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-packaging.jpg"><img src="http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-packaging.jpg" alt="" /></a></p>
+<p><img src="/images/blog/2013/01/arduino-esplora-packaging.jpg" style="border-radius: 3px;"></p>
 
-<p><a href="http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-detail.jpg"><img src="http://blog.theironyard.com/wp-content/uploads/2013/01/arduino-esplora-detail.jpg" alt="" /></a></p>
+<p><img src="/images/blog/2013/01/arduino-esplora-detail.jpg" style="border-radius: 3px;"></p>
 <section><p class="meta"><a class="basic-alignment left" href="/blog/2013/01/04/lazy-friday-links-vol-5/" title="Previous Post: Lazy Friday Links, Vol. 5">&laquo; Lazy Friday Links, Vol. 5</a><a class="basic-alignment right" href="/blog/2013/01/10/2013-blog-series-on-gan-the-life-of-a-program-manager/" title="Next Post: 2013 Blog Series on GAN: The Life of a Program Manager">2013 Blog Series on GAN: The Life of a Program Manager &raquo;</a></p></section></div></div><div class="article-sidebar span4"><div class="article-sidebar-content">  <h3>Recent Posts</h3>
 <ul id="recent_posts">
   

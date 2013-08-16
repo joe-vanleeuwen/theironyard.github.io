@@ -4,7 +4,7 @@
   <title><![CDATA[The Iron Yard]]></title>
   <link href="http://theironyard.github.io/atom.xml" rel="self"/>
   <link href="http://theironyard.github.io/"/>
-  <updated>2013-08-15T17:10:54-04:00</updated>
+  <updated>2013-08-16T12:51:48-04:00</updated>
   <id>http://theironyard.github.io/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
@@ -18,7 +18,7 @@
     <link href="http://theironyard.github.io/blog/2013/06/26/progress-report-the-iron-yard-academys-first-class/"/>
     <updated>2013-06-26T15:58:49-04:00</updated>
     <id>http://theironyard.github.io/blog/2013/06/26/progress-report-the-iron-yard-academys-first-class</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.theironyard.com/wp-content/uploads/2013/06/featured-image-andrew-mcintee.jpg" style="border-radius: 3px"></p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/06/featured-image-andrew-mcintee.jpg" style="border-radius: 3px"></p>
 
 <p>We&rsquo;re nearing the end of our first Front End Engineering course, and it&rsquo;s been an amazing experience. Halfway through the course we talked to both students and guest lecturers to see what they had to say. Here are a few responses.</p>
 
@@ -54,7 +54,9 @@
     <link href="http://theironyard.github.io/blog/2013/05/26/the-iron-yard-demo-days-spring-2013/"/>
     <updated>2013-05-26T20:10:50-04:00</updated>
     <id>http://theironyard.github.io/blog/2013/05/26/the-iron-yard-demo-days-spring-2013</id>
-    <content type="html"><![CDATA[<p>After three amazing, difficult, and rewarding months, our Spring 2013 Accelerator teams are ready to share their products with the world—and investors.</p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/05/demo-day-2013.jpg" style="border-radius: 3px;"></p>
+
+<p>After three amazing, difficult, and rewarding months, our Spring 2013 Accelerator teams are ready to share their products with the world—and investors.</p>
 
 <p>This year we&rsquo;ll launch on our home turf at the Grok conference, then hit the road and head to west, northeast, and back into the heartland of the south for pitch sessions.</p>
 
@@ -83,7 +85,7 @@
 Greenville, SC 29601</em>
 <em><a href="http://maps.google.com/maps?q=2+north+main,+Greenville,+sc&amp;hl=en&amp;sll=37.788446,-122.398641&amp;sspn=0.092113,0.181789&amp;t=v&amp;hnear=2+N+Main+St,+Greenville,+South+Carolina+29601&amp;z=16">Map this location</a></em></p>
 
-<p><a href="http://www.eventbrite.com/event/6367073087">RSVP for May 30th at 2:00pm EST</a></p>
+<p>• <a href="http://www.eventbrite.com/event/6367073087">RSVP for May 30th at 2:00pm EST</a></p>
 
 <hr />
 
@@ -96,9 +98,9 @@ We&rsquo;ll pitch twice on Monday at the SVB offices on Mission St.</p>
 San Francisco, CA 94105</em>
 <em><a href="http://maps.google.com/maps?q=silicon+valley+bank,+mission+st.+san+francisco&amp;hl=en&amp;sll=33.624497,-80.926614&amp;sspn=6.209617,11.634521&amp;t=v&amp;hq=silicon+valley+bank,&amp;hnear=Mission+St,+San+Francisco,+California&amp;z=13&amp;iwloc=A">Map this location</a></em></p>
 
-<p><a href="http://www.eventbrite.com/event/6367422131">RSVP for June 3rd at 10:30am PST</a></p>
+<p>• <a href="http://www.eventbrite.com/event/6367422131">RSVP for June 3rd at 10:30am PST</a></p>
 
-<p><a href="http://www.eventbrite.com/event/6458903755">RSVP for June 3rd at 3:30pm PST</a></p>
+<p>• <a href="http://www.eventbrite.com/event/6458903755">RSVP for June 3rd at 3:30pm PST</a></p>
 
 <p><strong>June 4th</strong>
 A few of our teams will be pitching at <a href="http://launchsiliconvalley.org/">Launch: Silicon Valley</a> and have displays at the expo.</p>
@@ -108,7 +110,7 @@ A few of our teams will be pitching at <a href="http://launchsiliconvalley.org/"
 Mountain View, CA 94043</em>
 <em><a href="https://maps.google.com/maps?q=1065+La+Avenida+Mountain+View,+CA+94043&amp;hnear=1065+La+Avenida+St,+Mountain+View,+Santa+Clara,+California+94043&amp;gl=us&amp;t=v&amp;z=16https://maps.google.com/maps?q=1065+La+Avenida+Mountain+View,+CA+94043&amp;hnear=1065+La+Avenida+St,+Mountain+View,+Santa+Clara,+California+94043&amp;gl=us&amp;t=v&amp;z=16">Map this location</a></em></p>
 
-<p><a href="https://svforum.org/Launch-Silicon-Valley/Launch-Silicon-Valley-2013">Register for Launch: Silicon Valley on June 4th</a></p>
+<p>• <a href="https://svforum.org/Launch-Silicon-Valley/Launch-Silicon-Valley-2013">Register for Launch: Silicon Valley on June 4th</a></p>
 
 <hr />
 
@@ -122,7 +124,7 @@ Our teams will present at Microsoft NERD on Tuesday, June 11th.</p>
 Cambridge, MA ‎ 02142</em>
 <em><a href="https://maps.google.com/maps?q=Microsoft+New+England+Research+and+Development+Center,+Memorial+Drive,+Cambridge,+MA&amp;hl=en&amp;sll=37.410801,-122.072396&amp;sspn=0.011573,0.022724&amp;oq=microsoft+nerd&amp;t=v&amp;gl=us&amp;hq=Microsoft+New+England+Research+and+Development+Center,+Memorial+Drive,+Cambridge,+MA&amp;z=15">Map this location</a></em></p>
 
-<p><a href="http://www.eventbrite.com/event/6312983303">RSVP for June 11th at 10:00am EST</a></p>
+<p>• <a href="http://www.eventbrite.com/event/6312983303">RSVP for June 11th at 10:00am EST</a></p>
 
 <hr />
 
@@ -134,7 +136,7 @@ Cambridge, MA ‎ 02142</em>
 Nashville, TN. 37203</em>
 <em><a href="https://maps.google.com/maps?q=One+Cannery+Row+Nashville,+TN.+37203&amp;hl=en&amp;sll=42.361315,-71.081309&amp;sspn=0.021531,0.045447&amp;t=v&amp;gl=us&amp;hnear=1+Cannery+Row,+Nashville,+Davidson,+Tennessee+37203&amp;z=16">Map this location</a></em></p>
 
-<p><a href="http://www.southlandse.com/">Register for Southland on June 12-13</a></p>
+<p>• <a href="http://www.southlandse.com/">Register for Southland on June 12-13</a></p>
 ]]></content>
   </entry>
   
@@ -180,7 +182,7 @@ Nashville, TN. 37203</em>
 
 <p>Another observation is the people in our front end engineering program didn’t have any previous experience with code, and they didn’t need to. After a month of class, they were as proficient as me and I’ve been doing this stuff for a decade. Kudos to their teacher, Mason Stewart. But our design program wasn’t a foundational design course. It was a higher learning program that would add another tool to their design toolbox. This changed our target market drastically. In the pool of designers, we were targeting those who wanted to shift out of designing consumables (websites, advertising, and marketing) to designing software for startups. So our task was to get our program in front of those people.</p>
 
-<p>We tried some PR, social media, and whatever else but to no avail. And then we remembered <a href="http://blog.theironyard.com/2013/04/the-gap-or-why-we-started-a-design-course/">the gap</a>. Universities do a good job giving students a solid design foundation. They give students four years to get it wrong, experiment, and expand their minds. This was a foundation we could build on. So we scheduled some meetings with local universities and found an overwhelmingly positive response to what we were offering. Universities recognize where they’re falling short and supplementing their program with ours seemed like a match made in heaven. So we narrowed our focus to students. This is where it got interesting.</p>
+<p>We tried some PR, social media, and whatever else but to no avail. And then we remembered <a href="http://theironyard.github.io/images/blog/2013/04/the-gap-or-why-we-started-a-design-course/">the gap</a>. Universities do a good job giving students a solid design foundation. They give students four years to get it wrong, experiment, and expand their minds. This was a foundation we could build on. So we scheduled some meetings with local universities and found an overwhelmingly positive response to what we were offering. Universities recognize where they’re falling short and supplementing their program with ours seemed like a match made in heaven. So we narrowed our focus to students. This is where it got interesting.</p>
 
 <p>I assumed that this technologically saturated generation would be so starved for digital literacy that our program would be cool water to their lips. But I could not have been more wrong. These students all owned iPhones, Androids, and tablets and computers of all kinds. They’re all active users on Facebook, Twitter, Instagram, and all sorts of apps but none of them had ever thought they could work for one of these companies. When I mentioned that we would be learning to write some code, I completely lost them. At that point our class was not only foreign, it was intimidating. And who is going to sign away three months of their lives and a bunch of money to be intimidated and frustrated and then be placed in an ever more intimidating and frustrating job?</p>
 
@@ -195,7 +197,9 @@ Nashville, TN. 37203</em>
     <link href="http://theironyard.github.io/blog/2013/04/23/explore-the-mysteries-of-the-web-at-convergese/"/>
     <updated>2013-04-23T15:52:46-04:00</updated>
     <id>http://theironyard.github.io/blog/2013/04/23/explore-the-mysteries-of-the-web-at-convergese</id>
-    <content type="html"><![CDATA[<p>Woah, we almost forgot to mention one of our favorite conferences of the year, and <a href="https://account.unmatchedstyle.com/register/convergese-2013/">there&rsquo;s still time to sign up</a>!</p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/04/converge-featured-image.jpg" style="border-radius: 3px;"></p>
+
+<p>Woah, we almost forgot to mention one of our favorite conferences of the year, and <a href="https://account.unmatchedstyle.com/register/convergese-2013/">there&rsquo;s still time to sign up</a>!</p>
 
 <p>ConvergeSE is one of the best web conferences on the map, in our humble opinion. One of the founders, Gene Crawford, is a mentor in our program. One of the best parts of Converge is the strict focus on specific subjects. This year they&rsquo;re tackling new territory in internet-old topics:</p>
 
@@ -221,7 +225,9 @@ Nashville, TN. 37203</em>
     <link href="http://theironyard.github.io/blog/2013/04/22/southern-culture-technology/"/>
     <updated>2013-04-22T14:42:28-04:00</updated>
     <id>http://theironyard.github.io/blog/2013/04/22/southern-culture-technology</id>
-    <content type="html"><![CDATA[<p>We live and work in the South, and we love it. One of our favorite things is how surprised people get when they come visit &ndash; assumptions melt away and they find a thriving culture and growing tech scene.</p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/04/southland-featured-image.jpg" style="border-radius: 3px;"></p>
+
+<p>We live and work in the South, and we love it. One of our favorite things is how surprised people get when they come visit &ndash; assumptions melt away and they find a thriving culture and growing tech scene.</p>
 
 <!-- more -->
 
@@ -250,7 +256,7 @@ Nashville, TN. 37203</em>
 
 <p><strong>3)   Baby kangaroos are my kryptonite. </strong>At the opening dinner we were introduced to magical wildlife including a baby alligator and this absurdly adorable baby kangaroo. Just look at him!</p>
 
-<p><a href="http://blog.theironyard.com/wp-content/uploads/2013/04/Untitled.png"><img src="http://blog.theironyard.com/wp-content/uploads/2013/04/Untitled.png" alt="Untitled" /></a></p>
+<p><img src="http://theironyard.github.io/images/blog/2013/04/Untitled.png" style="border-radius: 3px;"></p>
 
 <p><strong>4)   Ask and ye shall receive.</strong> The basics were well covered: from bug spray to sun screen (thanks <a href="https://www.engineyard.com">Engine Yard</a>) there wasn&rsquo;t much wanting. The above and beyond came from conversations with the world class humans. Ex: Over breakfast, I lamented the difficulty we non-technical people have communicating desired website changes to our fabulous techie friends. Dun dah dah dun! Enter<a href="https://twitter.com/jayroh"> Joel Oliveira</a> from ThoughtBot who blew my mind with a demo of <a href="http://evernote.com/skitch/">Skitch</a>. THANK YOU.****</p>
 
@@ -293,9 +299,14 @@ Nashville, TN. 37203</em>
     <link href="http://theironyard.github.io/blog/2013/04/02/the-gap-or-why-we-started-a-design-course/"/>
     <updated>2013-04-02T16:48:32-04:00</updated>
     <id>http://theironyard.github.io/blog/2013/04/02/the-gap-or-why-we-started-a-design-course</id>
-    <content type="html"><![CDATA[<p><em>From our Product Design instructor, <a href="http://twitter.com/marcosuarez">Marco</a>:</em></p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/04/product-design-blog.jpg" style="border-radius: 3px;"></p>
+
+<p><em>From our Product Design instructor, <a href="http://twitter.com/marcosuarez">Marco</a>:</em></p>
 
 <p>Education is a hot topic. Does the value of a diploma out weight the ever-rising cost of tuition? I think the answer is overwhelmingly yes for some careers. But not all. In the world of design, what you’ve done carries more weight than where you went to school. That has been a known truth for quite some years. But with the advent of smart phones and tablets, the demand for qualified digital product designers has seen an unprecedented uptick. So how are designers learning these lucrative skills?</p>
+
+<!-- more -->
+
 
 <p>Universities excel at offering strong foundations of design theory, peer collaboration, and a period of focus and dedication, but at a mortgage level price tag.The problem is not only the cost; universities struggle to keep up with how quickly the design industry evolves. Never before has design been so tightly melded with technology. Terms like user experience, mobile design and interface design are becoming commonplace on design job boards but largely absent in curriculums.</p>
 
@@ -318,7 +329,12 @@ Nashville, TN. 37203</em>
     <link href="http://theironyard.github.io/blog/2013/03/15/lazy-friday-links-vol-14/"/>
     <updated>2013-03-15T10:44:53-04:00</updated>
     <id>http://theironyard.github.io/blog/2013/03/15/lazy-friday-links-vol-14</id>
-    <content type="html"><![CDATA[<p>We&rsquo;ll get lazy in today&rsquo;s post, but first we need to tell you that THE SPRING ACCELERATOR HAS BEGUN! Our teams are in town and we&rsquo;ve hit the ground running. Keep an eye out for more information very soon.</p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/03/gopher-tiger-cat.jpg" style="border-radius: 3px;"></p>
+
+<p>We&rsquo;ll get lazy in today&rsquo;s post, but first we need to tell you that THE SPRING ACCELERATOR HAS BEGUN! Our teams are in town and we&rsquo;ve hit the ground running. Keep an eye out for more information very soon.</p>
+
+<!-- more -->
+
 
 <p><strong>1) With the release of the Code.org video, education has been a hot topic.</strong> <a href="http://tobi.lutke.com/the-apprentice-programmer">This is a great article from the founder of Shopify about how an apprenticeship shaped his career</a>.</p>
 
@@ -339,7 +355,12 @@ Nashville, TN. 37203</em>
     <link href="http://theironyard.github.io/blog/2013/03/08/lazy-friday-links-vol-13/"/>
     <updated>2013-03-08T13:45:50-05:00</updated>
     <id>http://theironyard.github.io/blog/2013/03/08/lazy-friday-links-vol-13</id>
-    <content type="html"><![CDATA[<p>This post is coming to you from the wonderful city of San Francisco, fueled by the famous <a href="http://www.bluebottlecoffee.com/locations/mint-cafe/">Blue Bottle coffee</a>.</p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/03/lazy-emo.jpg" style="border-radius: 3px;"></p>
+
+<p>This post is coming to you from the wonderful city of San Francisco, fueled by the famous <a href="http://www.bluebottlecoffee.com/locations/mint-cafe/">Blue Bottle coffee</a>.</p>
+
+<!-- more -->
+
 
 <p><strong>1) There&rsquo;s been a ton of talk about startup communities with the release of Brad Feld&rsquo;s new book.</strong> So for today&rsquo;s Link With Actual Value™, we wanted to point you to a fascinating article called <a href="http://qz.com/3396/seeding-a-silicon-valley-how-poland-is-creating-a-startup-ecosystem-from-scratch/">Seeding a Silicon Valley: How Poland is creating a startup ecosystem from scratch</a>.</p>
 
@@ -362,7 +383,12 @@ Nashville, TN. 37203</em>
     <link href="http://theironyard.github.io/blog/2013/03/01/lazy-friday-links-vol-12/"/>
     <updated>2013-03-01T17:30:05-05:00</updated>
     <id>http://theironyard.github.io/blog/2013/03/01/lazy-friday-links-vol-12</id>
-    <content type="html"><![CDATA[<p>Yes, we missed a week last week. We had a big announcement about The Iron Yard Academy. Sue us.</p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/03/fat-thing.jpg" style="border-radius: 3px;"></p>
+
+<p>Yes, we missed a week last week. We had a big announcement about The Iron Yard Academy. Sue us.</p>
+
+<!-- more -->
+
 
 <p><strong>1) ThinkLink: Startups are about fast, but accelerators actually slow you down. </strong> Our good friend Patrick Riley <a href="http://gan.co/blog/the-industry/why-accelerators-actually-slow-a-company-down-all-while-propelling-the-company-to-success">wrote an awesome post about how accelerators help slow your company down</a>, and how that is the best thing for you.</p>
 
@@ -383,13 +409,19 @@ Nashville, TN. 37203</em>
     <link href="http://theironyard.github.io/blog/2013/02/28/work-and-play-with-cowork-railside/"/>
     <updated>2013-02-28T11:37:34-05:00</updated>
     <id>http://theironyard.github.io/blog/2013/02/28/work-and-play-with-cowork-railside</id>
-    <content type="html"><![CDATA[<p>I won&rsquo;t lie: I think CoWorking in Greenville is about as good as it gets. Visitors from all over comment on our unique environment, and we&rsquo;re super thankful for all of the amazing people that make our work environments what they are. And we&rsquo;ve got more of a good thing coming soon:</p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/02/cowork-at-railside.jpg" style="border-radius: 3px;"></p>
+
+<p>I won&rsquo;t lie: I think CoWorking in Greenville is about as good as it gets. Visitors from all over comment on our unique environment, and we&rsquo;re super thankful for all of the amazing people that make our work environments what they are. And we&rsquo;ve got more of a good thing coming soon:</p>
 
 <p>We&rsquo;re adding two new locations this spring. In a few weeks we&rsquo;ll launch a space on Main Street in Downtown Greenville called &ldquo;The Forge,&rdquo; and by summer we&rsquo;ll be up and running in Spartanburg at &ldquo;The Mill.&rdquo; Both locations will house accelerator classes as well as CoWorking space. Our original location, known simply as CoWork, is now called &ldquo;Railside.&rdquo;</p>
 
+<!-- more -->
+
+
 <p>In celebration, we wanted to invite you on a walk through the space that started it all, CoWork at Railside.</p>
 
-<p><a href="http://vimeo.com/60752267">Work and Play with CoWork at Railside</a> from <a href="http://vimeo.com/theironyard">TheIronYard</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="http://player.vimeo.com/video/60752267?title=0&amp;byline=0&amp;portrait=0&amp;color=39474e" width="600" height="338" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 
 <p>Want to know more about CoWorking at The Iron yard? Check out our <a href="http://theironyard.com/cowork">website</a>, talk to @<a href="http://twitter.com/cowork">CoWork</a> on Twitter or <a href="mailto:cowork@theironyard.com">cowork@theironyard.com</a>. Let us know if you&rsquo;re interested in CoWork @ Railside, CoWork @ The Forge, or CoWork @ The Mill.</p>
 ]]></content>
@@ -400,9 +432,14 @@ Nashville, TN. 37203</em>
     <link href="http://theironyard.github.io/blog/2013/02/22/the-iron-yard-academy-front-end-engineering-class-applications-are-open/"/>
     <updated>2013-02-22T13:56:06-05:00</updated>
     <id>http://theironyard.github.io/blog/2013/02/22/the-iron-yard-academy-front-end-engineering-class-applications-are-open</id>
-    <content type="html"><![CDATA[<p>For the last month we&rsquo;ve been working on a project called The Iron Yard Academy, and we&rsquo;re excited to announce that <a href="http://www.theironyard.com/academy/apply">applications are open</a> for our <a href="http://www.theironyard.com/academy/the-iron-yard-academy">Front End Engineering</a> class.</p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/02/mason-academy.jpg" style="border-radius: 3px;"></p>
+
+<p>For the last month we&rsquo;ve been working on a project called The Iron Yard Academy, and we&rsquo;re excited to announce that <a href="http://www.theironyard.com/academy/apply">applications are open</a> for our <a href="http://www.theironyard.com/academy/the-iron-yard-academy">Front End Engineering</a> class.</p>
 
 <p><strong>What is this Iron Yard Academy, you ask?</strong></p>
+
+<!-- more -->
+
 
 <p>The Academy is a collection of intensive, in-person programming and design courses, built to take students from zero to hero in a short amount of time. When they complete the program, we&rsquo;ll help place them in a job. Other schools like this exist, but not in the Southeast.</p>
 
@@ -423,11 +460,11 @@ Nashville, TN. 37203</em>
 <p>You will be qualified as a professional, junior-level JavaScript and front-end engineer.</p>
 
 <ul>
-<li><p>Join a startup and get a solid prototype off the ground quickly and efficiently</p></li>
-<li><p>Build digital products for web development shop, agency, etc.</p></li>
-<li><p>Build non-trivial, fast, efficient, production-quality apps</p></li>
-<li><p>Build gorgeous websites</p></li>
-<li><p>Most importantly, learn how to learn</p></li>
+<li>Join a startup and get a solid prototype off the ground quickly and efficiently</li>
+<li>Build digital products for web development shop, agency, etc.</li>
+<li>Build non-trivial, fast, efficient, production-quality apps</li>
+<li>Build gorgeous websites</li>
+<li>Most importantly, learn how to learn</li>
 </ul>
 
 
@@ -452,7 +489,12 @@ Nashville, TN. 37203</em>
 
 <p><strong>Happy Birthday!</strong></p>
 
-<p><a href="http://blog.theironyard.com/wp-content/uploads/2013/02/900x900px-LL-89c85861_IMG_3551.jpeg"><img src="http://blog.theironyard.com/wp-content/uploads/2013/02/900x900px-LL-89c85861_IMG_3551.jpeg" alt="900x900px-LL-89c85861_IMG_3551" /></a></p>
+<p><img src="http://theironyard.github.io/images/blog/2013/02/900x900px-LL-89c85861_IMG_3551.jpeg" style="border-radius: 3px;"></p>
+
+<!-- more -->
+
+
+<p>We hope that you never tire of us Photoshopping your face on stuff.</p>
 ]]></content>
   </entry>
   
@@ -461,7 +503,12 @@ Nashville, TN. 37203</em>
     <link href="http://theironyard.github.io/blog/2013/02/15/lazy-friday-links-vol-11/"/>
     <updated>2013-02-15T16:19:16-05:00</updated>
     <id>http://theironyard.github.io/blog/2013/02/15/lazy-friday-links-vol-11</id>
-    <content type="html"><![CDATA[<p><strong>1) Obama practically endorses CoderDojo! </strong> In an Inc. article, <a href="http://dashes.com/anil/2012/12/the-web-we-lost.html">Obama: Computer Programming Education for Kids &lsquo;Makes Sense&rsquo;</a>, Julie Strickland writes about how the possibility for learning vocational skills, like computer programming, can change the future of young kids. We agree! That&rsquo;s what CoderDojo is for. Here&rsquo;s a snippet:</p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/02/20101116025029271.jpg" style="border-radius: 3px;"></p>
+
+<p><strong>1) Obama practically endorses CoderDojo! </strong> In an Inc. article, <a href="http://dashes.com/anil/2012/12/the-web-we-lost.html">Obama: Computer Programming Education for Kids &lsquo;Makes Sense&rsquo;</a>, Julie Strickland writes about how the possibility for learning vocational skills, like computer programming, can change the future of young kids. We agree! That&rsquo;s what CoderDojo is for. Here&rsquo;s a snippet:</p>
+
+<!-- more -->
+
 
 <blockquote><p>The president went on to reference a dinner with Mark Zuckerberg, during which the Facebook founder said he taught himself programming primarily because he was interested in games. Giving high school students the opportunity to delve into such interests, President Obama said, but showing that it requires a knowledge of math and science, and making that training available in high school, “not only prepares young people who may choose not to go to a four-year college to be job-ready, but it also engages kids.</p></blockquote>
 
@@ -488,16 +535,37 @@ Nashville, TN. 37203</em>
 
 <p><strong>There&rsquo;s an app for that.</strong></p>
 
+<!-- more -->
+
+
 <p>Here&rsquo;s a round-up of services that will be there for you if the flower-and-candy-dream doesn&rsquo;t quite work out:</p>
 
-<p><img src="http://blog.theironyard.com/wp-content/uploads/2013/02/breakkup.jpg" alt="breakkup" /> <a href="http://breakkup.com/"><strong>BreakkUp</strong></a> <br/>
-BreakkUp is a community exchange designed to help one another through the thick of relationships. Have a relationship issue that your friends can’t relate with? Or maybe your friend is the problem? Too embarrassed to explain to family and can’t get the advice you desperately need? Welcome to BreakkUp, we&rsquo;re here for you.</p>
+<p><a href="http://breakkup.com/"><img src="http://theironyard.github.io/images/blog/2013/02/breakkup.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
 
-<p><img src="http://blog.theironyard.com/wp-content/uploads/2013/02/Breakup-Notifier-App.jpg" alt="Breakup-Notifier-App" /> <a href="http://www.breakupnotifier.com/"><strong>Breakup Notifyer</strong></a> <br/>
-Choose the friends for whom you want relationship status notifications on facebook. Get an email whenever their relationship status changes. Yes, it&rsquo;s that easy. You like someone. They&rsquo;re in a relationship. Be the first to know when they&rsquo;re out of it.</p>
+<h4>Breakkup</h4>
 
-<p><img src="http://blog.theironyard.com/wp-content/uploads/2013/02/never-liked-it.jpg" alt="never-liked-it" /> <a href="http://www.neverlikeditanyway.com/"><strong>Never Liked It Anyway™</strong></a> <br/>
-Never Liked It Anyway™ is a place where once loved gifts from once loved lovers get a second chance…A place to shed the stories and the stuff. A place to read other dilemmas so shocking that you forget about your own. So you can bounce back quicker that you thought. You may have broken-up, but there’s no need to break-down.</p>
+<p>BreakkUp is a community exchange designed to help one another through the thick of relationships. Have a relationship issue that your friends can’t relate with? Or maybe your friend is the problem? Too embarrassed to explain to family and can’t get the advice you desperately need? Welcome to BreakkUp, we&rsquo;re here for you.</p>
+
+<hr>
+
+
+<p><a href="http://www.breakupnotifier.com/"><img src="http://theironyard.github.io/images/blog/2013/02/Breakup-Notifier-App.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
+
+<h4>Breakup Notifier</h4>
+
+<p>Choose the friends for whom you want relationship status notifications on facebook. Get an email whenever their relationship status changes. Yes, it&rsquo;s that easy. You like someone. They&rsquo;re in a relationship. Be the first to know when they&rsquo;re out of it.</p>
+
+<hr>
+
+
+<p><a href="http://www.neverlikeditanyway.com/"><img src="http://theironyard.github.io/images/blog/2013/02/never-liked-it.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
+
+<h4>Never Liked It Anyways</h4>
+
+<p>Never Liked It Anyway™ is a place where once loved gifts from once loved lovers get a second chance…A place to shed the stories and the stuff. A place to read other dilemmas so shocking that you forget about your own. So you can bounce back quicker that you thought. You may have broken-up, but there’s no need to break-down.</p>
+
+<hr>
+
 ]]></content>
   </entry>
   
@@ -506,7 +574,12 @@ Never Liked It Anyway™ is a place where once loved gifts from once loved lover
     <link href="http://theironyard.github.io/blog/2013/02/13/iron-yard-alum-spent-focuses-on-relevance-and-releases-first-product-relify/"/>
     <updated>2013-02-13T15:57:33-05:00</updated>
     <id>http://theironyard.github.io/blog/2013/02/13/iron-yard-alum-spent-focuses-on-relevance-and-releases-first-product-relify</id>
-    <content type="html"><![CDATA[<p>It&rsquo;s no secret that consumer demand for personalized products and experiences is increasing at incredible speed, and that demand is creating new standards.</p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/02/relify-logo.jpg" style="border-radius: 3px; border: 1px solid black;"></p>
+
+<p>It&rsquo;s no secret that consumer demand for personalized products and experiences is increasing at incredible speed, and that demand is creating new standards.</p>
+
+<!-- more -->
+
 
 <blockquote><p>Nobody gets this perfect, because humans don’t make sense. Our tastes are not neatly defined. I legitimately enjoy listening to D’Angelo, Nickelback and Huey Lewis so… good luck with music suggestions for me, Rdio. Lo, I Am Become Enigma, Destroyer of Algorithms. Netflix or Amazon regularly suggest the most ridiculous things to me. But they’re trying. Tweaking. Spending millions of man hours and dollars to improve those algorithms by 1%, because 1% more relevant is a massive improvement. —<a href="http://joshuablankenship.com/blog/2012/08/14/how-tripit-and-zynga-are-blowing-it-with-my-data/">Joshua Blankenship</a></p></blockquote>
 
@@ -533,7 +606,12 @@ Never Liked It Anyway™ is a place where once loved gifts from once loved lover
     <link href="http://theironyard.github.io/blog/2013/02/08/lazy-friday-links-vol-10/"/>
     <updated>2013-02-08T16:51:50-05:00</updated>
     <id>http://theironyard.github.io/blog/2013/02/08/lazy-friday-links-vol-10</id>
-    <content type="html"><![CDATA[<p>This might be the latest we&rsquo;ve ever published Lazy Friday Links. But there&rsquo;s no minute like the last minute. And I had to get a bunch of black pipe threaded at Home Depot. Long story.</p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/02/fat-cat.jpg" style="border-radius: 3px;"></p>
+
+<p>This might be the latest we&rsquo;ve ever published Lazy Friday Links. But there&rsquo;s no minute like the last minute. And I had to get a bunch of black pipe threaded at Home Depot. Long story.</p>
+
+<!-- more -->
+
 
 <p><strong>1) With the internet being so young, it&rsquo;s funny to think about reminiscing about &ldquo;the way it used to be&rdquo; on the web.</strong> Still, Anil Dash&rsquo;s article called <a href="http://dashes.com/anil/2012/12/the-web-we-lost.html">The Web We Lost</a> is an interesting look at what&rsquo;s changed, and what social networks have had to do with it. Here&rsquo;s a teaser:</p>
 
@@ -556,9 +634,14 @@ Never Liked It Anyway™ is a place where once loved gifts from once loved lover
     <link href="http://theironyard.github.io/blog/2013/02/06/hello-moonclerk-iron-yard-alumni-announces-public-product-launch/"/>
     <updated>2013-02-06T17:35:06-05:00</updated>
     <id>http://theironyard.github.io/blog/2013/02/06/hello-moonclerk-iron-yard-alumni-announces-public-product-launch</id>
-    <content type="html"><![CDATA[<p>Ask any small business and they&rsquo;ll tell you that accepting recurring payments is either a huge hassle, overly expensive, or probably both. Sure, there are awesome point of sale tools for almost any type of vendor (Square, etc.), but if your business runs any type of subscription based product or service, you&rsquo;re probably in for a headache.</p>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/02/moonclerk-launch.jpg" style="border-radius: 3px;"></p>
+
+<p>Ask any small business and they&rsquo;ll tell you that accepting recurring payments is either a huge hassle, overly expensive, or probably both. Sure, there are awesome point of sale tools for almost any type of vendor (Square, etc.), but if your business runs any type of subscription based product or service, you&rsquo;re probably in for a headache.</p>
 
 <p>Enter <a href="http://www.moonclerk.com/">MoonClerk</a>, Iron Yard 2012 alumni.</p>
+
+<!-- more -->
+
 
 <p>Dodd Caldwell, the founder, was really fed up with having to either develop fully custom payment solutions for each new project, or use  existing providers that were painful to work with (ahem, PayPal, ahem). So he decided to solve the problem from the ground up.</p>
 
