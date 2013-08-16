@@ -24,9 +24,9 @@ We love how technology is helping people solve such a wide variety of problems. 
 
 BetaKit [recently featured a series of apps](http://betakit.com/2012/10/13/have-a-food-allergy-or-intolerance-theres-an-app-for-that) that "help people achieve some degree of normalcy when it comes to living with their food allergies, food intolerances and dietary choices," and Iron Yard alum [Spent](http://www.shopwithspent.com) was part of that mix. 
 
+<!-- more -->
+
 How is Spent fighting food allergies? [From the article](http://betakit.com/2012/10/13/have-a-food-allergy-or-intolerance-theres-an-app-for-that): 
-
-
 
 > 
 Startup [Spent](http://www.shopwithspent.com) is also looking to connect people with food that suits their needs in a more general way. The platform is available on both iOS and Android and allows users to receive customized deals on groceries. **Users with food allergies or intolerances can create a personalized deal feed, and are then only shown and sent deals that are suitable to their allergies and/or correlate with their past purchases**.
