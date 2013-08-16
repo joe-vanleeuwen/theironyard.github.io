@@ -24,33 +24,25 @@ tags:
 - the iron yard
 ---
 
+<img src="/images/blog/2012/11/gan-founders-conference.jpg" style="border-radius: 3px;">
+
 A few weeks ago we packed up our accelerator and headed north for the [GAN Founders Conference](http://gan.co/blog/events/ganfounder-2012-in-review) in Boston. 
 
 Along with some bangin' vietnamese food, local beer, and watching [Rich Winley](https://twitter.com/Rich_Winley) freeze, we met amazing entrepreneurs and learned from really smart people. 
 
 Here are a few takeaways from our teams: 
 
+<!-- more -->
 
-
-###### Steve Palmer from _[Trucky Love](https://www.truckylove.com/)_
-
-
+#### Steve Palmer from _[Trucky Love](https://www.truckylove.com/)_
 
 For the TruckyLove team, we enjoyed being in a room full of startup founders who all have experienced or are experiencing many of the same challenges. It was great to have access to so many people, from founders to investors, and learn from the great speakers.
 
-
-
-###### Mark Liu from _[Leaguevine](https://www.leaguevine.com/)_
-
-
+#### Mark Liu from _[Leaguevine](https://www.leaguevine.com/)_
 
 The GAN Conference was a great way to meet amazing CEOs from other parts of the world. There was a ton of time for socializing at bars and I ended up making some new friendships that will last well beyond the conference.
 
-
-
-###### Marty Bauer from _[RidePost](https://www.ridepost.com/)_
-
-
+#### Marty Bauer from _[RidePost](https://www.ridepost.com/)_
 
 Being at GAN allowed us to not only connect with other companies and founders but also expand the reach of our own product. Introducing it to new faces cannot be understated. 
 
@@ -60,21 +52,13 @@ Being at GAN in Boston gave us perspective of where The Iron Yard stacks up toda
 
 _Dang Marty. We're blushing._
 
-
-
-###### John Krebsbach from _[Spent](https://www.shopwithspent.com/)_
-
-
+#### John Krebsbach from _[Spent](https://www.shopwithspent.com/)_
 
 I thought the GAN conference was great. I enjoyed the opportunity to meet fellow founders. As peers, we have much to share and learn from one another from pitching and funding to product development and marketing. The atmosphere they struck at the conference encouraged candid and helpful conversations. 
 
 GAN also did a great job in structuring the conference to encourage networking. Having people rotate tables each topic discouraged people from falling into the age old trap of sitting with people they already know. The discussion time after speakers also got people talking and enabled me to form natural connections with other attendees. I'm looking forward to attending more GAN events in the future.
 
-
-
-###### And here are a few thoughts from yours truly:
-
-
+#### And here are a few thoughts from yours truly:
 
 **1) People in the startup space are awesome human beings**
 I'm fairly new to startup world, and this conference was my first fully immersive experience. Almost every single person I met was really smart, really interesting, and really open. Lots of them were also hilarious, as we found out at Ignite. (An extremely witty Frenchman [used these maps](http://alphadesigner.com/mapping-stereotypes/) in his talk on doing business abroad.) I'll take all of that I can get. 
@@ -86,21 +70,10 @@ Elaine on social media: _"Your time is more valuable than the number of social m
 
 Chris gave us a really great pathway to follow for PR: 
 
-
-
-
   1. What's my story?
-
-
   2. Where do I want to tell it?
-
-
   3. Who do I want to tell it to?
-
-
   4. Find those writers and publications, and start by building relationships with them.
-
-
 
 Both emphasized the fact that developing ongoing relationships with journalists was essential to coverage - you'll rarely ever be successful if your first contact with a writer is a pitch. 
 
@@ -116,36 +89,19 @@ I'll guarantee one thing: no one who attended his talk forgot Mr. Saul Colt. The
 
 Joking aside, I used to work in marketing, and far and away it's the best speech on the subject I've ever seen. He presented a flash flood of wacky, ingenius and cost effective ideas he's implemented for companies over the years - and the results of how well they worked. Here are some one liners that stuck out to me: 
 
-
-
-
-
   * Taking it one step too far is what people remember
-
-
   * But, you have to know where the line is with your customers - you have to cross it just enough, and not too much
-
-
   * If you can't compete, change the rules
-
-
   * Know, like, trust (if you know someone, like them, and then trust them, you will talk about them)
-
-
   * Promoting product features rarely works. Companies need stories, loyalty, and focus on people being excited about being part of a community, not a transactional relationship
-
-
   * The more connected you are with your customers, the better you will know what they want. But even more import than that is the more you know your customers, the more you will try not to disappoint them
-
-
-
-
 
 #### Bonus: One really good and one really awkward picture of The Iron Yard Team
 
-
 GAN took an awesome shot of Peter (our Managing Director). Look at that grin. 
-[![](/images/blog/2012/11/306031_546379725375993_1071726011_n-e1354032621558.jpeg)](/images/blog/2012/11/306031_546379725375993_1071726011_n-e1354032621558.jpeg)
+
+<img src="/images/blog/2012/11/306031_546379725375993_1071726011_n-e1354032621558.jpeg" style="border-radius: 3px;">
 
 They also took a picture of me making some sort of weird chicken-wing-flapping motion. Flattering.  
-[![](/images/blog/2012/11/536415_546376902042942_2041315183_n-e1354032657564.jpeg)](/images/blog/2012/11/536415_546376902042942_2041315183_n-e1354032657564.jpeg)
+
+<img src="/images/blog/2012/11/536415_546376902042942_2041315183_n-e1354032657564.jpeg" style="border-radius: 3px;">
