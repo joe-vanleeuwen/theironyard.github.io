@@ -20,23 +20,24 @@ Unfortunately, those good feelings won't last in every case. We're not trying to
 
 **There's an app for that.**
 
+<!-- more -->
+
 Here's a round-up of services that will be there for you if the flower-and-candy-dream doesn't quite work out: 
 
-
-
-![breakkup](/images/blog/2013/02/breakkup.jpg) [**BreakkUp**](http://breakkup.com/)   
+<a href="http://breakkup.com/"><img src="/images/blog/2013/02/breakkup.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a>
+#### Breakkup
 BreakkUp is a community exchange designed to help one another through the thick of relationships. Have a relationship issue that your friends can’t relate with? Or maybe your friend is the problem? Too embarrassed to explain to family and can’t get the advice you desperately need? Welcome to BreakkUp, we're here for you.
 
+<hr>
 
-
-
-
-![Breakup-Notifier-App](/images/blog/2013/02/Breakup-Notifier-App.jpg) [**Breakup Notifyer**](http://www.breakupnotifier.com/)   
+<a href="http://www.breakupnotifier.com/"><img src="/images/blog/2013/02/Breakup-Notifier-App.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a>
+#### Breakup Notifier
 Choose the friends for whom you want relationship status notifications on facebook. Get an email whenever their relationship status changes. Yes, it's that easy. You like someone. They're in a relationship. Be the first to know when they're out of it.
 
+<hr>
 
-
-
-
-![never-liked-it](/images/blog/2013/02/never-liked-it.jpg) [**Never Liked It Anyway™**](http://www.neverlikeditanyway.com/)   
+<a href="http://www.neverlikeditanyway.com/"><img src="/images/blog/2013/02/never-liked-it.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a>  
+#### Never Liked It Anyways
 Never Liked It Anyway™ is a place where once loved gifts from once loved lovers get a second chance…A place to shed the stories and the stuff. A place to read other dilemmas so shocking that you forget about your own. So you can bounce back quicker that you thought. You may have broken-up, but there’s no need to break-down.
+
+<hr>

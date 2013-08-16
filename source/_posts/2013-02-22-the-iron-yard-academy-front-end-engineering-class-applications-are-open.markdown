@@ -13,9 +13,13 @@ tags:
 - southeast
 ---
 
+<img src="/images/blog/2013/02/mason-academy.jpg" style="border-radius: 3px;">
+
 For the last month we've been working on a project called The Iron Yard Academy, and we're excited to announce that [applications are open](http://www.theironyard.com/academy/apply) for our [Front End Engineering](http://www.theironyard.com/academy/the-iron-yard-academy) class. 
 
 **What is this Iron Yard Academy, you ask?**
+
+<!-- more -->
 
 The Academy is a collection of intensive, in-person programming and design courses, built to take students from zero to hero in a short amount of time. When they complete the program, we'll help place them in a job. Other schools like this exist, but not in the Southeast.
 
@@ -34,26 +38,12 @@ Also, we can't say who just quite yet, but we recently hired a genius-level inst
 Here's what we'll prepare students for in the Front End class: 
 
 You will be qualified as a professional, junior-level JavaScript and front-end engineer.
-
-
-
-
 	
   * Join a startup and get a solid prototype off the ground quickly and efficiently
-
-	
   * Build digital products for web development shop, agency, etc.
-
-	
   * Build non-trivial, fast, efficient, production-quality apps
-
-	
   * Build gorgeous websites
-
-	
   * Most importantly, learn how to learn
-
-
 
 You won't know absolutely everything there is to know, but we will ensure that you _know how to learn it_ if you need to.
 

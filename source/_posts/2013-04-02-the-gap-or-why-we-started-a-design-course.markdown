@@ -16,9 +16,13 @@ tags:
 - online learning
 ---
 
+<img src="/images/blog/2013/04/product-design-blog.jpg" style="border-radius: 3px;">
+
 _From our Product Design instructor, [Marco](http://twitter.com/marcosuarez):_
 
 Education is a hot topic. Does the value of a diploma out weight the ever-rising cost of tuition? I think the answer is overwhelmingly yes for some careers. But not all. In the world of design, what you’ve done carries more weight than where you went to school. That has been a known truth for quite some years. But with the advent of smart phones and tablets, the demand for qualified digital product designers has seen an unprecedented uptick. So how are designers learning these lucrative skills?
+
+<!-- more -->
 
 Universities excel at offering strong foundations of design theory, peer collaboration, and a period of focus and dedication, but at a mortgage level price tag.The problem is not only the cost; universities struggle to keep up with how quickly the design industry evolves. Never before has design been so tightly melded with technology. Terms like user experience, mobile design and interface design are becoming commonplace on design job boards but largely absent in curriculums.
 

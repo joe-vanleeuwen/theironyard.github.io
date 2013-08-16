@@ -13,7 +13,11 @@ tags:
 - startup communities
 ---
 
+<img src="/images/blog/2013/03/lazy-emo.jpg" style="border-radius: 3px;">
+
 This post is coming to you from the wonderful city of San Francisco, fueled by the famous [Blue Bottle coffee](http://www.bluebottlecoffee.com/locations/mint-cafe/). 
+
+<!-- more -->
 
 **1) There's been a ton of talk about startup communities with the release of Brad Feld's new book.** So for today's Link With Actual Value™, we wanted to point you to a fascinating article called [Seeding a Silicon Valley: How Poland is creating a startup ecosystem from scratch](http://qz.com/3396/seeding-a-silicon-valley-how-poland-is-creating-a-startup-ecosystem-from-scratch/). 
 

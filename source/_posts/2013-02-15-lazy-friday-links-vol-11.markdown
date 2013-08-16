@@ -8,9 +8,11 @@ title: Lazy Friday Links, Vol. 11
 wordpress_id: 1313
 ---
 
+<img src="/images/blog/2013/02/20101116025029271.jpg" style="border-radius: 3px;">
+
 **1) Obama practically endorses CoderDojo! ** In an Inc. article, [Obama: Computer Programming Education for Kids 'Makes Sense'](http://dashes.com/anil/2012/12/the-web-we-lost.html), Julie Strickland writes about how the possibility for learning vocational skills, like computer programming, can change the future of young kids. We agree! That's what CoderDojo is for. Here's a snippet:
 
-
+<!-- more -->
 
 > The president went on to reference a dinner with Mark Zuckerberg, during which the Facebook founder said he taught himself programming primarily because he was interested in games. Giving high school students the opportunity to delve into such interests, President Obama said, but showing that it requires a knowledge of math and science, and making that training available in high school, “not only prepares young people who may choose not to go to a four-year college to be job-ready, but it also engages kids.
 

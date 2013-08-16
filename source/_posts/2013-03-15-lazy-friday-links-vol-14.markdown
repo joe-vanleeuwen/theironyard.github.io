@@ -14,7 +14,11 @@ tags:
 - Shopify
 ---
 
+<img src="/images/blog/2013/03/gopher-tiger-cat.jpg" style="border-radius: 3px;">
+
 We'll get lazy in today's post, but first we need to tell you that THE SPRING ACCELERATOR HAS BEGUN! Our teams are in town and we've hit the ground running. Keep an eye out for more information very soon. 
+
+<!-- more -->
 
 **1) With the release of the Code.org video, education has been a hot topic.** [This is a great article from the founder of Shopify about how an apprenticeship shaped his career](http://tobi.lutke.com/the-apprentice-programmer). 
 

@@ -10,7 +10,11 @@ categories:
 - Lazy Friday Links
 ---
 
+<img src="/images/blog/2013/03/fat-thing.jpg" style="border-radius: 3px;">
+
 Yes, we missed a week last week. We had a big announcement about The Iron Yard Academy. Sue us. 
+
+<!-- more -->
 
 **1) ThinkLink: Startups are about fast, but accelerators actually slow you down. ** Our good friend Patrick Riley [wrote an awesome post about how accelerators help slow your company down](http://gan.co/blog/the-industry/why-accelerators-actually-slow-a-company-down-all-while-propelling-the-company-to-success), and how that is the best thing for you. 
 

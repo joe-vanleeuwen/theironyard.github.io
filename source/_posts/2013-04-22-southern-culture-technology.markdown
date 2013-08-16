@@ -17,6 +17,8 @@ tags:
 - tn
 ---
 
+<img src="/images/blog/2013/04/southland-featured-image.jpg" style="border-radius: 3px;">
+
 We live and work in the South, and we love it. One of our favorite things is how surprised people get when they come visit - assumptions melt away and they find a thriving culture and growing tech scene. 
 
 <!-- more -->

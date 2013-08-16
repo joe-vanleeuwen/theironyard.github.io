@@ -16,15 +16,14 @@ tags:
 - spent
 ---
 
-It's no secret that consumer demand for personalized products and experiences is increasing at incredible speed, and that demand is creating new standards. 
+<img src="/images/blog/2013/02/relify-logo.jpg" style="border-radius: 3px; border: 1px solid black;">
 
+It's no secret that consumer demand for personalized products and experiences is increasing at incredible speed, and that demand is creating new standards.
 
+<!-- more -->
 
 > 
 Nobody gets this perfect, because humans don’t make sense. Our tastes are not neatly defined. I legitimately enjoy listening to D’Angelo, Nickelback and Huey Lewis so… good luck with music suggestions for me, Rdio. Lo, I Am Become Enigma, Destroyer of Algorithms. Netflix or Amazon regularly suggest the most ridiculous things to me. But they’re trying. Tweaking. Spending millions of man hours and dollars to improve those algorithms by 1%, because 1% more relevant is a massive improvement. —[Joshua Blankenship](http://joshuablankenship.com/blog/2012/08/14/how-tripit-and-zynga-are-blowing-it-with-my-data/)
-
-
-
 
 Spent, one of our alumni, is excited about this trend, and they're building products that will help all types of companies provide relevance to their users. 
 

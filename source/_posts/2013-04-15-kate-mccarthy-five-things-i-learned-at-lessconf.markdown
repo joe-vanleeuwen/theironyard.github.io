@@ -24,9 +24,7 @@ This weekend I had the opportunity to attend LessConf. As a new comer to the tec
 
 **3)   Baby kangaroos are my kryptonite. **At the opening dinner we were introduced to magical wildlife including a baby alligator and this absurdly adorable baby kangaroo. Just look at him!
 
-
-[![Untitled](/images/blog/2013/04/Untitled.png)](/images/blog/2013/04/Untitled.png)
-
+<img src="/images/blog/2013/04/Untitled.png" style="border-radius: 3px;">
 
 **4)   Ask and ye shall receive.** The basics were well covered: from bug spray to sun screen (thanks [Engine Yard](https://www.engineyard.com)) there wasn't much wanting. The above and beyond came from conversations with the world class humans. Ex: Over breakfast, I lamented the difficulty we non-technical people have communicating desired website changes to our fabulous techie friends. Dun dah dah dun! Enter[ Joel Oliveira](https://twitter.com/jayroh) from ThoughtBot who blew my mind with a demo of [Skitch](http://evernote.com/skitch/). THANK YOU.****
 

@@ -18,4 +18,8 @@ The Iron Yard wouldn't be what it is without you, Pete.
 
 **Happy Birthday!**
 
-[![900x900px-LL-89c85861_IMG_3551](/images/blog/2013/02/900x900px-LL-89c85861_IMG_3551.jpeg)](/images/blog/2013/02/900x900px-LL-89c85861_IMG_3551.jpeg)
+<img src="/images/blog/2013/02/900x900px-LL-89c85861_IMG_3551.jpeg" style="border-radius: 3px;">
+
+<!-- more -->
+
+We hope that you never tire of us Photoshopping your face on stuff. 
