@@ -63,7 +63,7 @@ Volunteers are always welcome. Come join the fun!
 #### Greenville class details
 
 **Day**: Tuesdays  
-**Time**: 3:30-4:30pm  
+**Time**: 4:00-5:00pm  
 **Location**: The NEXT Center  
 **Address**: 411 University Ridge, Suite 220  
 **Duration**: 6 weeks  
