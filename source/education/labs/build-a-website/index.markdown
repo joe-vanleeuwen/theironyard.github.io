@@ -55,7 +55,9 @@ To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If
 
 Volunteers are always welcome. Come join the fun! 
 
-<a href="http://eepurl.com/DWqpb" class="button"> Sign up to volunteer!</a>
+<ul>
+  <li>• <a href="http://eepurl.com/DWqpb"> Sign up to volunteer in Greenville!</a></li>
+</ul>
 
 ---
 #### Greenville class details
