@@ -21,6 +21,8 @@ In the video game module, students learn a visual programming language called Sc
 <a id="schedule"></a>
 ### 2013 Greenville Schedule
 
+Scratch classes will be 6 weeks long with a 2-3 week break between each session. Our goal is to run them throughout the school year. Volunteers make this possible, [so please sign up today](http://eepurl.com/DWo8v)! 
+
 <a href="https://tito.io/the-iron-yard/greenville-coderdojo-scratch-september-2013" class="button"> September 10th - October 15th</a>  
 
 <a href="https://tito.io/the-iron-yard/greenville-coderdojo-scratch-november-2013" class="button"> November 5th - December 10th</a>
@@ -52,7 +54,13 @@ We require every student to have a waiver/release form signed by a parent or gua
 To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If the class is full, you can sign up for another session or 'register your interest' and we'll add you to the waitlist. 
 
 ---
+#### Volunteer!
 
+Volunteers allow us to keep these classes free. If you're passionate about helping kids learn, jump in!
+
+<a href="http://eepurl.com/DWo8v" class="button"> Sign up to volunteer!</a>
+
+---
 #### Greenville class details
 
 **Day**: Tuesdays  
