@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Events | The Iron Yard]]></title>
-  <link href="http://theironyard.github.io/blog/categories/events/atom.xml" rel="self"/>
-  <link href="http://theironyard.github.io/"/>
-  <updated>2013-08-22T17:34:37-04:00</updated>
-  <id>http://theironyard.github.io/</id>
+  <link href="http://theironyard.com/blog/categories/events/atom.xml" rel="self"/>
+  <link href="http://theironyard.com/"/>
+  <updated>2013-08-22T17:38:43-04:00</updated>
+  <id>http://theironyard.com/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Southern Culture & Technology]]></title>
-    <link href="http://theironyard.github.io/blog/2013/04/22/southern-culture-technology/"/>
+    <link href="http://theironyard.com/blog/2013/04/22/southern-culture-technology/"/>
     <updated>2013-04-22T14:42:28-04:00</updated>
-    <id>http://theironyard.github.io/blog/2013/04/22/southern-culture-technology</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/04/southland-featured-image.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.com/blog/2013/04/22/southern-culture-technology</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/04/southland-featured-image.jpg" style="border-radius: 3px;"></p>
 
 <p>We live and work in the South, and we love it. One of our favorite things is how surprised people get when they come visit &ndash; assumptions melt away and they find a thriving culture and growing tech scene.</p>
 
@@ -35,9 +35,9 @@
   
   <entry>
     <title type="html"><![CDATA[Kate McCarthy: Five Things I Learned at LessConf]]></title>
-    <link href="http://theironyard.github.io/blog/2013/04/15/kate-mccarthy-five-things-i-learned-at-lessconf/"/>
+    <link href="http://theironyard.com/blog/2013/04/15/kate-mccarthy-five-things-i-learned-at-lessconf/"/>
     <updated>2013-04-15T15:00:06-04:00</updated>
-    <id>http://theironyard.github.io/blog/2013/04/15/kate-mccarthy-five-things-i-learned-at-lessconf</id>
+    <id>http://theironyard.com/blog/2013/04/15/kate-mccarthy-five-things-i-learned-at-lessconf</id>
     <content type="html"><![CDATA[<p>This weekend I had the opportunity to attend LessConf. As a new comer to the tech/startup world and a first timer at what has to be (for lack of a better term) <em>the __coolest conference in the history</em>, I wanted to share a few take aways. Here are the top five things I learned at LessConf.</p>
 
 <!-- more -->
@@ -49,7 +49,7 @@
 
 <p><strong>3)   Baby kangaroos are my kryptonite. </strong>At the opening dinner we were introduced to magical wildlife including a baby alligator and this absurdly adorable baby kangaroo. Just look at him!</p>
 
-<p><img src="http://theironyard.github.io/images/blog/2013/04/Untitled.png" style="border-radius: 3px;"></p>
+<p><img src="http://theironyard.com/images/blog/2013/04/Untitled.png" style="border-radius: 3px;"></p>
 
 <p><strong>4)   Ask and ye shall receive.</strong> The basics were well covered: from bug spray to sun screen (thanks <a href="https://www.engineyard.com">Engine Yard</a>) there wasn&rsquo;t much wanting. The above and beyond came from conversations with the world class humans. Ex: Over breakfast, I lamented the difficulty we non-technical people have communicating desired website changes to our fabulous techie friends. Dun dah dah dun! Enter<a href="https://twitter.com/jayroh"> Joel Oliveira</a> from ThoughtBot who blew my mind with a demo of <a href="http://evernote.com/skitch/">Skitch</a>. THANK YOU.****</p>
 

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[The Iron Yard]]></title>
-  <link href="http://theironyard.github.io/atom.xml" rel="self"/>
-  <link href="http://theironyard.github.io/"/>
-  <updated>2013-08-22T17:34:37-04:00</updated>
-  <id>http://theironyard.github.io/</id>
+  <link href="http://theironyard.com/atom.xml" rel="self"/>
+  <link href="http://theironyard.com/"/>
+  <updated>2013-08-22T17:38:43-04:00</updated>
+  <id>http://theironyard.com/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Progress Report: The Iron Yard Academy's First Class]]></title>
-    <link href="http://theironyard.github.io/blog/2013/06/26/progress-report-the-iron-yard-academys-first-class/"/>
+    <link href="http://theironyard.com/blog/2013/06/26/progress-report-the-iron-yard-academys-first-class/"/>
     <updated>2013-06-26T15:58:49-04:00</updated>
-    <id>http://theironyard.github.io/blog/2013/06/26/progress-report-the-iron-yard-academys-first-class</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/06/featured-image-andrew-mcintee.jpg" style="border-radius: 3px"></p>
+    <id>http://theironyard.com/blog/2013/06/26/progress-report-the-iron-yard-academys-first-class</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/06/featured-image-andrew-mcintee.jpg" style="border-radius: 3px"></p>
 
 <p>We&rsquo;re nearing the end of our first Front End Engineering course, and it&rsquo;s been an amazing experience. Halfway through the course we talked to both students and guest lecturers to see what they had to say. Here are a few responses.</p>
 
@@ -51,10 +51,10 @@
   
   <entry>
     <title type="html"><![CDATA[The Iron Yard Demo Days - Spring 2013]]></title>
-    <link href="http://theironyard.github.io/blog/2013/05/26/the-iron-yard-demo-days-spring-2013/"/>
+    <link href="http://theironyard.com/blog/2013/05/26/the-iron-yard-demo-days-spring-2013/"/>
     <updated>2013-05-26T20:10:50-04:00</updated>
-    <id>http://theironyard.github.io/blog/2013/05/26/the-iron-yard-demo-days-spring-2013</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/05/demo-day-2013.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.com/blog/2013/05/26/the-iron-yard-demo-days-spring-2013</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/05/demo-day-2013.jpg" style="border-radius: 3px;"></p>
 
 <p>After three amazing, difficult, and rewarding months, our Spring 2013 Accelerator teams are ready to share their products with the world—and investors.</p>
 
@@ -142,9 +142,9 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Startups Need Conviction]]></title>
-    <link href="http://theironyard.github.io/blog/2013/05/09/startups-need-conviction/"/>
+    <link href="http://theironyard.com/blog/2013/05/09/startups-need-conviction/"/>
     <updated>2013-05-09T12:13:22-04:00</updated>
-    <id>http://theironyard.github.io/blog/2013/05/09/startups-need-conviction</id>
+    <id>http://theironyard.com/blog/2013/05/09/startups-need-conviction</id>
     <content type="html"><![CDATA[<p>The Startup Life™ is thickly shrouded with threats of difficulty. First you&rsquo;re required to have an astoundingly novel idea that promises to capture a gigantic industry or market. (Or at least be able to convince people of those things.) Next, you need a killer team, preferably one with a brilliant engineer co-founder who&rsquo;s willing to give up a six-figure income to work tirelessly on your product.</p>
 
 <!-- more -->
@@ -166,9 +166,9 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[What We Learned Starting an Intensive Design Class]]></title>
-    <link href="http://theironyard.github.io/blog/2013/05/04/what-we-learned-starting-an-intensive-design-class/"/>
+    <link href="http://theironyard.com/blog/2013/05/04/what-we-learned-starting-an-intensive-design-class/"/>
     <updated>2013-05-04T09:41:58-04:00</updated>
-    <id>http://theironyard.github.io/blog/2013/05/04/what-we-learned-starting-an-intensive-design-class</id>
+    <id>http://theironyard.com/blog/2013/05/04/what-we-learned-starting-an-intensive-design-class</id>
     <content type="html"><![CDATA[<p><em>This is a post from Marco Suarez explaining what we&rsquo;ve learned on the journey of starting an intensive design school.</em></p>
 
 <p>There is a gap that is widening between the education students are receiving and the skills companies require. The most obvious disconnect is in software and technology. Universities fail to keep up and the proponents of an informal, self-taught education use that deficiency as their banner. But technology and software are platforms and tools. And just because you know how to use a tool doesn’t make you a craftsman. The more serious gap is in a person’s ability to think. Mobile touch platforms have radically changed the way we use technology, so much so that it has caused broad societal shift. The potential of this shift is fueling investors to pour insane amounts of money into people and ideas that take advantage of it. There is a need for designers who can think critically and creatively to solve real problems by utilizing these new platforms and tools.</p>
@@ -182,7 +182,7 @@ Nashville, TN. 37203</em>
 
 <p>Another observation is the people in our front end engineering program didn’t have any previous experience with code, and they didn’t need to. After a month of class, they were as proficient as me and I’ve been doing this stuff for a decade. Kudos to their teacher, Mason Stewart. But our design program wasn’t a foundational design course. It was a higher learning program that would add another tool to their design toolbox. This changed our target market drastically. In the pool of designers, we were targeting those who wanted to shift out of designing consumables (websites, advertising, and marketing) to designing software for startups. So our task was to get our program in front of those people.</p>
 
-<p>We tried some PR, social media, and whatever else but to no avail. And then we remembered <a href="http://theironyard.github.io/images/blog/2013/04/the-gap-or-why-we-started-a-design-course/">the gap</a>. Universities do a good job giving students a solid design foundation. They give students four years to get it wrong, experiment, and expand their minds. This was a foundation we could build on. So we scheduled some meetings with local universities and found an overwhelmingly positive response to what we were offering. Universities recognize where they’re falling short and supplementing their program with ours seemed like a match made in heaven. So we narrowed our focus to students. This is where it got interesting.</p>
+<p>We tried some PR, social media, and whatever else but to no avail. And then we remembered <a href="http://theironyard.com/images/blog/2013/04/the-gap-or-why-we-started-a-design-course/">the gap</a>. Universities do a good job giving students a solid design foundation. They give students four years to get it wrong, experiment, and expand their minds. This was a foundation we could build on. So we scheduled some meetings with local universities and found an overwhelmingly positive response to what we were offering. Universities recognize where they’re falling short and supplementing their program with ours seemed like a match made in heaven. So we narrowed our focus to students. This is where it got interesting.</p>
 
 <p>I assumed that this technologically saturated generation would be so starved for digital literacy that our program would be cool water to their lips. But I could not have been more wrong. These students all owned iPhones, Androids, and tablets and computers of all kinds. They’re all active users on Facebook, Twitter, Instagram, and all sorts of apps but none of them had ever thought they could work for one of these companies. When I mentioned that we would be learning to write some code, I completely lost them. At that point our class was not only foreign, it was intimidating. And who is going to sign away three months of their lives and a bunch of money to be intimidated and frustrated and then be placed in an ever more intimidating and frustrating job?</p>
 
@@ -194,10 +194,10 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Explore the Mysteries of the Web at ConvergeSE]]></title>
-    <link href="http://theironyard.github.io/blog/2013/04/23/explore-the-mysteries-of-the-web-at-convergese/"/>
+    <link href="http://theironyard.com/blog/2013/04/23/explore-the-mysteries-of-the-web-at-convergese/"/>
     <updated>2013-04-23T15:52:46-04:00</updated>
-    <id>http://theironyard.github.io/blog/2013/04/23/explore-the-mysteries-of-the-web-at-convergese</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/04/converge-featured-image.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.com/blog/2013/04/23/explore-the-mysteries-of-the-web-at-convergese</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/04/converge-featured-image.jpg" style="border-radius: 3px;"></p>
 
 <p>Woah, we almost forgot to mention one of our favorite conferences of the year, and <a href="https://account.unmatchedstyle.com/register/convergese-2013/">there&rsquo;s still time to sign up</a>!</p>
 
@@ -222,10 +222,10 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Southern Culture & Technology]]></title>
-    <link href="http://theironyard.github.io/blog/2013/04/22/southern-culture-technology/"/>
+    <link href="http://theironyard.com/blog/2013/04/22/southern-culture-technology/"/>
     <updated>2013-04-22T14:42:28-04:00</updated>
-    <id>http://theironyard.github.io/blog/2013/04/22/southern-culture-technology</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/04/southland-featured-image.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.com/blog/2013/04/22/southern-culture-technology</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/04/southland-featured-image.jpg" style="border-radius: 3px;"></p>
 
 <p>We live and work in the South, and we love it. One of our favorite things is how surprised people get when they come visit &ndash; assumptions melt away and they find a thriving culture and growing tech scene.</p>
 
@@ -242,9 +242,9 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Kate McCarthy: Five Things I Learned at LessConf]]></title>
-    <link href="http://theironyard.github.io/blog/2013/04/15/kate-mccarthy-five-things-i-learned-at-lessconf/"/>
+    <link href="http://theironyard.com/blog/2013/04/15/kate-mccarthy-five-things-i-learned-at-lessconf/"/>
     <updated>2013-04-15T15:00:06-04:00</updated>
-    <id>http://theironyard.github.io/blog/2013/04/15/kate-mccarthy-five-things-i-learned-at-lessconf</id>
+    <id>http://theironyard.com/blog/2013/04/15/kate-mccarthy-five-things-i-learned-at-lessconf</id>
     <content type="html"><![CDATA[<p>This weekend I had the opportunity to attend LessConf. As a new comer to the tech/startup world and a first timer at what has to be (for lack of a better term) <em>the __coolest conference in the history</em>, I wanted to share a few take aways. Here are the top five things I learned at LessConf.</p>
 
 <!-- more -->
@@ -256,7 +256,7 @@ Nashville, TN. 37203</em>
 
 <p><strong>3)   Baby kangaroos are my kryptonite. </strong>At the opening dinner we were introduced to magical wildlife including a baby alligator and this absurdly adorable baby kangaroo. Just look at him!</p>
 
-<p><img src="http://theironyard.github.io/images/blog/2013/04/Untitled.png" style="border-radius: 3px;"></p>
+<p><img src="http://theironyard.com/images/blog/2013/04/Untitled.png" style="border-radius: 3px;"></p>
 
 <p><strong>4)   Ask and ye shall receive.</strong> The basics were well covered: from bug spray to sun screen (thanks <a href="https://www.engineyard.com">Engine Yard</a>) there wasn&rsquo;t much wanting. The above and beyond came from conversations with the world class humans. Ex: Over breakfast, I lamented the difficulty we non-technical people have communicating desired website changes to our fabulous techie friends. Dun dah dah dun! Enter<a href="https://twitter.com/jayroh"> Joel Oliveira</a> from ThoughtBot who blew my mind with a demo of <a href="http://evernote.com/skitch/">Skitch</a>. THANK YOU.****</p>
 
@@ -268,9 +268,9 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Lazy Friday Links, Vol. 15]]></title>
-    <link href="http://theironyard.github.io/blog/2013/04/05/lazy-friday-links-vol-15/"/>
+    <link href="http://theironyard.com/blog/2013/04/05/lazy-friday-links-vol-15/"/>
     <updated>2013-04-05T14:24:59-04:00</updated>
-    <id>http://theironyard.github.io/blog/2013/04/05/lazy-friday-links-vol-15</id>
+    <id>http://theironyard.com/blog/2013/04/05/lazy-friday-links-vol-15</id>
     <content type="html"><![CDATA[<p>Yeah, yeah, we didn&rsquo;t publish anything last week. We were launching a code school, for crying out loud.</p>
 
 <p>Also, you&rsquo;ve probably noticed the lack of obese animal picture in the post. Sorry about that, but I couldn&rsquo;t bear scrolling through our blog because I realized it was one big stream of fat creature photos, so I took a week off.</p>
@@ -296,10 +296,10 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[The Gap (or Why We Started a Design Course)]]></title>
-    <link href="http://theironyard.github.io/blog/2013/04/02/the-gap-or-why-we-started-a-design-course/"/>
+    <link href="http://theironyard.com/blog/2013/04/02/the-gap-or-why-we-started-a-design-course/"/>
     <updated>2013-04-02T16:48:32-04:00</updated>
-    <id>http://theironyard.github.io/blog/2013/04/02/the-gap-or-why-we-started-a-design-course</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/04/product-design-blog.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.com/blog/2013/04/02/the-gap-or-why-we-started-a-design-course</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/04/product-design-blog.jpg" style="border-radius: 3px;"></p>
 
 <p><em>From our Product Design instructor, <a href="http://twitter.com/marcosuarez">Marco</a>:</em></p>
 
@@ -326,10 +326,10 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Lazy Friday Links, Vol. 14]]></title>
-    <link href="http://theironyard.github.io/blog/2013/03/15/lazy-friday-links-vol-14/"/>
+    <link href="http://theironyard.com/blog/2013/03/15/lazy-friday-links-vol-14/"/>
     <updated>2013-03-15T10:44:53-04:00</updated>
-    <id>http://theironyard.github.io/blog/2013/03/15/lazy-friday-links-vol-14</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/03/gopher-tiger-cat.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.com/blog/2013/03/15/lazy-friday-links-vol-14</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/03/gopher-tiger-cat.jpg" style="border-radius: 3px;"></p>
 
 <p>We&rsquo;ll get lazy in today&rsquo;s post, but first we need to tell you that THE SPRING ACCELERATOR HAS BEGUN! Our teams are in town and we&rsquo;ve hit the ground running. Keep an eye out for more information very soon.</p>
 
@@ -352,10 +352,10 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Lazy Friday Links, Vol. 13]]></title>
-    <link href="http://theironyard.github.io/blog/2013/03/08/lazy-friday-links-vol-13/"/>
+    <link href="http://theironyard.com/blog/2013/03/08/lazy-friday-links-vol-13/"/>
     <updated>2013-03-08T13:45:50-05:00</updated>
-    <id>http://theironyard.github.io/blog/2013/03/08/lazy-friday-links-vol-13</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/03/lazy-emo.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.com/blog/2013/03/08/lazy-friday-links-vol-13</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/03/lazy-emo.jpg" style="border-radius: 3px;"></p>
 
 <p>This post is coming to you from the wonderful city of San Francisco, fueled by the famous <a href="http://www.bluebottlecoffee.com/locations/mint-cafe/">Blue Bottle coffee</a>.</p>
 
@@ -380,10 +380,10 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Lazy Friday Links, Vol. 12]]></title>
-    <link href="http://theironyard.github.io/blog/2013/03/01/lazy-friday-links-vol-12/"/>
+    <link href="http://theironyard.com/blog/2013/03/01/lazy-friday-links-vol-12/"/>
     <updated>2013-03-01T17:30:05-05:00</updated>
-    <id>http://theironyard.github.io/blog/2013/03/01/lazy-friday-links-vol-12</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/03/fat-thing.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.com/blog/2013/03/01/lazy-friday-links-vol-12</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/03/fat-thing.jpg" style="border-radius: 3px;"></p>
 
 <p>Yes, we missed a week last week. We had a big announcement about The Iron Yard Academy. Sue us.</p>
 
@@ -406,10 +406,10 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Work and Play with CoWork @ Railside]]></title>
-    <link href="http://theironyard.github.io/blog/2013/02/28/work-and-play-with-cowork-railside/"/>
+    <link href="http://theironyard.com/blog/2013/02/28/work-and-play-with-cowork-railside/"/>
     <updated>2013-02-28T11:37:34-05:00</updated>
-    <id>http://theironyard.github.io/blog/2013/02/28/work-and-play-with-cowork-railside</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/02/cowork-at-railside.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.com/blog/2013/02/28/work-and-play-with-cowork-railside</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/02/cowork-at-railside.jpg" style="border-radius: 3px;"></p>
 
 <p>I won&rsquo;t lie: I think CoWorking in Greenville is about as good as it gets. Visitors from all over comment on our unique environment, and we&rsquo;re super thankful for all of the amazing people that make our work environments what they are. And we&rsquo;ve got more of a good thing coming soon:</p>
 
@@ -429,10 +429,10 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[The Iron Yard Academy: Front End Engineering Class Applications are OPEN]]></title>
-    <link href="http://theironyard.github.io/blog/2013/02/22/the-iron-yard-academy-front-end-engineering-class-applications-are-open/"/>
+    <link href="http://theironyard.com/blog/2013/02/22/the-iron-yard-academy-front-end-engineering-class-applications-are-open/"/>
     <updated>2013-02-22T13:56:06-05:00</updated>
-    <id>http://theironyard.github.io/blog/2013/02/22/the-iron-yard-academy-front-end-engineering-class-applications-are-open</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/02/mason-academy.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.com/blog/2013/02/22/the-iron-yard-academy-front-end-engineering-class-applications-are-open</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/02/mason-academy.jpg" style="border-radius: 3px;"></p>
 
 <p>For the last month we&rsquo;ve been working on a project called The Iron Yard Academy, and we&rsquo;re excited to announce that <a href="http://www.theironyard.com/academy/apply">applications are open</a> for our <a href="http://www.theironyard.com/academy/the-iron-yard-academy">Front End Engineering</a> class.</p>
 
@@ -482,14 +482,14 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Happy Birthday Peter! ]]></title>
-    <link href="http://theironyard.github.io/blog/2013/02/19/happy-birthday-peter/"/>
+    <link href="http://theironyard.com/blog/2013/02/19/happy-birthday-peter/"/>
     <updated>2013-02-19T11:14:49-05:00</updated>
-    <id>http://theironyard.github.io/blog/2013/02/19/happy-birthday-peter</id>
+    <id>http://theironyard.com/blog/2013/02/19/happy-birthday-peter</id>
     <content type="html"><![CDATA[<p>The Iron Yard wouldn&rsquo;t be what it is without you, Pete.</p>
 
 <p><strong>Happy Birthday!</strong></p>
 
-<p><img src="http://theironyard.github.io/images/blog/2013/02/900x900px-LL-89c85861_IMG_3551.jpeg" style="border-radius: 3px;"></p>
+<p><img src="http://theironyard.com/images/blog/2013/02/900x900px-LL-89c85861_IMG_3551.jpeg" style="border-radius: 3px;"></p>
 
 <!-- more -->
 
@@ -500,10 +500,10 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Lazy Friday Links, Vol. 11]]></title>
-    <link href="http://theironyard.github.io/blog/2013/02/15/lazy-friday-links-vol-11/"/>
+    <link href="http://theironyard.com/blog/2013/02/15/lazy-friday-links-vol-11/"/>
     <updated>2013-02-15T16:19:16-05:00</updated>
-    <id>http://theironyard.github.io/blog/2013/02/15/lazy-friday-links-vol-11</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/02/20101116025029271.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.com/blog/2013/02/15/lazy-friday-links-vol-11</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/02/20101116025029271.jpg" style="border-radius: 3px;"></p>
 
 <p><strong>1) Obama practically endorses CoderDojo! </strong> In an Inc. article, <a href="http://dashes.com/anil/2012/12/the-web-we-lost.html">Obama: Computer Programming Education for Kids &lsquo;Makes Sense&rsquo;</a>, Julie Strickland writes about how the possibility for learning vocational skills, like computer programming, can change the future of young kids. We agree! That&rsquo;s what CoderDojo is for. Here&rsquo;s a snippet:</p>
 
@@ -526,9 +526,9 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[App Roundup: When Valentines Bliss Fades Into Reality]]></title>
-    <link href="http://theironyard.github.io/blog/2013/02/14/app-roundup-when-valentines-bliss-fades-into-reality/"/>
+    <link href="http://theironyard.com/blog/2013/02/14/app-roundup-when-valentines-bliss-fades-into-reality/"/>
     <updated>2013-02-14T11:08:52-05:00</updated>
-    <id>http://theironyard.github.io/blog/2013/02/14/app-roundup-when-valentines-bliss-fades-into-reality</id>
+    <id>http://theironyard.com/blog/2013/02/14/app-roundup-when-valentines-bliss-fades-into-reality</id>
     <content type="html"><![CDATA[<p>There are lot of people making a lot of money on the idea of love today. It&rsquo;s great: companies feel good because they&rsquo;re helping people feel good. Everyone feels good.</p>
 
 <p>Unfortunately, those good feelings won&rsquo;t last in every case. We&rsquo;re not trying to rain on anyone&rsquo;s lovey-dovey parade here, we&rsquo;re just facing the facts, and we have some good <a href="news:">news:</a></p>
@@ -540,7 +540,7 @@ Nashville, TN. 37203</em>
 
 <p>Here&rsquo;s a round-up of services that will be there for you if the flower-and-candy-dream doesn&rsquo;t quite work out:</p>
 
-<p><a href="http://breakkup.com/"><img src="http://theironyard.github.io/images/blog/2013/02/breakkup.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
+<p><a href="http://breakkup.com/"><img src="http://theironyard.com/images/blog/2013/02/breakkup.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
 
 <h4>Breakkup</h4>
 
@@ -549,7 +549,7 @@ Nashville, TN. 37203</em>
 <hr>
 
 
-<p><a href="http://www.breakupnotifier.com/"><img src="http://theironyard.github.io/images/blog/2013/02/Breakup-Notifier-App.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
+<p><a href="http://www.breakupnotifier.com/"><img src="http://theironyard.com/images/blog/2013/02/Breakup-Notifier-App.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
 
 <h4>Breakup Notifier</h4>
 
@@ -558,7 +558,7 @@ Nashville, TN. 37203</em>
 <hr>
 
 
-<p><a href="http://www.neverlikeditanyway.com/"><img src="http://theironyard.github.io/images/blog/2013/02/never-liked-it.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
+<p><a href="http://www.neverlikeditanyway.com/"><img src="http://theironyard.com/images/blog/2013/02/never-liked-it.jpg" style="border-radius: 3px; float: left; margin: 15px;"></a></p>
 
 <h4>Never Liked It Anyways</h4>
 
@@ -571,10 +571,10 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Iron Yard Alum Spent Focuses on Relevance and Releases First Product: "Relify"]]></title>
-    <link href="http://theironyard.github.io/blog/2013/02/13/iron-yard-alum-spent-focuses-on-relevance-and-releases-first-product-relify/"/>
+    <link href="http://theironyard.com/blog/2013/02/13/iron-yard-alum-spent-focuses-on-relevance-and-releases-first-product-relify/"/>
     <updated>2013-02-13T15:57:33-05:00</updated>
-    <id>http://theironyard.github.io/blog/2013/02/13/iron-yard-alum-spent-focuses-on-relevance-and-releases-first-product-relify</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/02/relify-logo.jpg" style="border-radius: 3px; border: 1px solid black;"></p>
+    <id>http://theironyard.com/blog/2013/02/13/iron-yard-alum-spent-focuses-on-relevance-and-releases-first-product-relify</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/02/relify-logo.jpg" style="border-radius: 3px; border: 1px solid black;"></p>
 
 <p>It&rsquo;s no secret that consumer demand for personalized products and experiences is increasing at incredible speed, and that demand is creating new standards.</p>
 
@@ -603,10 +603,10 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Lazy Friday Links, Vol. 10]]></title>
-    <link href="http://theironyard.github.io/blog/2013/02/08/lazy-friday-links-vol-10/"/>
+    <link href="http://theironyard.com/blog/2013/02/08/lazy-friday-links-vol-10/"/>
     <updated>2013-02-08T16:51:50-05:00</updated>
-    <id>http://theironyard.github.io/blog/2013/02/08/lazy-friday-links-vol-10</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/02/fat-cat.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.com/blog/2013/02/08/lazy-friday-links-vol-10</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/02/fat-cat.jpg" style="border-radius: 3px;"></p>
 
 <p>This might be the latest we&rsquo;ve ever published Lazy Friday Links. But there&rsquo;s no minute like the last minute. And I had to get a bunch of black pipe threaded at Home Depot. Long story.</p>
 
@@ -631,10 +631,10 @@ Nashville, TN. 37203</em>
   
   <entry>
     <title type="html"><![CDATA[Hello MoonClerk! Iron Yard Alumni Announces Public Product Launch]]></title>
-    <link href="http://theironyard.github.io/blog/2013/02/06/hello-moonclerk-iron-yard-alumni-announces-public-product-launch/"/>
+    <link href="http://theironyard.com/blog/2013/02/06/hello-moonclerk-iron-yard-alumni-announces-public-product-launch/"/>
     <updated>2013-02-06T17:35:06-05:00</updated>
-    <id>http://theironyard.github.io/blog/2013/02/06/hello-moonclerk-iron-yard-alumni-announces-public-product-launch</id>
-    <content type="html"><![CDATA[<p><img src="http://theironyard.github.io/images/blog/2013/02/moonclerk-launch.jpg" style="border-radius: 3px;"></p>
+    <id>http://theironyard.com/blog/2013/02/06/hello-moonclerk-iron-yard-alumni-announces-public-product-launch</id>
+    <content type="html"><![CDATA[<p><img src="http://theironyard.com/images/blog/2013/02/moonclerk-launch.jpg" style="border-radius: 3px;"></p>
 
 <p>Ask any small business and they&rsquo;ll tell you that accepting recurring payments is either a huge hassle, overly expensive, or probably both. Sure, there are awesome point of sale tools for almost any type of vendor (Square, etc.), but if your business runs any type of subscription based product or service, you&rsquo;re probably in for a headache.</p>
 
