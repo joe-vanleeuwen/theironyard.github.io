@@ -65,7 +65,7 @@ Check out thoughts and re-caps from [Allen Branch](https://lessaccounting.com/bl
 
 <img src="http://i.imgur.com/7cbjJ89.jpg" style="border-radius: 3px;">
 
-### Our amazing sponsors:
+### Our amazing 2013 sponsors:
 
 Below are the sponsors who help make Grok the real deal. We use and love these products. Please take a moment to check them out.
 
