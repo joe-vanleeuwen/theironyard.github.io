@@ -40,7 +40,7 @@ Connect with fellow creatives while learning how to start or grow your creative 
 
 <img src="/images/events/landing-page/events-landing-page-grok.jpg" style="border-radius: 3px; margin-top: 15px;">
 
-### Greenville Grok - _Spring, 2014_
+### Greenville Grok - _April 2-4, 2014_
 
 A three day event sans the how-to sessions from industry leaders. We think a 10 minute session of hard questions from a new face is as good as a lock-tight answer from an old pro. We started Grok because we wanted to learn big, and go big.
 
