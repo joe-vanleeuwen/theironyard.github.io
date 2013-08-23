@@ -9,7 +9,11 @@ footer: true
 parent_url: "/events"
 ---
 
-### Thanks for making Grok 2013 incredible.
+<img src="/images/events/grok/grok2014-save-the-date.jpg" style="border-radius: 3px;">
+
+<hr>
+
+#### Thanks for making Grok 2013 incredible.
 
 <iframe src="http://player.vimeo.com/video/69313375" width="630" height="354" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
@@ -72,11 +76,16 @@ Below are the sponsors who help make Grok the real deal. We use and love these p
 
   {% sidebar %}
 
-#### Grok 2013 was a blast.
+#### Save the date for Grok 2014!
+
+### April 2-4
+We'll announce ticket sales this fall. [Sign up for our mailing list](http://eepurl.com/zUWBj) and be the first to know. 
 
 * * *
 
-See you next year.
+**Want to sponsor in 2014?**
+
+[Give us a shout.](mailto:grok@theironyard.com?Subject=I want to learn more about sponsoring Grok)
 
 * * *
 
@@ -86,12 +95,6 @@ See you next year.
 <p>**_The emailz_**
 
 [grok@theironyard.com](mailto:grok@theironyard.com)
-
-* * *
-
-**Want to sponsor in 2014?**
-
-[Give us a shout.](mailto:grok@theironyard.com?Subject=I)
 
 * * *
 
