@@ -82,6 +82,16 @@ Volunteers are always welcome. Come join the fun!
 
 ---
 
+<img src="/images/education/labs/daniel-jeffords-instructor.jpg" style="border-radius: 3px;">
+
+#### Daniel Jeffords
+
+**Hack Lab Guide**
+
+Daniel is an Iron Yard Academy graduate and a gifted teacher. He has a passion for helping kids learn to program. 
+
+---
+
 Questions? [Read our FAQ](#faq) or [send us an email](mailto:labs@theironyard.com?subject=I have a question about the website class).
 
 {% endsidebar %}
