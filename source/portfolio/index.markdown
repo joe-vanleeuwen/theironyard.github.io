@@ -38,6 +38,12 @@ parent_url: "/"
       <ul class="social-links">
          <li class="tumblr">
             <a href="http://www.vheda.com/" target="_blank">Tumblr</a>
+         <li class="angellist">
+            <a href="https://angel.co/vheda-health-1" target="_blank">Angel List</a>
+         <li class="twitter">
+            <a href="https://twitter.com/vhedahealth" target="_blank">Twitter</a>
+         <li class="email">
+            <a href="mailto:shameet@vheda.com" target="_blank">Email</a>
       </ul>
    </div>
 </div>
@@ -184,6 +190,16 @@ parent_url: "/"
       <ul class="social-links">
          <li class="tumblr">
             <a href="http://www.thoroughcare.net/" target="_blank">Tumblr</a>
+         </li>
+         <li class="angellist">
+            <a href="https://angel.co/thoroughcare" target="_blank">Angel List</a>
+         </li>
+         <li class="twitter">
+            <a href="https://twitter.com/ThoroughCare" target="_blank">Twitter</a>
+         </li>
+         <li class="email">
+            <a href="mailto:info@thoroughcare.net" target="_blank">Email</a>
+         </li>
       </ul>
    </div>
 </div>
@@ -327,6 +343,19 @@ parent_url: "/"
       <ul class="social-links">
          <li class="tumblr">
             <a href="http://www.primegenomics.com/" target="_blank">Tumblr</a>
+         </li>
+         <li class="angellist">
+            <a href="https://angel.co/prime-genomics" target="_blank">Angel List</a>
+         </li>
+         <li class="twitter">
+            <a href="https://twitter.com/primegenomics" target="_blank">Twitter</a>
+         </li>
+         <li class="facebook">
+            <a href="https://www.facebook.com/pages/Prime-Genomics/209295552418856?sk=wall" target="_blank">Facebook</a>
+         </li>
+         <li class="email">
+            <a href="mailto:info@primegenomics.com" target="_blank">Email</a>
+         </li>
       </ul>
    </div>
 </div>
@@ -533,6 +562,16 @@ parent_url: "/"
       <ul class="social-links">
          <li class="tumblr">
             <a href="http://www.healthplotter.com/" target="_blank">Tumblr</a>
+         </li>
+         <li class="angellist">
+            <a href="https://angel.co/healthplotter" target="_blank">Angel List</a>
+         </li>
+         <li class="twitter">
+            <a href="https://twitter.com/healthplotter" target="_blank">Twitter</a>
+         </li>
+         <li class="email">
+            <a href="mailto:senthil@healthplotter.com" target="_blank">Email</a>
+         </li>
       </ul>
    </div>
 </div>
@@ -650,6 +689,19 @@ parent_url: "/"
       <ul class="social-links">
          <li class="tumblr">
             <a href="http://www.chartspan.com/" target="_blank">Tumblr</a>
+         </li>
+         <li class="angellist">
+            <a href="https://angel.co/chartspan-medical-technologies" target="_blank">Angel List</a>
+         </li> 
+         <li class="twitter">
+            <a href="https://twitter.com/ChartSpanApp" target="_blank">Twitter</a>
+         </li>  
+         <li class="facebook">
+            <a href="https://www.facebook.com/ChartSpan" target="_blank">Facebook</a>
+         </li>   
+         <li class="email">
+            <a href="mailto:JonMichial@ChartSpan.com" target="_blank">Email</a>
+         </li>
       </ul>
    </div>
 </div>
@@ -657,14 +709,18 @@ parent_url: "/"
 <div class="clear"></div>
 
 <div class="team-member one-fourth ">
-   <a href="mailto:melwell@247care.it" target="_blank">
+   <a href="http://care.it" target="_blank">
       <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-care-it.jpg" class="photo wp-post-image" alt="Care IT" title="Care IT" />
     </a>
    <div class="content">
       <h4 class="xname">Care IT</h4>
       <ul class="social-links">
          <li class="email">
-            <a href="mailto:melwell@247care.it" target="_blank">Email</a>
+            <a href="mailto:support@care.it" target="_blank">Email</a>
+         </li>
+         <li class="twitter">
+            <a href="http://twitter.com/CareThruIT" target="_blank">Twitter</a>
+         </li>
       </ul>
    </div>
 </div>
