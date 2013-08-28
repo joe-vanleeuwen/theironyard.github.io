@@ -75,13 +75,19 @@ body {
     max-width: none;
     padding-top: 10px;
     padding-bottom: 13px;
+  }
 
+  &.more-container {
+    background: #BBBABA;
+    max-width: none;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
 
     .article {
       margin-top: 0px;
       padding-top: 40px;
     }
-  }
 }
 
 .content {
