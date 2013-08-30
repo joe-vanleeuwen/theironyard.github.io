@@ -17,15 +17,11 @@ In our after school website class, students learn internet fundamentals, how the
 
 ---
 <a id="schedule"></a>
-### 2013 Greenville Schedule
+### 2013 Schedule
 
 <a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-september-2013" class="button"> September 10th - October 15th</a>  
 
 <a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-november-2013" class="button"> November 5th - December 10th</a>
-
-### 2013 Spartanburg Schedule
-
-> #### *Signups coming soon!*
 
 ---
 <a id="faq"></a>
@@ -70,23 +66,13 @@ Volunteers are always welcome. Come join the fun!
 **Ages**: 13 - 18 *(or CoderDojo graduate)*  
 **Cost**: $35/class
 
-#### Spartanburg class details
-
-**Day**: TBD  
-**Time**: TBD  
-**Location**: The Mill 
-**Address**: 151 S. Daniel Morgan Ave.  
-**Duration**: 6 weeks  
-**Ages**: 13 - 18 *(or CoderDojo graduate)*  
-**Cost**: $35/class
-
 ---
 
 <img src="/images/education/labs/daniel-jeffords-instructor.jpg" style="border-radius: 3px;">
 
 #### Daniel Jeffords
 
-**Hack Lab Guide**
+**Labs Instructor**
 
 Daniel is an Iron Yard Academy graduate and a gifted teacher. He has a passion for helping kids learn to program. 
 
