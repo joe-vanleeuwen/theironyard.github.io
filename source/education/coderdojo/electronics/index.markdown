@@ -25,11 +25,7 @@ These classes wouldn't be possible without support from [Arduino](http://www.ard
 
 ---
 <a id="schedule"></a>
-### 2013 Greenville Schedule
-
-> #### *Signups coming soon!*
-
-### 2013 Spartanburg Schedule
+### 2013 Schedule
 
 > #### *Signups coming soon!*
 
@@ -61,18 +57,8 @@ To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If
 
 **Day**: TBD  
 **Time**: TBD  
-**Location**: The NEXT Center  
+**Location**: Greenville, SC
 **Address**: 411 University Ridge, Suite 220  
-**Duration**: 6 weeks  
-**Ages**: 8 - 18 *(parent required for <13)*  
-**Cost**: FREE!
-
-#### Spartanburg class details
-
-**Day**: TBD  
-**Time**: TBD  
-**Location**: The Mill  
-**Address**: 151 S. Daniel Morgan Ave.  
 **Duration**: 6 weeks  
 **Ages**: 8 - 18 *(parent required for <13)*  
 **Cost**: FREE!

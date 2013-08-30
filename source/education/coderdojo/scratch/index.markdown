@@ -19,17 +19,13 @@ In the video game module, students learn a visual programming language called Sc
 
 ---
 <a id="schedule"></a>
-### 2013 Greenville Schedule
+### 2013 Schedule
 
 Scratch classes will be 6 weeks long with a 2-3 week break between each session. Our goal is to run them throughout the school year. Volunteers make this possible, [so please sign up today](http://eepurl.com/DWo8v)! 
 
 <a href="https://tito.io/the-iron-yard/greenville-coderdojo-scratch-september-2013" class="button"> September 10th - October 15th</a>  
 
 <a href="https://tito.io/the-iron-yard/greenville-coderdojo-scratch-november-2013" class="button"> November 5th - December 10th</a>
-
-### 2013 Spartanburg Schedule
-
-> #### *Signups coming soon!*
 
 ---
 <a id="faq"></a>
@@ -67,18 +63,8 @@ Volunteers allow us to keep these classes free. If you're passionate about helpi
 
 **Day**: Tuesdays  
 **Time**: 6:00-7:30pm  
-**Location**: The NEXT Center  
+**Location**: Greenville, SC
 **Address**: 411 University Ridge, Suite 220  
-**Duration**: 6 weeks  
-**Ages**: 8 - 18 *(parent required for <13)*  
-**Cost**: FREE!
-
-#### Spartanburg class details
-
-**Day**: TBD  
-**Time**: TBD  
-**Location**: The Mill  
-**Address**: 151 S. Daniel Morgan Ave.  
 **Duration**: 6 weeks  
 **Ages**: 8 - 18 *(parent required for <13)*  
 **Cost**: FREE!
