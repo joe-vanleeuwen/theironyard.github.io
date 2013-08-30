@@ -60,7 +60,7 @@ Volunteers are always welcome. Come join the fun!
 
 **Day**: Tuesdays  
 **Time**: 4:00-5:00pm  
-**Location**: The NEXT Center  
+**Location**: Greenville, SC
 **Address**: 411 University Ridge, Suite 220  
 **Duration**: 6 weeks  
 **Ages**: 13 - 18 *(or CoderDojo graduate)*  

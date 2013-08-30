@@ -17,7 +17,7 @@ Many of our CoderDojo and Labs students have completed our classes but still wan
 
 ---
 <a id="schedule"></a>
-### 2013 Greenville Schedule
+### 2013 Schedule
 
 <a href="https://tito.io/the-iron-yard/greenville-labs-hack-lab-fall-2013" class="button"> Sept. 12th - Dec. 12th</a>  
 
