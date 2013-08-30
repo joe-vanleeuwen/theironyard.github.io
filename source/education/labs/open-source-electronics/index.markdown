@@ -13,13 +13,15 @@ parent_url: "/education/labs"
 
 ### Open Source Electronics
 
-In this class you'll learn about electronics and how to control/program electronic components. You'll discover all of the components *that make up a robots*,  how they work, and the goal at the end of the class is for you to have learned enough to **a)** continue to learn about electricity/electronics/programming through online resources, and **b)** be able to build circuits of your own imagination. (We won't be making "robots," so if that's what you want to do, join a FIRST Lego League.)
+In this class you'll learn about electronics and how to control/program electronic components. You'll discover all of the components *that make up a robots* and how they work.
+
+The goal at the end of the class is for you to have learned enough to **a)** continue to learn about electricity, electronics, and programming through online resources, and **b)** be able to build circuits of your own imagination. (We won't be making "robots," so if that's what you want to do, join a FIRST Lego League.)
 
 ---
 <a id="schedule"></a>
-### 2013 Open Source Electronics Schedule
+### 2013 Schedule
 
-<a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-september-2013" class="button"> September 10th - October 15th</a>  
+<a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-october-2013" class="button"> Oct. 3rd - Nov. 7th</a>  
 
 ---
 <a id="faq"></a>
@@ -56,9 +58,10 @@ Volunteers are always welcome. Come join the fun!
 ---
 #### Class details
 
+**Start date**: October 3rd  
 **Day**: Thursdays  
 **Time**: 7:00-8:30pm  
-**Location**: Greenville, SC @ The NEXT Center  
+**Location**: Greenville, SC  
 **Address**: 411 University Ridge, Suite 220  
 **Duration**: 6 weeks  
 **Ages**: 13 - 18
