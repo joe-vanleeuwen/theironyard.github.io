@@ -21,7 +21,7 @@ The goal at the end of the class is for you to have learned enough to **a)** con
 <a id="schedule"></a>
 ### 2013 Schedule
 
-<a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-october-2013" class="button"> Oct. 3rd - Nov. 7th</a>  
+<a href="https://tito.io/the-iron-yard/greenville-labs-open-source-electronics-october-2013" class="button"> Oct. 3rd - Nov. 7th</a>  
 
 ---
 <a id="faq"></a>
