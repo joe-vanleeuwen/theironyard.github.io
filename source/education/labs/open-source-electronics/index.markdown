@@ -9,7 +9,7 @@ footer: true
 parent_url: "/education/labs"
 ---
 
-<img src="/images/education/labs/build-a-website.jpg" style="border-radius: 3px;">
+<img src="/images/education/labs/open-source-electronics.jpg" style="border-radius: 3px;">
 
 ### Website Basics: HTML and CSS
 
