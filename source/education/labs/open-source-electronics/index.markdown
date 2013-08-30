@@ -11,21 +11,15 @@ parent_url: "/education/labs"
 
 <img src="/images/education/labs/open-source-electronics.jpg" style="border-radius: 3px;">
 
-### Website Basics: HTML and CSS
+### Open Source Electronics
 
-In our after school website class, students learn internet fundamentals, how the browser works, and the basics of building things for the web. While gaining a working knowledge of both markup and CSS, kids will craft their very own website. (You'll have to print it out to put it on the fridge, mom and dad.)
+In this class you'll learn about electronics and how to control/program electronic components. You'll discover all of the components *that make up a robots*,  how they work, and the goal at the end of the class is for you to have learned enough to **a)** continue to learn about electricity/electronics/programming through online resources, and **b)** be able to build circuits of your own imagination. (We won't be making "robots," so if that's what you want to do, join a FIRST Lego League.)
 
 ---
 <a id="schedule"></a>
-### 2013 Greenville Schedule
+### 2013 Open Source Electronics Schedule
 
 <a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-september-2013" class="button"> September 10th - October 15th</a>  
-
-<a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-november-2013" class="button"> November 5th - December 10th</a>
-
-### 2013 Spartanburg Schedule
-
-> #### *Signups coming soon!*
 
 ---
 <a id="faq"></a>
@@ -33,7 +27,7 @@ In our after school website class, students learn internet fundamentals, how the
 
 #### My child is younger than 13. Is there any way he/she can take the class?
 
-If your child has completed CoderDojo Scratch, CoderDojo Electronics, or both, they may take this course. We don't accept students younger than 8 years old.
+This class is a bit more advanced, so we don't accept students younger than 13, and we strongly recommend that 13-14 year olds have some experience with electronics (or a parent with experience).
 
 #### I registered interest in a full class. How will I know if my child gets in?
 
@@ -56,29 +50,29 @@ To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If
 Volunteers are always welcome. Come join the fun! 
 
 <ul>
-  <li>• <a href="http://eepurl.com/DWqpb"> Sign up to volunteer in Greenville!</a></li>
+  <li>• <a href="http://eepurl.com/EuVEf"> Sign up to volunteer!</a></li>
 </ul>
 
 ---
-#### Greenville class details
+#### Class details
 
-**Day**: Tuesdays  
-**Time**: 4:00-5:00pm  
-**Location**: The NEXT Center  
+**Day**: Thursdays  
+**Time**: 7:00-8:30pm  
+**Location**: Greenville, SC @ The NEXT Center  
 **Address**: 411 University Ridge, Suite 220  
 **Duration**: 6 weeks  
-**Ages**: 13 - 18 *(or CoderDojo graduate)*  
+**Ages**: 13 - 18
 **Cost**: $35/class
 
 ---
 
-<img src="/images/education/labs/daniel-jeffords-instructor.jpg" style="border-radius: 3px;">
+<img src="/images/education/labs/anne-instructor.jpg" style="border-radius: 3px;">
 
 #### Daniel Jeffords
 
-**Hack Lab Guide**
+**Open Source Electronics Instructor**
 
-Daniel is an Iron Yard Academy graduate and a gifted teacher. He has a passion for helping kids learn to program. 
+Anne is an experienced electrical engineer, marvelous teacher, and mother to two beautiful girls. She was the main driver behind starting an electronics program at The Iron Yard. 
 
 ---
 
