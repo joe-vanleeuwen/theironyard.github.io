@@ -64,7 +64,7 @@ Volunteers are always welcome. Come join the fun!
 **Location**: Greenville, SC  
 **Address**: 411 University Ridge, Suite 220  
 **Duration**: 6 weeks  
-**Ages**: 13 - 18
+**Ages**: 13 - 18  
 **Cost**: $35/class
 
 ---
