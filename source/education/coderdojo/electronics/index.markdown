@@ -9,7 +9,7 @@ footer: true
 parent_url: "/education/coderdojo"
 ---
 
-<img src="/images/education/coderdojo/coderdojo-electronics-student-teacher.jpg" style="border-radius: 3px;">
+<img src="/images/education/coderdojo/coderdojo-electronics-student.jpg" style="border-radius: 3px;">
 
 ### CoderDojo: Electronics
 
