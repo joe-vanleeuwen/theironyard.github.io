@@ -71,7 +71,7 @@ Volunteers are always welcome. Come join the fun!
 
 <img src="/images/education/labs/anne-instructor.jpg" style="border-radius: 3px;">
 
-#### Daniel Jeffords
+#### Anne Mahaffey
 
 **Open Source Electronics Instructor**
 
