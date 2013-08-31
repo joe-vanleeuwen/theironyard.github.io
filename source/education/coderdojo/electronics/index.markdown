@@ -9,7 +9,7 @@ footer: true
 parent_url: "/education/coderdojo"
 ---
 
-<img src="/images/education/coderdojo/coderdojo-electronics.jpg" style="border-radius: 3px;">
+<img src="/images/education/coderdojo/coderdojo-electronics-student.jpg" style="border-radius: 3px;">
 
 ### CoderDojo: Electronics
 
@@ -27,7 +27,7 @@ These classes wouldn't be possible without support from [Arduino](http://www.ard
 <a id="schedule"></a>
 ### 2013 Schedule
 
-> #### *Signups coming soon!*
+> #### *Dates coming soon! <a href="http://eepurl.com/tJLIT">Sign up for our waitlist</a>!*
 
 ---
 <a id="faq"></a>
@@ -55,7 +55,10 @@ To sign up for a class, [check our schedule](#schedule) and reserve a ticket. If
 
 #### Greenville class details
 
-**Day**: TBD  
+We're working on exact dates for the classes. 
+**<a href="http://eepurl.com/tJLIT">Sign up for our waitlist</a>** and be the first to know when signups go live. 
+
+**Day**: TBD    
 **Time**: TBD  
 **Location**: Greenville, SC
 **Address**: 411 University Ridge, Suite 220  
