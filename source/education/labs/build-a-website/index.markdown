@@ -19,9 +19,19 @@ In our after school website class, students learn internet fundamentals, how the
 <a id="schedule"></a>
 ### 2013 Schedule
 
+Registration is open for the following sessions: 
+
 <a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-september-2013" class="button"> September 10th - October 15th</a>  
 
 <a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-november-2013" class="button"> November 5th - December 10th</a>
+
+### 2014 Schedule
+
+We've already scheduled sessions for the spring semester, but haven't opened registration yet. Sign up for the waitlist, and you'll be the first to know when signups go live. 
+
+* <a href="http://eepurl.com/EwCkb"> Join the Jan. 1 - Feb. 11 waitlist</a>
+* <a href="http://eepurl.com/EwDZ5"> Join the Mar. 4 - Apr. 8 waitlist</a>
+* <a href="http://eepurl.com/EwD0r"> Join the Apr. 22 - May 27 waitlist</a>
 
 ---
 <a id="faq"></a>
