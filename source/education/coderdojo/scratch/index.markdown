@@ -23,9 +23,19 @@ In the video game module, students learn a visual programming language called Sc
 
 Scratch classes will be 6 weeks long with a 2-3 week break between each session. Our goal is to run them throughout the school year. Volunteers make this possible, [so please sign up today](http://eepurl.com/DWo8v)! 
 
+The following sessions are open for registration:
+
 <a href="https://tito.io/the-iron-yard/greenville-coderdojo-scratch-september-2013" class="button"> September 10th - October 15th</a>  
 
 <a href="https://tito.io/the-iron-yard/greenville-coderdojo-scratch-november-2013" class="button"> November 5th - December 10th</a>
+
+### 2014 Schedule
+
+We've already scheduled sessions for the spring semester, but haven't opened registration yet. Sign up for the waitlist, and you'll be the first to know when signups go live. 
+
+* <a href="http://eepurl.com/EwEor"> Join the Jan. 1 - Feb. 11 waitlist</a>
+* <a href="http://eepurl.com/EwEp5"> Join the Mar. 4 - Apr. 8 waitlist</a>
+* <a href="http://eepurl.com/EwErn"> Join the Apr. 22 - May 27 waitlist</a>
 
 ---
 <a id="faq"></a>
