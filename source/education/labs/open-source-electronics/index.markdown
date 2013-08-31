@@ -13,7 +13,7 @@ parent_url: "/education/labs"
 
 ### Open Source Electronics
 
-In this class you'll learn about electronics and how to control/program electronic components. You'll discover all of the components *that make up a robots* and how they work.
+In this class you'll learn about electronics and how to control/program electronic components. You'll discover all of the components *that make up a robot* and how they work.
 
 The goal at the end of the class is for you to have learned enough to **a)** continue to learn about electricity, electronics, and programming through online resources, and **b)** be able to build circuits of your own imagination. (We won't be making "robots," so if that's what you want to do, join a FIRST Lego League.)
 
