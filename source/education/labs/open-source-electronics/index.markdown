@@ -31,6 +31,10 @@ The goal at the end of the class is for you to have learned enough to **a)** con
 
 This class is a bit more advanced, so we don't accept students younger than 13, and we strongly recommend that 13-14 year olds have some experience with electronics (or a parent with experience).
 
+#### Do you break for holidays? 
+
+Yes, we will take a one week break so that families can enjoy Halloween. 
+
 #### I registered interest in a full class. How will I know if my child gets in?
 
 If a student in a full class drops out before the course starts, we will give their spot to those who registered interest on a first-come-first serve basis. 
@@ -63,7 +67,7 @@ Volunteers are always welcome. Come join the fun!
 **Time**: 7:00-8:30pm  
 **Location**: Greenville, SC  
 **Address**: 411 University Ridge, Suite 220  
-**Duration**: 6 weeks  
+**Duration**: 7 weeks  
 **Ages**: 13 - 18  
 **Cost**: $35/class
 
