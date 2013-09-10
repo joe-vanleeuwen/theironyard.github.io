@@ -104,7 +104,7 @@ It's a three day event sans the how-to sessions from industry leaders. We think 
 
 ###  Grok is about Greenville
 
-We throw Grok here because we are totally nuts for [this place](http://www.theironyard.com/greenville). Beer flows in the streets and the buildings are made from Belgian chocolate – that might as well be true because that's how we feel about it. Once you see Greenville for yourself, we think you'll have second thoughts about leaving.
+We throw Grok here because we are totally nuts for [this place](http://www.theironyard.com/upstate/greenville). Beer flows in the streets and the buildings are made from Belgian chocolate – that might as well be true because that's how we feel about it. Once you see Greenville for yourself, we think you'll have second thoughts about leaving.
 
 * * *
 
