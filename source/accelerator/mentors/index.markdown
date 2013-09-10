@@ -633,8 +633,6 @@ footer: true
    </div>
 </div>
 
-
-
 <div class="team-member one-fourth last">
    <img width="220" height="240" src="/images/accelerator/mentors/accelerator_mentors_bart_lorang.png" class="photo wp-post-image" alt="Bart Lorang" title="Bart Lorang" />
    <div class="content">
