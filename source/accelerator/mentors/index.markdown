@@ -602,7 +602,7 @@ footer: true
    <img width="220" height="240" src="/images/accelerator/mentors/accelerator_mentors_gary_lee.png" class="photo wp-post-image" alt="Gary Lee" title="Gary Lee" />
    <div class="content">
       <h4 class="name">Gary Lee</h4>
-      <span class="job-title">COO at InReality</span>
+      <span class="job-title">President and COO at InReality</span>
       <ul class="social-links">
          <li class="linkedin">
             <a href="http://www.linkedin.com/in/grlee" target="_blank">LinkedIn</a>
