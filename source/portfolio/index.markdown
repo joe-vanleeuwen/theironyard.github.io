@@ -91,29 +91,6 @@ parent_url: "/"
 <div class="clear"></div>
 
 <div class="team-member one-fourth">
-   <a href="http://tripsnsalsa.com" target="_blank">
-      <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-trips-n-salsa.jpg" class="photo wp-post-image" alt="Trips n Salsa" title="Trips n Salsa" />
-    </a>
-   <div class="content">
-      <h4 class="xname">Trips n Salsa</h4>
-      <ul class="social-links">
-         <li class="twitter">
-            <a href="http://www.twitter.com/tripsnsalsa" target="_blank">Twitter</a>
-         </li>
-         <li class="facebook">
-            <a href="http://www.facebook.com/tripsnsalsa" target="_blank">Facebook</a>
-         </li>
-        <li class="angellist">
-            <a href="https://angel.co/trips-n-salsa/followers#overview" target="_blank">Angel List</a>
-         </li>
-         <li class="email">
-            <a href="mailto:founders@tripsnsalsa.com" target="_blank">Email</a>
-         </li>
-      </ul>
-   </div>
-</div>
-
-<div class="team-member one-fourth">
    <a href="http://www.tribr.com/" target="_blank">
       <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-tribr.jpg" class="photo wp-post-image" alt="Tribr" title="Tribr" />
     </a>
@@ -159,7 +136,7 @@ parent_url: "/"
    </div>
 </div>
 
-<div class="team-member one-fourth last">
+<div class="team-member one-fourth">
    <a href="http://gettinderbox.com/" target="_blank">
       <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-tinderbox.jpg" class="photo wp-post-image" alt="TinderBox" title="TinderBox" />
     </a>
@@ -179,9 +156,7 @@ parent_url: "/"
    </div>
 </div>
 
-<div class="clear"></div>
-
-<div class="team-member one-fourth">
+<div class="team-member one-fourth last">
    <a href="http://www.thoroughcare.net/" target="_blank">
       <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-thoroughcare.jpg" class="photo wp-post-image" alt="Thoroughcare" title="Thoroughcare" />
     </a>
@@ -204,6 +179,8 @@ parent_url: "/"
    </div>
 </div>
 
+<div class="clear"></div>
+
 <div class="team-member one-fourth">
    <a href="http://tavernapp.com/" target="_blank">
       <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-tavern.jpg" class="photo wp-post-image" alt="Tavern" title="Tavern" />
@@ -224,30 +201,7 @@ parent_url: "/"
    </div>
 </div>
 
-<div class="team-member one-fourth ">
-   <a href="http://shopwithspent.com" target="_blank">
-      <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-spent.jpg" class="photo wp-post-image" alt="Spent" title="Spent" />
-    </a>
-   <div class="content">
-      <h4 class="xname">Spent</h4>
-      <ul class="social-links">
-         <li class="twitter">
-            <a href="http://twitter.com/shopwithspent" target="_blank">Twitter</a>
-         </li>
-         <li class="facebook">
-            <a href="http://www.facebook.com/shopwithspent" target="_blank">Facebook</a>
-         </li>
-         <li class="angellist">
-            <a href="https://angel.co/spent-1" target="_blank">Angel List</a>
-         </li>
-         <li class="email">
-            <a href="mailto:founders@shopwithspent.com" target="_blank">Email</a>
-         </li>
-      </ul>
-   </div>
-</div>
-
-<div class="team-member one-fourth last">
+<div class="team-member one-fourth">
    <a href="http://www.2nl.co/" target="_blank">
       <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-second-light.jpg" class="photo wp-post-image" alt="Second Light" title="Second Light" />
     </a>
@@ -259,8 +213,6 @@ parent_url: "/"
       </ul>
    </div>
 </div>
-
-<div class="clear"></div>
 
 <div class="team-member one-fourth ">
    <a href="http://www.ridepost.com/" target="_blank">
@@ -280,6 +232,43 @@ parent_url: "/"
          </li>
          <li class="email">
             <a href="mailto:founders@ridepost.com" target="_blank">Email</a>
+         </li>
+      </ul>
+   </div>
+</div>
+
+<div class="team-member one-fourth last">
+   <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-relify.jpg" class="photo wp-post-image" alt="Relify" title="Relify" />
+   <div class="content">
+      <h4 class="xname">Relify</h4>
+      <ul class="social-links">
+         <li class="email">
+            <a href="mailto:hello@theironyard.com" target="_blank">Email</a>
+         </li>
+      </ul>
+   </div>
+</div>
+
+<div class="clear"></div>
+
+<div class="team-member one-fourth">
+   <a href="http://ratevaletapp.com" target="_blank">
+      <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-ratevalet.jpg" class="photo wp-post-image" alt="Rate Valet" title="Rate Valet" />
+    </a>
+   <div class="content">
+      <h4 class="xname">RateValet</h4>
+      <ul class="social-links">
+         <li class="tumblr">
+            <a href="http://ratevaletapp.com/">Website</a>
+         </li>
+         <li class="twitter">
+            <a href="http://www.twitter.com/ratevaletapp" target="_blank">Twitter</a>
+         </li>
+        <li class="angellist">
+            <a href="https://angel.co/trips-n-salsa/followers#overview" target="_blank">Angel List</a>
+         </li>
+         <li class="email">
+            <a href="mailto:hello@ratevaletapp.com" target="_blank">Email</a>
          </li>
       </ul>
    </div>
@@ -576,30 +565,7 @@ parent_url: "/"
    </div>
 </div>
 
-<div class="team-member one-fourth">
-   <a href="http://gastke.com/partnerprofit/" target="_blank">
-      <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-gastke.jpg" class="photo wp-post-image" alt="GASTKE" title="GASTKE" />
-   </a>
-   <div class="content">
-      <h4 class="xname">GASTKE</h4>
-      <ul class="social-links">
-         <li class="twitter">
-            <a href="https://twitter.com/gastke_inc" target="_blank">Twitter</a>
-         </li>
-         <li class="facebook">
-            <a href="http://www.facebook.com/gastke" target="_blank">Facebook</a>
-         </li>
-         <li class="angellist">
-            <a href="https://angel.co/gastke" target="_blank">Angel List</a>
-         </li>
-         <li class="email">
-            <a href="mailto:kevin@gastke.com" target="_blank">Email</a>
-         </li>
-      </ul>
-   </div>
-</div>
-
-<div class="team-member one-fourth last">
+<div class="team-member one-fourth ">
    <a href="http://www.gamemaster-inc.com/" target="_blank">
       <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-gamemaster.jpg" class="photo wp-post-image" alt="Gamemaster" title="Gamemaster" />
    </a>
@@ -619,9 +585,7 @@ parent_url: "/"
    </div>
 </div>
 
-<div class="clear"></div>
-
-<div class="team-member one-fourth ">
+<div class="team-member one-fourth last">
    <a href="http://www.fullcontact.com/" target="_blank">
       <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-full-contact.jpg" class="photo wp-post-image" alt="FullContact" title="FullContact" />
    </a>
@@ -640,6 +604,8 @@ parent_url: "/"
       </ul>
    </div>
 </div>
+
+<div class="clear"></div>
 
 <div class="team-member one-fourth ">
    <a href="mailto:djrodillo@gmail.com" target="_blank">
@@ -680,7 +646,7 @@ parent_url: "/"
    </div>
 </div>
 
-<div class="team-member one-fourth last">
+<div class="team-member one-fourth ">
    <a href="http://www.chartspan.com/" target="_blank">
       <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-chart-span.jpg" class="photo wp-post-image" alt="Chart Span" title="Chart Span" />
     </a>
@@ -706,9 +672,7 @@ parent_url: "/"
    </div>
 </div>
 
-<div class="clear"></div>
-
-<div class="team-member one-fourth ">
+<div class="team-member one-fourth last">
    <a href="http://care.it" target="_blank">
       <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-care-it.jpg" class="photo wp-post-image" alt="Care IT" title="Care IT" />
     </a>
@@ -724,6 +688,8 @@ parent_url: "/"
       </ul>
    </div>
 </div>
+
+<div class="clear"></div>
 
 <div class="team-member one-fourth">
    <a href="http://careporthealth.com/" target="_blank">
@@ -746,30 +712,58 @@ parent_url: "/"
 </div>
 
 <div class="team-member one-fourth">
-   <a href="http://betterfit.com/" target="_blank">
-      <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-betterfit.jpg" class="photo wp-post-image" alt="BetterFit" title="BetterFit" />
-   </a>
+   <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-betterfit.jpg" class="photo wp-post-image" alt="BetterFit" title="BetterFit" />
    <div class="content">
       <h4 class="xname">BetterFit</h4>
       <ul class="social-links">
-         <li class="twitter">
-            <a href="https://twitter.com/betterfit_tech" target="_blank">Twitter</a>
-         </li>
-         <li class="facebook">
-            <a href="http://www.facebook.com/BetterFitTechnologies" target="_blank">Facebook</a>
-         </li>
-         <li class="angellist">
-            <a href="https://angel.co/betterfit-technologies/press#overview" target="_blank">Angel List</a>
-         </li>
-         <li class="crunchbase">
-            <a href="http://www.crunchbase.com/company/" target="_blank">CrunchBase</a>
-         </li>
          <li class="email">
-            <a href="mailto:founders@leaguevine.com" target="_blank">Email</a>
+            <a href="mailto:hello@theironyard.com.com" target="_blank">Email</a>
          </li>
       </ul>
    </div>
 </div>
+
+<div class="team-member one-fourth">
+   <a href="http://auditfile.com" target="_blank">
+      <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-audit-file.jpg" class="photo wp-post-image" alt="AuditFile.com" title="AuditFile.com" />
+   </a>
+   <div class="content">
+      <h4 class="xname">AuditFile.com</h4>
+      <ul class="social-links">
+         <li class="tumblr">
+            <a href="http://auditfile.com">Website</a>
+         </li>
+         <li class="twitter">
+            <a href="https://twitter.com/AuditFile_team" target="_blank">Twitter</a>
+         </li>
+         <li class="angellist">
+            <a href="https://angel.co/auditfile" target="_blank">Angel List</a>
+         </li>
+         <li class="email">
+            <a href="mailto:kevin@auditfile.com" target="_blank">Email</a>
+         </li>
+      </ul>
+   </div>
+</div>
+
+<div class="team-member one-fourth last">
+   <a href="http://8to18.com/" target="_blank">
+      <img width="220" height="140" src="/images/accelerator/portfolio/portfolio-8-to-18.jpg" class="photo wp-post-image" alt="8 to 18" title="8 to 18" />
+   </a>
+   <div class="content">
+      <h4 class="xname">8 to 18</h4>
+      <ul class="social-links">
+         <li class="tumblr">
+            <a href="http://www.8to18inc.com/" target="_blank">Twitter</a>
+         </li>
+         <li class="email">
+            <a href="mailto:jeff.keller@8to18.com" target="_blank">Email</a>
+         </li>
+      </ul>
+   </div>
+</div>
+
+<div class="clear"></div>
 
 <div class="team-member one-fourth last">
    <a href="http://www.3scan.com/" target="_blank">
@@ -784,4 +778,3 @@ parent_url: "/"
    </div>
 </div>
 
-<div class="clear"></div>
