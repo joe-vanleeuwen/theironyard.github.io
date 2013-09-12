@@ -1,8 +1,31 @@
 .applications-closed {
-    margin-bottom: 15px;
-    display: inline-block;
-    float: left;
-    margin-right: 14px;
-    line-height: 67px;
-    font-size: 50px;
+  margin-bottom: 15px;
+  display: inline-block;
+  float: left;
+  margin-right: 14px;
+  line-height: 67px;
+  font-size: 50px;
+}
+
+// BLOG STYLEZ
+
+.pagination {
+  margin-top: 20px;
+  font-size: 20px;
+  font-style: italic;
+  a {
+    color: #39474E;
   }
+  .next {
+    float: right; 
+  }
+}
+
+.article .meta .basic-alignment {
+  margin-top: 15px;
+  display: inline-block;
+
+  &:last-child {
+    float: right;
+  }
+}
