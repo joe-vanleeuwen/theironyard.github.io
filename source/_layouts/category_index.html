@@ -12,7 +12,7 @@ parent_url: "/blog"
         <div class="intro-content">
           <div class="triangle" style="border-top: 20px solid {{page.color}};"></div>
           <h1><a class="ss-left back" href="{{page.parent_url}}"></a>The Blog</h1>
-          <h2 style="color: white;">Category: {{page.category}}
+          <div class="description">Category: {{page.category}}</div>
         </div>
       </div>
     </div>
@@ -32,7 +32,7 @@ parent_url: "/blog"
               {% endif %}
             </p>
           {% endunless %}
-          <div class="entry-content">{{ content | excerpt }}</div>
+          <div class="entry-content">{{ content | excerpt | markdownify }}</div>
           {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
           {% if excerpted == 'true' %}
             <div>
