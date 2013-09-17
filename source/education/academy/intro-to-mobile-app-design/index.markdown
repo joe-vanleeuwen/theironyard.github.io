@@ -53,8 +53,8 @@ You bet we do. <a href="mailto:academy@theironyard.com?subject=I want to take th
 
 #### Class details  
 
-**Cost**: FREE!
-**Next Class**: Tuesdays  
+**Cost**: FREE!  
+**Next Class**: October 14th, 2013    
 **Time**: 6:00-7:30pm  
 **Location**: Greenville, SC  
 **Address**: 411 University Ridge, Suite 220  
