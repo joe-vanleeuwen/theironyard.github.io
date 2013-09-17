@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-04-23 19:52:46+00:00
 layout: post
 slug: explore-the-mysteries-of-the-web-at-convergese

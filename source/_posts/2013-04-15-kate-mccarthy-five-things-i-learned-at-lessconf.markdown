@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-04-15 19:00:06+00:00
 layout: post
 slug: kate-mccarthy-five-things-i-learned-at-lessconf

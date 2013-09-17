@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2012-10-24 19:17:28+00:00
 layout: post
 slug: why-startups-in-south-carolina-because-were-one-of-the-top-states-for-business

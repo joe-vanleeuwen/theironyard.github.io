@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-04-22 18:42:28+00:00
 layout: post
 slug: southern-culture-technology

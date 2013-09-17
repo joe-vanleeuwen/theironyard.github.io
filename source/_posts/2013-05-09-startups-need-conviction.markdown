@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-05-09 16:13:22+00:00
 layout: post
 slug: startups-need-conviction

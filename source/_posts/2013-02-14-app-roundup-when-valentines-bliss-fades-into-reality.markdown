@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-02-14 16:08:52+00:00
 layout: post
 slug: app-roundup-when-valentines-bliss-fades-into-reality

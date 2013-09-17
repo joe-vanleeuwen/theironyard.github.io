@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-02-22 18:56:06+00:00
 layout: post
 slug: the-iron-yard-academy-front-end-engineering-class-applications-are-open

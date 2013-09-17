@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2012-11-12 21:02:26+00:00
 layout: post
 slug: its-time-to-take-a-stand-cowork-standing-desks

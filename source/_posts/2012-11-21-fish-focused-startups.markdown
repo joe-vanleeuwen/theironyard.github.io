@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2012-11-21 17:09:45+00:00
 layout: post
 slug: fish-focused-startups

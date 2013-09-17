@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-02-19 16:14:49+00:00
 layout: post
 slug: happy-birthday-peter

@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-02-28 16:37:34+00:00
 layout: post
 slug: work-and-play-with-cowork-railside

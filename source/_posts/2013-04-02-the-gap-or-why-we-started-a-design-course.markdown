@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-04-02 20:48:32+00:00
 layout: post
 slug: the-gap-or-why-we-started-a-design-course

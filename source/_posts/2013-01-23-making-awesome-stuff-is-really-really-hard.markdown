@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-01-23 17:39:20+00:00
 layout: post
 slug: making-awesome-stuff-is-really-really-hard

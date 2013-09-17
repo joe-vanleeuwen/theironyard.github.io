@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-01-28 14:18:17+00:00
 layout: post
 slug: welcome-kevin-crace-designer-in-residence

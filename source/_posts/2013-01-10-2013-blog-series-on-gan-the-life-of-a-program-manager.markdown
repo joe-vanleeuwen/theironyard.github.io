@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-01-10 15:08:27+00:00
 layout: post
 slug: 2013-blog-series-on-gan-the-life-of-a-program-manager

@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2012-10-19 15:48:21+00:00
 layout: post
 slug: fast-company-feature-andria-trivisonno-of-spent-gives-practical-advice-as-a-female-entrepreneur

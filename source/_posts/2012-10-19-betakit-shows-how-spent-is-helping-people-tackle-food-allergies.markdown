@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2012-10-19 16:18:21+00:00
 layout: post
 slug: betakit-shows-how-spent-is-helping-people-tackle-food-allergies

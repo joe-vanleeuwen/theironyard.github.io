@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-05-27 00:10:50+00:00
 layout: post
 slug: the-iron-yard-demo-days-spring-2013

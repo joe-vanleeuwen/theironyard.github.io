@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2012-09-26 20:13:27+00:00
 layout: post
 slug: introducing-coderdojo-greenville

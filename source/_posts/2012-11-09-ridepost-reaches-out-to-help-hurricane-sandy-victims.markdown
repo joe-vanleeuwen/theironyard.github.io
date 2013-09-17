@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2012-11-09 15:36:13+00:00
 layout: post
 slug: ridepost-reaches-out-to-help-hurricane-sandy-victims

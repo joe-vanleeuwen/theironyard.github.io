@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2012-11-27 16:08:59+00:00
 layout: post
 slug: what-the-iron-yard-learned-at-the-gan-founders-conference

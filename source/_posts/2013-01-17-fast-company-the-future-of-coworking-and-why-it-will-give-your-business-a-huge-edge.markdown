@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-01-17 19:05:30+00:00
 layout: post
 slug: fast-company-the-future-of-coworking-and-why-it-will-give-your-business-a-huge-edge

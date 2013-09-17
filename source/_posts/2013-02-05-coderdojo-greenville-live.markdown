@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-02-05 16:18:16+00:00
 layout: post
 slug: coderdojo-greenville-live

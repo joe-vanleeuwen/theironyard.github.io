@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-03-08 18:45:50+00:00
 layout: post
 slug: lazy-friday-links-vol-13

@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-01-31 21:18:34+00:00
 layout: post
 slug: getting-to-their-level-teaching-kids-to-code

@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-01-03 17:17:37+00:00
 layout: post
 slug: new-year-new-look-and-new-faces

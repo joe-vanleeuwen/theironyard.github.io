@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2012-12-17 19:17:19+00:00
 layout: post
 slug: truckylove-re-branded-locally-fm

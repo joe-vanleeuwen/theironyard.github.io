@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-05-04 13:41:58+00:00
 layout: post
 slug: what-we-learned-starting-an-intensive-design-class

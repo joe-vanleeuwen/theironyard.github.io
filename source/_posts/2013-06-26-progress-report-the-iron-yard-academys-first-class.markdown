@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-06-26 19:58:49+00:00
 layout: post
 slug: progress-report-the-iron-yard-academys-first-class

@@ -1,6 +1,6 @@
 ---
 author: Kevin
-comments: false
+comments: true
 date: 2013-02-15 21:19:16+00:00
 layout: post
 slug: lazy-friday-links-vol-11

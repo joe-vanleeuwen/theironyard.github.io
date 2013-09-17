@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2012-10-16 15:29:24+00:00
 layout: post
 slug: the-lamp-post-guild-awesome-kickstarter-project-from-iron-yard-alum-pathwright

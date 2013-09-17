@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2012-12-03 14:01:19+00:00
 layout: post
 slug: under30ceo-publishes-wise-words-on-startups-from-marty-and-ridepost

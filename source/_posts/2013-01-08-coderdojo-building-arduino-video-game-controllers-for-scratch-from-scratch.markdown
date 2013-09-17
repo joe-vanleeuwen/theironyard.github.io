@@ -1,6 +1,6 @@
 ---
 author: Anne
-comments: false
+comments: true
 date: 2013-01-08 15:19:09+00:00
 layout: post
 slug: coderdojo-building-arduino-video-game-controllers-for-scratch-from-scratch

@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-01-14 17:02:30+00:00
 layout: post
 slug: eric-made-the-front-page-of-local-news-beside-an-unrelated-article-about-downton-abbey

@@ -1,6 +1,6 @@
 ---
 author: eric
-comments: false
+comments: true
 date: 2013-02-13 20:57:33+00:00
 layout: post
 slug: iron-yard-alum-spent-focuses-on-relevance-and-releases-first-product-relify
