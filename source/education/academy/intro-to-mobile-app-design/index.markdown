@@ -18,6 +18,8 @@ parent_url: "/education/academy"
 
 Our world is quickly becoming a place where people's interaction with the web (and each other) happens primarily on mobile devices. At the end of 2012, there were 1.2 billion people using mobile apps, and that number is forecast to grow at almost 30% per year.
 
+We want to help designers navigate this exploding landscape by teaching the fundamentals of building user-centric apps and interfaces that cut through the noise. 
+
 ---
 <a id="schedule"></a>
 ### Course Overview
@@ -47,7 +49,7 @@ You bet we do. <a href="mailto:academy@theironyard.com?subject=I want to take th
 
 {% sidebar %}
 
-<a href="https://tito.io/the-iron-yard/greenville-labs-build-a-website-september-2013" class="button"> Sign up now! </a>  
+<a href="https://tito.io/the-iron-yard/intro-to-mobile-app-design-october-2013" class="button"> Sign up now! </a>  
 
 #### Class details  
 
