@@ -17,7 +17,7 @@ Not sure what Lazy Friday Links are?
 
 <!-- more -->
 
-We started this end-of-the-week tradition to celebrate productivity by engaging in meaningless disctraction. Well, mostly. We include a single thought-provoking link (so we don't feel like complete slackers), and a healthy drink from distraction-filled ocean of internet weirdness. We used to put the heady stuff first, but we'l
+We started this end-of-the-week tradition to celebrate productivity by engaging in meaningless disctraction. Well, mostly. We include a single thought-provoking link (so we don't feel like complete slackers), and a healthy drink from distraction-filled ocean of internet weirdness. We used to put the heady stuff first, but we'll save that for last so you don't have to bother if you don't want to. 
 
 *Also, as a sidenote, in yesterday's post, we mentioned that we're not going to sprinkle hyperlinks throughout our posts, forgoing the most common reference method for footnotes, like this.[^1] Because Lazy Friday Links is all about distraction, we'll ignore that rule. But only on Fridays.* 
 
