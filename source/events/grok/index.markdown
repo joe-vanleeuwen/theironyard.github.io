@@ -78,8 +78,8 @@ Below are the sponsors who help make Grok the real deal. We use and love these p
 
 #### Save the date for Grok 2014!
 
-### April 2-4
-We'll announce ticket sales this fall. [Sign up for our mailing list](http://eepurl.com/zUWBj) and be the first to know. 
+### April 3-5
+Ticket sales will go live at noon on Wednesday, 9/25/13. 
 
 * * *
 
