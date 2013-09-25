@@ -11,11 +11,17 @@ parent_url: "/events"
 
 <img src="/images/events/grok/grok2014-save-the-date.jpg" style="border-radius: 3px;">
 
-<hr>
+---
+
+<h4 style="text-align: center;"> <a href="https://tito.io/the-iron-yard/Grok-2014">Tickets are for sale!</a> </h4>
+
+---
 
 #### Thanks for making Grok 2013 incredible.
 
+<div class="video-container">
 <iframe src="http://player.vimeo.com/video/69313375" width="630" height="354" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 
 <p>Grok is amazing because of the people who attend and the honest conversations they have. We're thankful for old friends and new who continue to challenge the way we think about our work, year after year. We're also thankful for good southern food, kickball, laser tag, and beer.
 
@@ -79,7 +85,8 @@ Below are the sponsors who help make Grok the real deal. We use and love these p
 #### Save the date for Grok 2014!
 
 ### April 3-5
-Ticket sales will go live at noon on Wednesday, 9/25/13. 
+
+<a href="https://tito.io/the-iron-yard/Grok-2014" class="button">Get your ticket!</a>
 
 * * *
 
